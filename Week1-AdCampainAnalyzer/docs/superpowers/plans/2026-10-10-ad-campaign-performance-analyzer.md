@@ -8,7 +8,7 @@
 
 **Tech Stack:** Python 3.11+, Streamlit, pandas, Plotly, pytest, Streamlit AppTest
 
-**Spec:** `Week1/docs/superpowers/specs/2026-10-10-ad-campaign-performance-analyzer-design.md`
+**Spec:** `Week1-AdCampainAnalyzer/docs/superpowers/specs/2026-10-10-ad-campaign-performance-analyzer-design.md`
 
 ## Global Constraints
 
@@ -22,7 +22,7 @@
 - Use one filtered DataFrame for all four views.
 - Keep tests browser- and network-independent except for the explicit local Streamlit smoke command.
 - Do not add authentication, a database, live ad APIs, prediction, or campaign editing.
-- Follow the approved `Week1/docs/mockups/` layout while preferring Streamlit-native, keyboard-accessible controls.
+- Follow the approved `Week1-AdCampainAnalyzer/docs/mockups/` layout while preferring Streamlit-native, keyboard-accessible controls.
 - Show metric units in cards, tables, axes, legends, and hover labels; pair chart colors with visible labels.
 
 ## Review Focus
@@ -40,32 +40,32 @@
 | File | Responsibility |
 |---|---|
 | `.gitignore` | Exclude local environments, caches, coverage files, Streamlit secrets, and `.superpowers/` runtime state |
-| `Week1/requirements.txt` | Runtime and test dependencies |
-| `Week1/pytest.ini` | Test discovery and local import path |
-| `Week1/app.py` | Streamlit page composition, source selection, shared filters, tabs, empty and error states |
-| `Week1/src/data_loader.py` | CSV reading, column-name normalization, sample-data access |
-| `Week1/src/validation.py` | Schema coercion, blocking errors, non-blocking warnings |
-| `Week1/src/metrics.py` | Summary metric calculations and platform/campaign/time aggregations |
-| `Week1/src/filters.py` | Immutable filter selection and shared filtering |
-| `Week1/src/formatting.py` | Display formatting for currency, counts, percentages, and multipliers |
-| `Week1/src/charts.py` | Plotly figure factories with unit-aware labels |
-| `Week1/src/exporting.py` | Convert filtered summaries to deterministic UTF-8 CSV downloads |
-| `Week1/scripts/generate_sample_data.py` | Deterministic 90-day, 12-campaign sample-data generator |
-| `Week1/data/sample_campaigns.csv` | Bundled 1,080-row demonstration dataset |
-| `Week1/tests/` | Unit, aggregation, chart-contract, and Streamlit smoke tests |
-| `Week1/README.md` | Setup, run, test, schema, deployment, and project navigation |
-| `Week1/docs/*.md` | Class documentation, prompt/iteration log, and video script |
+| `Week1-AdCampainAnalyzer/requirements.txt` | Runtime and test dependencies |
+| `Week1-AdCampainAnalyzer/pytest.ini` | Test discovery and local import path |
+| `Week1-AdCampainAnalyzer/app.py` | Streamlit page composition, source selection, shared filters, tabs, empty and error states |
+| `Week1-AdCampainAnalyzer/src/data_loader.py` | CSV reading, column-name normalization, sample-data access |
+| `Week1-AdCampainAnalyzer/src/validation.py` | Schema coercion, blocking errors, non-blocking warnings |
+| `Week1-AdCampainAnalyzer/src/metrics.py` | Summary metric calculations and platform/campaign/time aggregations |
+| `Week1-AdCampainAnalyzer/src/filters.py` | Immutable filter selection and shared filtering |
+| `Week1-AdCampainAnalyzer/src/formatting.py` | Display formatting for currency, counts, percentages, and multipliers |
+| `Week1-AdCampainAnalyzer/src/charts.py` | Plotly figure factories with unit-aware labels |
+| `Week1-AdCampainAnalyzer/src/exporting.py` | Convert filtered summaries to deterministic UTF-8 CSV downloads |
+| `Week1-AdCampainAnalyzer/scripts/generate_sample_data.py` | Deterministic 90-day, 12-campaign sample-data generator |
+| `Week1-AdCampainAnalyzer/data/sample_campaigns.csv` | Bundled 1,080-row demonstration dataset |
+| `Week1-AdCampainAnalyzer/tests/` | Unit, aggregation, chart-contract, and Streamlit smoke tests |
+| `Week1-AdCampainAnalyzer/README.md` | Setup, run, test, schema, deployment, and project navigation |
+| `Week1-AdCampainAnalyzer/docs/*.md` | Class documentation, prompt/iteration log, and video script |
 
 ### Task 1: Project Foundation and Deterministic Sample Data
 
 **Files:**
 - Create: `.gitignore`
-- Create: `Week1/requirements.txt`
-- Create: `Week1/pytest.ini`
-- Create: `Week1/src/__init__.py`
-- Create: `Week1/scripts/generate_sample_data.py`
-- Create: `Week1/data/sample_campaigns.csv`
-- Create: `Week1/tests/test_sample_data.py`
+- Create: `Week1-AdCampainAnalyzer/requirements.txt`
+- Create: `Week1-AdCampainAnalyzer/pytest.ini`
+- Create: `Week1-AdCampainAnalyzer/src/__init__.py`
+- Create: `Week1-AdCampainAnalyzer/scripts/generate_sample_data.py`
+- Create: `Week1-AdCampainAnalyzer/data/sample_campaigns.csv`
+- Create: `Week1-AdCampainAnalyzer/tests/test_sample_data.py`
 
 **Interfaces:**
 - Produces: `generate_sample_data(seed: int = 42) -> pandas.DataFrame`
@@ -116,21 +116,21 @@ Expected: all sample-data tests PASS.
 - [ ] **Step 7: Commit**
 
 ```bash
-git add .gitignore Week1/requirements.txt Week1/pytest.ini Week1/src/__init__.py Week1/scripts/generate_sample_data.py Week1/data/sample_campaigns.csv Week1/tests/test_sample_data.py
+git add .gitignore Week1-AdCampainAnalyzer/requirements.txt Week1-AdCampainAnalyzer/pytest.ini Week1-AdCampainAnalyzer/src/__init__.py Week1-AdCampainAnalyzer/scripts/generate_sample_data.py Week1-AdCampainAnalyzer/data/sample_campaigns.csv Week1-AdCampainAnalyzer/tests/test_sample_data.py
 git commit -m "feat: add project foundation and sample campaign data"
 ```
 
 ### Task 2: CSV Loading and Validation
 
 **Files:**
-- Create: `Week1/src/data_loader.py`
-- Create: `Week1/src/validation.py`
-- Create: `Week1/tests/conftest.py`
-- Create: `Week1/tests/test_data_loader.py`
-- Create: `Week1/tests/test_validation.py`
+- Create: `Week1-AdCampainAnalyzer/src/data_loader.py`
+- Create: `Week1-AdCampainAnalyzer/src/validation.py`
+- Create: `Week1-AdCampainAnalyzer/tests/conftest.py`
+- Create: `Week1-AdCampainAnalyzer/tests/test_data_loader.py`
+- Create: `Week1-AdCampainAnalyzer/tests/test_validation.py`
 
 **Interfaces:**
-- Consumes: `Week1/data/sample_campaigns.csv`
+- Consumes: `Week1-AdCampainAnalyzer/data/sample_campaigns.csv`
 - Produces: `normalize_column_name(name: object) -> str`
 - Produces: `read_campaign_csv(source: str | pathlib.Path | BinaryIO) -> pandas.DataFrame`
 - Produces: `load_sample_data(path: pathlib.Path | None = None) -> pandas.DataFrame`
@@ -180,17 +180,17 @@ Expected: all data-layer tests PASS.
 - [ ] **Step 10: Commit**
 
 ```bash
-git add Week1/src/data_loader.py Week1/src/validation.py Week1/tests/conftest.py Week1/tests/test_data_loader.py Week1/tests/test_validation.py
+git add Week1-AdCampainAnalyzer/src/data_loader.py Week1-AdCampainAnalyzer/src/validation.py Week1-AdCampainAnalyzer/tests/conftest.py Week1-AdCampainAnalyzer/tests/test_data_loader.py Week1-AdCampainAnalyzer/tests/test_validation.py
 git commit -m "feat: validate campaign CSV data"
 ```
 
 ### Task 3: Metrics and Formatting
 
 **Files:**
-- Create: `Week1/src/metrics.py`
-- Create: `Week1/src/formatting.py`
-- Create: `Week1/tests/test_metrics.py`
-- Create: `Week1/tests/test_formatting.py`
+- Create: `Week1-AdCampainAnalyzer/src/metrics.py`
+- Create: `Week1-AdCampainAnalyzer/src/formatting.py`
+- Create: `Week1-AdCampainAnalyzer/tests/test_metrics.py`
+- Create: `Week1-AdCampainAnalyzer/tests/test_formatting.py`
 
 **Interfaces:**
 - Consumes: validated campaign DataFrames from Task 2
@@ -232,17 +232,17 @@ Expected: all metric and formatting tests PASS.
 - [ ] **Step 7: Commit**
 
 ```bash
-git add Week1/src/metrics.py Week1/src/formatting.py Week1/tests/test_metrics.py Week1/tests/test_formatting.py
+git add Week1-AdCampainAnalyzer/src/metrics.py Week1-AdCampainAnalyzer/src/formatting.py Week1-AdCampainAnalyzer/tests/test_metrics.py Week1-AdCampainAnalyzer/tests/test_formatting.py
 git commit -m "feat: calculate and format campaign metrics"
 ```
 
 ### Task 4: Shared Filters and Analytical Aggregations
 
 **Files:**
-- Create: `Week1/src/filters.py`
-- Modify: `Week1/src/metrics.py`
-- Create: `Week1/tests/test_filters.py`
-- Create: `Week1/tests/test_aggregations.py`
+- Create: `Week1-AdCampainAnalyzer/src/filters.py`
+- Modify: `Week1-AdCampainAnalyzer/src/metrics.py`
+- Create: `Week1-AdCampainAnalyzer/tests/test_filters.py`
+- Create: `Week1-AdCampainAnalyzer/tests/test_aggregations.py`
 
 **Interfaces:**
 - Consumes: `add_ratio_metrics` from Task 3
@@ -286,15 +286,15 @@ Expected: all calculation tests PASS.
 - [ ] **Step 8: Commit**
 
 ```bash
-git add Week1/src/filters.py Week1/src/metrics.py Week1/tests/test_filters.py Week1/tests/test_aggregations.py
+git add Week1-AdCampainAnalyzer/src/filters.py Week1-AdCampainAnalyzer/src/metrics.py Week1-AdCampainAnalyzer/tests/test_filters.py Week1-AdCampainAnalyzer/tests/test_aggregations.py
 git commit -m "feat: add shared filters and campaign aggregations"
 ```
 
 ### Task 5: Plotly Figure Factories
 
 **Files:**
-- Create: `Week1/src/charts.py`
-- Create: `Week1/tests/test_charts.py`
+- Create: `Week1-AdCampainAnalyzer/src/charts.py`
+- Create: `Week1-AdCampainAnalyzer/tests/test_charts.py`
 
 **Interfaces:**
 - Consumes: aggregate DataFrames from Task 4
@@ -324,17 +324,17 @@ Expected: all chart tests PASS.
 - [ ] **Step 5: Commit**
 
 ```bash
-git add Week1/src/charts.py Week1/tests/test_charts.py
+git add Week1-AdCampainAnalyzer/src/charts.py Week1-AdCampainAnalyzer/tests/test_charts.py
 git commit -m "feat: add campaign analysis charts"
 ```
 
 ### Task 6: Streamlit Application and Four Views
 
 **Files:**
-- Create: `Week1/app.py`
-- Create: `Week1/src/exporting.py`
-- Create: `Week1/tests/test_app.py`
-- Create: `Week1/tests/test_exporting.py`
+- Create: `Week1-AdCampainAnalyzer/app.py`
+- Create: `Week1-AdCampainAnalyzer/src/exporting.py`
+- Create: `Week1-AdCampainAnalyzer/tests/test_app.py`
+- Create: `Week1-AdCampainAnalyzer/tests/test_exporting.py`
 
 **Interfaces:**
 - Consumes: every public interface from Tasks 2–5
@@ -388,19 +388,19 @@ Expected: process starts and reports a local URL without an exception; stop it a
 - [ ] **Step 11: Commit**
 
 ```bash
-git add Week1/app.py Week1/src/exporting.py Week1/tests/test_app.py Week1/tests/test_exporting.py
+git add Week1-AdCampainAnalyzer/app.py Week1-AdCampainAnalyzer/src/exporting.py Week1-AdCampainAnalyzer/tests/test_app.py Week1-AdCampainAnalyzer/tests/test_exporting.py
 git commit -m "feat: build campaign performance dashboard"
 ```
 
 ### Task 7: Class Documentation and Release Validation
 
 **Files:**
-- Create: `Week1/README.md`
-- Create: `Week1/docs/project-documentation.md`
-- Create: `Week1/docs/prompt-log.md`
-- Create: `Week1/docs/bug-and-iteration-log.md`
-- Create: `Week1/docs/video-demo-script.md`
-- Modify: `Week1/docs/superpowers/specs/2026-10-10-ad-campaign-performance-analyzer-design.md`
+- Create: `Week1-AdCampainAnalyzer/README.md`
+- Create: `Week1-AdCampainAnalyzer/docs/project-documentation.md`
+- Create: `Week1-AdCampainAnalyzer/docs/prompt-log.md`
+- Create: `Week1-AdCampainAnalyzer/docs/bug-and-iteration-log.md`
+- Create: `Week1-AdCampainAnalyzer/docs/video-demo-script.md`
+- Modify: `Week1-AdCampainAnalyzer/docs/superpowers/specs/2026-10-10-ad-campaign-performance-analyzer-design.md`
 
 **Interfaces:**
 - Consumes: final application behavior and verification evidence from Tasks 1–6
@@ -444,6 +444,6 @@ Manually verify both data-source modes, all global filters, all four views, metr
 - [ ] **Step 8: Commit**
 
 ```bash
-git add Week1/README.md Week1/docs/project-documentation.md Week1/docs/prompt-log.md Week1/docs/bug-and-iteration-log.md Week1/docs/video-demo-script.md Week1/docs/superpowers/specs/2026-10-10-ad-campaign-performance-analyzer-design.md
+git add Week1-AdCampainAnalyzer/README.md Week1-AdCampainAnalyzer/docs/project-documentation.md Week1-AdCampainAnalyzer/docs/prompt-log.md Week1-AdCampainAnalyzer/docs/bug-and-iteration-log.md Week1-AdCampainAnalyzer/docs/video-demo-script.md Week1-AdCampainAnalyzer/docs/superpowers/specs/2026-10-10-ad-campaign-performance-analyzer-design.md
 git commit -m "docs: complete campaign analyzer submission materials"
 ```

@@ -45,7 +45,7 @@ Mention the recorded sandbox socket issue and explain that the unchanged app pas
 
 ## 4:15–4:45 — Tests, takeaways, and repository
 
-Show a terminal in `Week1/` and run:
+Show a terminal in `Week1-AdCampainAnalyzer/` and run:
 
 ```bash
 python -m pytest -v

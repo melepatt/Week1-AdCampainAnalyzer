@@ -22,7 +22,7 @@ These PNG files are sized for inclusion in the project documentation and present
 Run the following command from the repository root:
 
 ```bash
-node Week1/docs/mockups/capture_mockups.cjs
+node Week1-AdCampainAnalyzer/docs/mockups/capture_mockups.cjs
 ```
 
 The capture script requires Playwright and a local Google Chrome installation.

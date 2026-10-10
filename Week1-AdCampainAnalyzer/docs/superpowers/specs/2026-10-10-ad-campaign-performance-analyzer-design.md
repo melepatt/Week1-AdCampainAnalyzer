@@ -84,7 +84,7 @@ Bundled sample CSV or uploaded CSV
 Recommended project structure:
 
 ```text
-Week1/
+Week1-AdCampainAnalyzer/
 ├── app.py
 ├── requirements.txt
 ├── README.md

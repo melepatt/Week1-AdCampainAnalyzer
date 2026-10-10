@@ -86,14 +86,14 @@ A zero denominator displays as `N/A`.
 
 1. Push the repository to GitHub.
 2. In Streamlit Community Cloud, create an app from the repository.
-3. Set the app file to `Week1/app.py`.
-4. Deploy; dependencies are installed from `Week1/requirements.txt`.
+3. Set the app file to `Week1-AdCampainAnalyzer/app.py`.
+4. Deploy; dependencies are installed from `Week1-AdCampainAnalyzer/requirements.txt`.
 
 ### Replit
 
 1. Import the GitHub repository into a Python Repl.
-2. Install with `pip install -r Week1/requirements.txt`.
-3. Use this run command: `streamlit run Week1/app.py --server.address 0.0.0.0 --server.port 3000`.
+2. Install with `pip install -r Week1-AdCampainAnalyzer/requirements.txt`.
+3. Use this run command: `streamlit run Week1-AdCampainAnalyzer/app.py --server.address 0.0.0.0 --server.port 3000`.
 4. Open the generated web preview.
 
 ## Project materials
