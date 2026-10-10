@@ -104,5 +104,5 @@ Final review also found and resolved source-transition, integer-boundary, missin
 
 - GitHub repository: <https://github.com/melepatt/Week1-AdCampainAnalyzer>
 - Project directory on GitHub: <https://github.com/melepatt/Week1-AdCampainAnalyzer/tree/main/Week1-AdCampainAnalyzer>
+- AI prompt log: [docs/prompt-log.md](prompt-log.md)
 - Saved mockups: `docs/mockups/`
-  
