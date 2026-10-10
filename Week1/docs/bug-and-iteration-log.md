@@ -46,8 +46,8 @@
 
 - **Symptom:** A CSV with dates or categories disjoint from the sample could inherit incompatible filter state. Extremely large integer counts could also overflow during `int64` conversion, missing columns could hide other detectable errors, and zero-denominator ratios appeared as blank table cells.
 - **Cause:** Filter state had no source identity, count validation did not enforce the `int64` upper bound, validation returned immediately for missing columns, and table preparation only renamed headers.
-- **Change:** Added content-derived upload identity and source-aware filter reconciliation; added integer-range validation; continued checking every present column when others are missing; and prepared ratio tables/downloads with explicit `N/A` values.
-- **Verification:** Added five RED–GREEN regression tests covering source resets, intentional empty selections, integer overflow, aggregated error reporting, and `N/A` table values. All tests pass.
+- **Change:** Added content-derived upload identity and source-aware filter reconciliation; added exact decimal parsing and integer-range validation for counts; continued checking every present column when others are missing; and prepared ratio tables/downloads with explicit `N/A` values.
+- **Verification:** Added RED–GREEN regressions covering source resets, intentional empty selections, exact decimal and scientific-notation overflow, aggregated error reporting, and `N/A` table values. All tests pass.
 
 ## 2026-10-10 — Plotly and layout controls require different width arguments
 

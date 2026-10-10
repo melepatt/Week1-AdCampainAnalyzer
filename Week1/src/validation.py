@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from decimal import Decimal, InvalidOperation
 
 import numpy as np
 import pandas as pd
@@ -25,6 +26,13 @@ class ValidationResult:
 
 def _row_count(mask: pd.Series) -> int:
     return int(mask.fillna(False).sum())
+
+
+def _parse_decimal(value: str) -> Decimal | None:
+    try:
+        return Decimal(value)
+    except InvalidOperation:
+        return None
 
 
 def validate_campaign_data(frame: pd.DataFrame) -> ValidationResult:
@@ -72,27 +80,49 @@ def validate_campaign_data(frame: pd.DataFrame) -> ValidationResult:
         if column not in data:
             continue
         raw = data[column].astype("string").fillna("").str.strip()
-        numeric = pd.to_numeric(raw, errors="coerce")
-        non_numeric = numeric.isna()
+        if column in COUNT_COLUMNS:
+            decimals = raw.map(_parse_decimal)
+            non_numeric = decimals.map(lambda value: value is None)
+            finite = decimals.map(lambda value: value is not None and value.is_finite())
+            non_finite = ~non_numeric & ~finite
+            negative = decimals.map(
+                lambda value: value is not None and value.is_finite() and value < 0
+            )
+            fractional = decimals.map(
+                lambda value: value is not None
+                and value.is_finite()
+                and value != value.to_integral_value()
+            )
+            out_of_range = decimals.map(
+                lambda value: value is not None
+                and value.is_finite()
+                and value > np.iinfo(np.int64).max
+            )
+            numeric_values[column] = decimals.map(
+                lambda value: int(value) if value is not None and value.is_finite() else None
+            )
+        else:
+            numeric = pd.to_numeric(raw, errors="coerce")
+            non_numeric = numeric.isna()
+            finite = pd.Series(np.isfinite(numeric.to_numpy(dtype=float)), index=data.index)
+            non_finite = numeric.notna() & ~finite
+            negative = finite & numeric.lt(0)
+            fractional = pd.Series(False, index=data.index)
+            out_of_range = pd.Series(False, index=data.index)
+            numeric_values[column] = numeric
         if non_numeric.any():
             errors.append(f"Column '{column}' has {_row_count(non_numeric)} non-numeric value(s).")
-        finite = pd.Series(np.isfinite(numeric.to_numpy(dtype=float)), index=data.index)
-        non_finite = numeric.notna() & ~finite
         if non_finite.any():
             errors.append(f"Column '{column}' has {_row_count(non_finite)} non-finite value(s).")
-        negative = finite & numeric.lt(0)
         if negative.any():
             errors.append(f"Column '{column}' has {_row_count(negative)} negative value(s).")
         if column in COUNT_COLUMNS:
-            fractional = finite & numeric.mod(1).ne(0)
             if fractional.any():
                 errors.append(f"Column '{column}' has {_row_count(fractional)} fractional count(s).")
-            out_of_range = finite & numeric.gt(np.iinfo(np.int64).max)
             if out_of_range.any():
                 errors.append(
                     f"Column '{column}' has {_row_count(out_of_range)} value(s) outside the supported integer range."
                 )
-        numeric_values[column] = numeric
 
     if errors:
         return ValidationResult(None, tuple(sorted(set(errors))), ())

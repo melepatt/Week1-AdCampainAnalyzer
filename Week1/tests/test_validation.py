@@ -100,8 +100,9 @@ def test_validation_never_returns_non_finite_numeric_values(valid_campaign_frame
     )
 
 
-def test_count_larger_than_int64_is_rejected(valid_campaign_frame):
-    valid_campaign_frame.loc[0, "impressions"] = str(2**63)
+@pytest.mark.parametrize("value", [str(2**63), "9.223372036854777e18"])
+def test_count_larger_than_int64_is_rejected(valid_campaign_frame, value):
+    valid_campaign_frame.loc[0, "impressions"] = value
     result = validate_campaign_data(valid_campaign_frame)
     assert result.data is None
     assert any("impressions" in message and "integer range" in message for message in result.errors)
