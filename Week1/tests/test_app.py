@@ -37,3 +37,7 @@ def test_clearing_a_category_filter_shows_shared_empty_state():
 
     messages = [item.value for item in app.info]
     assert "No campaign records match the selected filters. Broaden or reset the filters to continue." in messages
+
+
+def test_app_uses_current_streamlit_width_api():
+    assert "use_container_width" not in APP_PATH.read_text(encoding="utf-8")

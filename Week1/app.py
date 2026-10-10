@@ -137,7 +137,7 @@ def _render_filters(data: pd.DataFrame) -> FilterSelection:
         "Reset filters",
         on_click=_reset_filters,
         args=(min_date, max_date, platforms, audiences, goals),
-        use_container_width=True,
+        width="stretch",
     )
     if isinstance(selected_dates, (tuple, list)) and len(selected_dates) == 2:
         start_date, end_date = selected_dates
@@ -169,9 +169,9 @@ def _render_overview(filtered: pd.DataFrame, source_name: str) -> None:
     supporting[1].metric("ROAS (multiplier)", format_multiplier(summary["roas"]), help="ROAS is revenue divided by spend.")
     st.caption(f"Source: {source_name} · {len(filtered):,} filtered daily record(s)")
     weekly = aggregate_time_series(filtered, "Weekly")
-    st.plotly_chart(build_spend_conversions_chart(weekly), use_container_width=True)
+    st.plotly_chart(build_spend_conversions_chart(weekly), width="stretch")
     platforms = aggregate_by_platform(filtered)
-    st.plotly_chart(build_platform_metric_chart(platforms, "roi"), use_container_width=True)
+    st.plotly_chart(build_platform_metric_chart(platforms, "roi"), width="stretch")
 
 
 def _render_platform_comparison(filtered: pd.DataFrame) -> None:
@@ -183,12 +183,12 @@ def _render_platform_comparison(filtered: pd.DataFrame) -> None:
         metric_options,
         format_func=lambda value: METRIC_LABELS[value],
     )
-    st.plotly_chart(build_platform_metric_chart(platform_frame, metric), use_container_width=True)
+    st.plotly_chart(build_platform_metric_chart(platform_frame, metric), width="stretch")
     missing = sorted({"Facebook", "Instagram", "Pinterest", "Twitter"} - set(platform_frame["platform"]))
     if missing:
         st.caption("No matching records for: " + ", ".join(missing))
     selected_columns = ["platform", "spend", "clicks", "conversions", "revenue", "cpa", "roas", "roi"]
-    st.dataframe(_display_table(platform_frame[selected_columns]), hide_index=True, use_container_width=True)
+    st.dataframe(_display_table(platform_frame[selected_columns]), hide_index=True, width="stretch")
     st.download_button(
         "Download platform summary CSV",
         dataframe_to_csv_bytes(platform_frame[selected_columns]),
@@ -205,7 +205,7 @@ def _render_campaign_details(filtered: pd.DataFrame) -> None:
         match |= campaign_frame["campaign_name"].str.contains(query, case=False, na=False, regex=False)
         campaign_frame = campaign_frame.loc[match].reset_index(drop=True)
     st.caption(f"Showing {len(campaign_frame):,} campaign(s)")
-    st.dataframe(_display_table(campaign_frame), hide_index=True, use_container_width=True)
+    st.dataframe(_display_table(campaign_frame), hide_index=True, width="stretch")
     st.download_button(
         "Download campaign details CSV",
         dataframe_to_csv_bytes(campaign_frame),
@@ -221,7 +221,7 @@ def _render_time_series(filtered: pd.DataFrame) -> None:
     frequency = controls[1].selectbox("Time aggregation", ("Daily", "Weekly", "Monthly"), index=1)
     breakdown = controls[2].toggle("Break down by platform", value=False)
     time_frame = aggregate_time_series(filtered, frequency, breakdown)
-    st.plotly_chart(build_time_series_chart(time_frame, metric, breakdown), use_container_width=True)
+    st.plotly_chart(build_time_series_chart(time_frame, metric, breakdown), width="stretch")
 
 
 def render_dashboard() -> None:
