@@ -1,0 +1,1465 @@
+date,campaign_id,campaign_name,platform,audience,campaign_goal,spend,impressions,clicks,conversions,revenue
+2026-04-01,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,129.14,11328,228,3,69.84
+2026-04-01,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,114.58,8747,274,14,799.82
+2026-04-01,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,100.44,10249,420,10,340.00
+2026-04-01,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,139.86,11100,430,26,1636.18
+2026-04-01,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,95.95,12146,455,14,605.64
+2026-04-01,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,81.42,9693,273,21,977.76
+2026-04-01,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,93.47,8736,225,3,82.74
+2026-04-01,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,119.81,8437,205,17,1292.00
+2026-04-02,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,136.54,11977,244,3,70.92
+2026-04-02,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,121.02,9238,293,15,870.00
+2026-04-02,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,97.09,9907,410,10,345.10
+2026-04-02,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,135.35,10742,420,27,1724.22
+2026-04-02,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,101.41,12837,444,15,611.10
+2026-04-02,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,85.98,10236,291,20,945.60
+2026-04-02,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,90.39,8448,220,3,84.00
+2026-04-02,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,115.99,8168,200,17,1311.38
+2026-04-03,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,144.10,12640,260,4,96.00
+2026-04-03,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,117.05,8935,286,15,883.05
+2026-04-03,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,102.63,10472,438,11,385.22
+2026-04-03,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,142.94,11344,448,26,1563.64
+2026-04-03,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,98.01,12406,433,13,537.81
+2026-04-03,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,83.19,9904,284,21,1008.00
+2026-04-03,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,95.52,8927,234,3,85.26
+2026-04-03,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,122.45,8623,213,19,1487.32
+2026-04-04,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,117.43,10301,214,3,73.08
+2026-04-04,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,104.11,7947,257,13,776.62
+2026-04-04,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,91.19,9305,393,9,296.82
+2026-04-04,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,116.40,9238,337,20,1221.40
+2026-04-04,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,87.23,11042,390,12,504.00
+2026-04-04,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,73.96,8805,255,19,925.68
+2026-04-04,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,77.72,7264,193,2,57.68
+2026-04-04,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,99.75,7025,175,16,1179.52
+2026-04-05,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,113.84,9986,210,3,74.16
+2026-04-05,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,92.43,7056,230,12,675.12
+2026-04-05,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,81.05,8270,353,8,267.92
+2026-04-05,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,112.90,8960,330,21,1302.00
+2026-04-05,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,84.53,10700,381,12,511.56
+2026-04-05,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,65.69,7820,229,18,889.92
+2026-04-05,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,75.44,7050,189,2,54.32
+2026-04-05,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,96.73,6812,157,13,973.18
+2026-04-06,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,128.40,11263,239,3,69.84
+2026-04-06,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,113.85,8691,286,15,856.95
+2026-04-06,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,99.74,10178,401,10,340.00
+2026-04-06,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,127.25,10099,376,24,1510.32
+2026-04-06,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,95.38,12073,435,13,562.38
+2026-04-06,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,80.89,9630,285,20,931.20
+2026-04-06,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,92.81,8674,235,3,82.74
+2026-04-06,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,109.06,7680,179,15,1140.00
+2026-04-07,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,135.68,11902,255,4,94.56
+2026-04-07,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,110.11,8405,280,15,870.00
+2026-04-07,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,96.58,9855,392,9,310.59
+2026-04-07,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,134.56,10679,402,24,1532.64
+2026-04-07,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,100.76,12754,464,14,570.36
+2026-04-07,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,78.26,9317,278,21,992.88
+2026-04-07,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,89.90,8402,210,3,84.00
+2026-04-07,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,115.29,8119,191,17,1311.38
+2026-04-08,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,131.29,11517,249,3,72.00
+2026-04-08,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,116.44,8889,273,14,824.18
+2026-04-08,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,102.03,10411,418,10,350.20
+2026-04-08,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,130.10,10325,392,24,1443.36
+2026-04-08,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,97.53,12346,453,14,579.18
+2026-04-08,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,82.74,9850,297,23,1104.00
+2026-04-08,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,94.94,8873,224,3,85.26
+2026-04-08,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,111.51,7853,187,15,1174.20
+2026-04-09,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,138.72,12168,266,4,97.44
+2026-04-09,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,122.91,9382,291,15,896.10
+2026-04-09,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,98.71,10072,409,10,329.80
+2026-04-09,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,137.55,10917,419,27,1648.89
+2026-04-09,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,103.02,13041,484,16,672.00
+2026-04-09,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,79.98,9521,265,18,876.96
+2026-04-09,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,91.89,8588,219,3,86.52
+2026-04-09,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,117.86,8300,199,17,1253.24
+2026-04-10,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,134.12,11765,237,3,74.16
+2026-04-10,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,118.97,9082,285,15,843.90
+2026-04-10,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,104.27,10640,436,11,368.39
+2026-04-10,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,145.17,11521,447,26,1612.00
+2026-04-10,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,99.64,12613,472,14,596.82
+2026-04-10,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,84.54,10064,283,21,1038.24
+2026-04-10,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,97.03,9068,233,3,81.48
+2026-04-10,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,113.91,8022,194,17,1272.62
+2026-04-11,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,119.32,10467,213,3,69.84
+2026-04-11,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,105.75,8073,256,13,742.69
+2026-04-11,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,84.88,8661,359,8,272.00
+2026-04-11,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,118.30,9389,367,22,1384.46
+2026-04-11,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,88.62,11218,388,12,519.12
+2026-04-11,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,75.12,8943,254,19,884.64
+2026-04-11,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,79.02,7385,192,2,55.16
+2026-04-11,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,101.38,7139,175,16,1216.00
+2026-04-12,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,105.89,9289,191,3,70.92
+2026-04-12,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,93.95,7172,230,12,696.00
+2026-04-12,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,82.36,8404,351,8,276.08
+2026-04-12,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,114.68,9102,360,22,1404.92
+2026-04-12,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,78.68,9959,348,11,448.14
+2026-04-12,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,66.77,7949,228,18,851.04
+2026-04-12,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,76.65,7164,188,2,56.00
+2026-04-12,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,98.24,6918,171,14,1079.96
+2026-04-13,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,130.48,11446,238,3,72.00
+2026-04-13,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,115.66,8829,285,15,883.05
+2026-04-13,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,92.78,9467,400,10,350.20
+2026-04-13,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,129.35,10266,375,24,1443.36
+2026-04-13,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,96.92,12268,433,13,537.81
+2026-04-13,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,82.17,9782,284,20,960.00
+2026-04-13,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,86.38,8073,214,3,85.26
+2026-04-13,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,110.85,7806,195,17,1330.76
+2026-04-14,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,137.80,12088,254,4,97.44
+2026-04-14,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,111.94,8545,279,15,896.10
+2026-04-14,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,98.15,10015,427,10,329.80
+2026-04-14,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,136.69,10848,400,23,1404.61
+2026-04-14,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,93.73,11865,423,13,546.00
+2026-04-14,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,79.56,9471,277,20,974.40
+2026-04-14,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,91.34,8536,229,3,86.52
+2026-04-14,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,117.10,8246,190,17,1253.24
+2026-04-15,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,133.44,11705,248,3,74.16
+2026-04-15,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,118.30,9031,298,15,843.90
+2026-04-15,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,103.63,10574,416,10,334.90
+2026-04-15,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,132.27,10498,391,24,1488.00
+2026-04-15,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,99.12,12547,452,14,596.82
+2026-04-15,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,84.05,10006,296,23,1137.12
+2026-04-15,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,88.32,8254,223,3,81.48
+2026-04-15,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,113.36,7983,186,15,1122.90
+2026-04-16,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,140.91,12361,265,4,93.12
+2026-04-16,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,114.40,8733,291,15,856.95
+2026-04-16,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,100.33,10238,407,10,340.00
+2026-04-16,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,139.75,11091,417,26,1636.18
+2026-04-16,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,104.63,13244,482,16,692.16
+2026-04-16,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,81.31,9680,289,20,931.20
+2026-04-16,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,93.38,8727,218,3,82.74
+2026-04-16,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,119.73,8432,198,17,1292.00
+2026-04-17,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,136.34,11960,259,4,94.56
+2026-04-17,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,120.89,9228,283,15,870.00
+2026-04-17,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,105.91,10807,434,11,379.61
+2026-04-17,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,135.12,10724,408,23,1468.78
+2026-04-17,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,101.28,12820,471,14,570.36
+2026-04-17,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,85.90,10226,308,22,1040.16
+2026-04-17,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,98.55,9210,232,3,84.00
+2026-04-17,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,115.81,8156,194,17,1311.38
+2026-04-18,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,121.22,10633,232,3,72.00
+2026-04-18,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,98.37,7509,233,11,647.57
+2026-04-18,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,86.28,8804,357,8,280.16
+2026-04-18,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,120.21,9540,366,22,1323.08
+2026-04-18,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,90.02,11395,423,13,537.81
+2026-04-18,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,69.92,8324,232,18,864.00
+2026-04-18,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,80.31,7506,191,2,56.84
+2026-04-18,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,103.00,7254,174,16,1252.48
+2026-04-19,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,107.66,9444,190,3,73.08
+2026-04-19,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,95.48,7289,229,12,716.88
+2026-04-19,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,83.67,8538,350,8,263.84
+2026-04-19,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,106.68,8467,328,20,1221.40
+2026-04-19,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,79.98,10124,379,12,504.00
+2026-04-19,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,67.84,8076,227,18,876.96
+2026-04-19,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,77.85,7276,187,2,57.68
+2026-04-19,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,91.44,6439,156,13,958.36
+2026-04-20,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,132.57,11629,237,3,74.16
+2026-04-20,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,117.46,8966,284,15,843.90
+2026-04-20,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,94.33,9626,399,10,334.90
+2026-04-20,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,131.45,10433,408,26,1612.00
+2026-04-20,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,98.45,12462,431,13,554.19
+2026-04-20,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,76.43,9099,259,18,889.92
+2026-04-20,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,87.81,8207,213,3,81.48
+2026-04-20,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,112.64,7932,194,17,1272.62
+2026-04-21,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,128.26,11251,232,3,69.84
+2026-04-21,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,113.78,8685,278,15,856.95
+2026-04-21,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,99.72,10176,426,10,340.00
+2026-04-21,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,138.83,11018,435,25,1573.25
+2026-04-21,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,95.29,12062,421,13,562.38
+2026-04-21,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,80.85,9625,276,20,931.20
+2026-04-21,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,92.79,8672,228,3,82.74
+2026-04-21,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,108.93,7671,190,17,1292.00
+2026-04-22,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,135.60,11895,247,3,70.92
+2026-04-22,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,120.17,9173,296,15,870.00
+2026-04-22,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,96.45,9842,416,10,345.10
+2026-04-22,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,134.44,10670,389,24,1532.64
+2026-04-22,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,100.71,12748,450,14,570.36
+2026-04-22,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,85.36,10162,295,23,1087.44
+2026-04-22,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,89.79,8392,223,3,84.00
+2026-04-22,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,115.20,8113,203,16,1234.24
+2026-04-23,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,131.08,11498,241,3,72.00
+2026-04-23,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,116.30,8878,290,15,883.05
+2026-04-23,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,101.94,10402,444,11,385.22
+2026-04-23,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,141.95,11266,415,26,1563.64
+2026-04-23,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,97.39,12328,439,14,579.18
+2026-04-23,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,82.64,9838,288,20,960.00
+2026-04-23,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,94.87,8866,237,3,85.26
+2026-04-23,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,121.61,8564,197,17,1330.76
+2026-04-24,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,138.56,12154,258,4,97.44
+2026-04-24,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,122.81,9375,309,17,1015.58
+2026-04-24,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,98.52,10053,396,10,329.80
+2026-04-24,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,137.35,10901,406,23,1404.61
+2026-04-24,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,102.91,13027,469,14,588.00
+2026-04-24,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,87.25,10387,307,22,1071.84
+2026-04-24,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,91.73,8573,232,3,86.52
+2026-04-24,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,117.71,8289,193,17,1253.24
+2026-04-25,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,123.11,10799,231,3,74.16
+2026-04-25,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,100.01,7634,254,12,675.12
+2026-04-25,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,87.68,8947,356,8,267.92
+2026-04-25,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,122.12,9692,365,22,1364.00
+2026-04-25,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,83.74,10600,385,12,511.56
+2026-04-25,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,71.07,8461,253,19,939.36
+2026-04-25,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,81.61,7627,190,2,54.32
+2026-04-25,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,104.62,7368,173,16,1197.76
+2026-04-26,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,109.42,9598,208,3,69.84
+2026-04-26,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,97.01,7405,227,12,685.56
+2026-04-26,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,84.97,8670,348,8,272.00
+2026-04-26,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,108.46,8608,327,20,1258.60
+2026-04-26,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,81.28,10289,378,12,519.12
+2026-04-26,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,68.92,8205,247,19,884.64
+2026-04-26,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,72.42,6768,171,2,55.16
+2026-04-26,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,92.95,6546,156,13,988.00
+2026-04-27,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,134.66,11812,258,4,94.56
+2026-04-27,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,109.33,8346,259,14,812.00
+2026-04-27,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,95.88,9784,397,10,345.10
+2026-04-27,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,133.56,10600,407,26,1660.36
+2026-04-27,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,99.99,12657,469,14,570.36
+2026-04-27,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,77.71,9251,258,18,851.04
+2026-04-27,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,89.24,8340,213,3,84.00
+2026-04-27,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,114.43,8058,193,17,1311.38
+2026-04-28,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,130.38,11437,231,3,72.00
+2026-04-28,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,115.61,8825,277,15,883.05
+2026-04-28,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,101.29,10336,424,10,350.20
+2026-04-28,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,129.22,10256,398,23,1383.22
+2026-04-28,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,96.85,12259,459,14,579.18
+2026-04-28,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,82.14,9779,275,20,960.00
+2026-04-28,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,94.24,8807,227,3,85.26
+2026-04-28,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,110.75,7799,189,17,1330.76
+2026-04-29,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,137.75,12083,246,3,73.08
+2026-04-29,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,111.78,8533,270,13,776.62
+2026-04-29,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,98.05,10005,414,10,329.80
+2026-04-29,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,136.60,10841,424,26,1587.82
+2026-04-29,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,102.29,12948,447,14,588.00
+2026-04-29,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,79.45,9458,269,21,1023.12
+2026-04-29,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,91.26,8529,222,3,86.52
+2026-04-29,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,117.04,8242,202,16,1179.52
+2026-04-30,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,133.26,11689,241,3,74.16
+2026-04-30,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,118.19,9022,289,15,843.90
+2026-04-30,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,103.56,10567,442,11,368.39
+2026-04-30,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,132.05,10480,414,26,1612.00
+2026-04-30,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,99.00,12532,438,14,596.82
+2026-04-30,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,83.98,9998,287,20,988.80
+2026-04-30,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,96.37,9007,237,3,81.48
+2026-04-30,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,113.19,7971,197,17,1272.62
+2026-05-01,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,133.36,11698,243,3,69.84
+2026-05-01,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,130.81,9985,323,17,971.21
+2026-05-01,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,109.76,11200,473,12,408.00
+2026-05-01,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,158.62,12589,459,26,1636.18
+2026-05-01,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,108.09,13682,483,14,605.64
+2026-05-01,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,87.17,10377,301,22,1024.32
+2026-05-01,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,96.97,9063,240,3,82.74
+2026-05-01,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,135.55,9546,238,21,1596.00
+2026-05-02,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,108.56,9523,200,3,70.92
+2026-05-02,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,106.61,8138,266,13,754.00
+2026-05-02,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,97.62,9961,425,10,345.10
+2026-05-02,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,140.94,11186,412,25,1596.50
+2026-05-02,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,88.02,11142,397,12,488.88
+2026-05-02,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,77.58,9236,271,20,945.60
+2026-05-02,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,86.22,8058,216,3,84.00
+2026-05-02,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,110.30,7768,179,16,1234.24
+2026-05-03,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,105.34,9240,196,3,72.00
+2026-05-03,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,103.34,7889,260,13,765.31
+2026-05-03,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,86.66,8843,348,8,280.16
+2026-05-03,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,125.27,9942,370,23,1383.22
+2026-05-03,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,85.38,10808,389,13,537.81
+2026-05-03,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,75.18,8950,265,21,1008.00
+2026-05-03,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,76.57,7156,193,2,56.84
+2026-05-03,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,107.06,7539,176,15,1174.20
+2026-05-04,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,118.67,10410,223,3,73.08
+2026-05-04,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,116.56,8898,296,16,955.84
+2026-05-04,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,106.75,10893,433,11,362.78
+2026-05-04,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,154.16,12235,460,30,1832.10
+2026-05-04,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,96.22,12180,443,13,546.00
+2026-05-04,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,84.83,10099,302,21,1023.12
+2026-05-04,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,94.29,8812,220,3,86.52
+2026-05-04,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,131.71,9275,218,19,1400.68
+2026-05-05,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,125.53,11011,238,3,74.16
+2026-05-05,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,123.18,9403,289,16,900.16
+2026-05-05,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,103.24,10535,423,10,334.90
+2026-05-05,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,149.26,11846,450,26,1612.00
+2026-05-05,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,101.75,12880,473,14,596.82
+2026-05-05,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,89.62,10669,322,24,1186.56
+2026-05-05,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,91.23,8526,215,3,81.48
+2026-05-05,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,127.57,8984,213,19,1422.34
+2026-05-06,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,132.54,11626,254,3,69.84
+2026-05-06,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,119.19,9098,282,14,799.82
+2026-05-06,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,109.18,11141,452,11,374.00
+2026-05-06,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,157.70,12516,480,29,1824.97
+2026-05-06,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,98.38,12453,462,15,648.90
+2026-05-06,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,86.75,10327,288,22,1024.32
+2026-05-06,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,96.45,9014,230,3,82.74
+2026-05-06,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,134.74,9489,228,18,1368.00
+2026-05-07,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,128.32,11256,227,3,70.92
+2026-05-07,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,125.94,9614,301,16,928.00
+2026-05-07,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,115.25,11760,482,12,414.12
+2026-05-07,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,152.56,12108,469,30,1915.80
+2026-05-07,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,104.02,13167,493,16,651.84
+2026-05-07,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,91.63,10908,307,21,992.88
+2026-05-07,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,93.23,8713,224,3,84.00
+2026-05-07,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,130.40,9183,223,19,1465.66
+2026-05-08,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,135.46,11882,242,3,72.00
+2026-05-08,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,121.76,9295,294,16,941.92
+2026-05-08,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,111.56,11384,471,12,420.24
+2026-05-08,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,161.16,12790,501,29,1744.06
+2026-05-08,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,109.78,13896,480,14,579.18
+2026-05-08,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,88.63,10551,300,22,1056.00
+2026-05-08,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,98.55,9210,239,3,85.26
+2026-05-08,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,137.70,9697,237,21,1643.88
+2026-05-09,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,110.35,9680,199,3,73.08
+2026-05-09,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,108.33,8269,265,13,776.62
+2026-05-09,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,99.15,10117,423,10,329.80
+2026-05-09,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,131.18,10411,411,25,1526.75
+2026-05-09,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,89.46,11324,395,12,504.00
+2026-05-09,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,78.82,9383,269,20,974.40
+2026-05-09,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,87.57,8184,215,3,86.52
+2026-05-09,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,112.14,7897,195,18,1326.96
+2026-05-10,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,107.01,9387,195,3,74.16
+2026-05-10,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,96.13,7338,237,12,675.12
+2026-05-10,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,88.10,8990,380,9,301.41
+2026-05-10,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,127.29,10102,369,23,1426.00
+2026-05-10,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,86.72,10977,387,12,511.56
+2026-05-10,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,69.98,8331,242,19,939.36
+2026-05-10,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,77.83,7274,193,2,54.32
+2026-05-10,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,108.77,7660,191,16,1197.76
+2026-05-11,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,120.65,10583,222,3,69.84
+2026-05-11,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,118.46,9043,295,16,914.08
+2026-05-11,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,108.45,11066,472,12,408.00
+2026-05-11,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,143.40,11381,420,27,1699.11
+2026-05-11,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,97.82,12382,441,13,562.38
+2026-05-11,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,86.20,10262,301,21,977.76
+2026-05-11,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,95.78,8951,240,3,82.74
+2026-05-11,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,122.59,8633,199,17,1292.00
+2026-05-12,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,127.54,11188,237,3,70.92
+2026-05-12,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,125.10,9550,315,17,986.00
+2026-05-12,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,104.96,10710,422,10,345.10
+2026-05-12,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,151.69,12039,448,26,1660.36
+2026-05-12,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,103.37,13085,471,14,570.36
+2026-05-12,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,83.36,9924,294,22,1040.16
+2026-05-12,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,92.74,8667,234,3,84.00
+2026-05-12,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,129.63,9129,213,19,1465.66
+2026-05-13,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,123.36,10821,232,3,72.00
+2026-05-13,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,121.14,9247,308,15,883.05
+2026-05-13,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,110.93,11319,450,11,385.22
+2026-05-13,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,160.16,12711,478,29,1744.06
+2026-05-13,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,100.02,12661,460,15,620.55
+2026-05-13,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,88.16,10495,313,24,1152.00
+2026-05-13,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,97.98,9157,229,3,85.26
+2026-05-13,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,125.34,8827,208,17,1330.76
+2026-05-14,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,130.39,11438,247,3,73.08
+2026-05-14,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,127.92,9765,300,16,955.84
+2026-05-14,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,107.27,10946,440,11,362.78
+2026-05-14,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,155.06,12306,468,30,1832.10
+2026-05-14,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,105.68,13377,491,16,672.00
+2026-05-14,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,93.06,11079,334,23,1120.56
+2026-05-14,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,94.78,8858,223,3,86.52
+2026-05-14,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,132.52,9332,222,19,1400.68
+2026-05-15,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,126.01,11054,241,3,74.16
+2026-05-15,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,123.77,9448,293,16,900.16
+2026-05-15,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,113.36,11567,470,12,401.88
+2026-05-15,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,163.70,12992,499,29,1798.00
+2026-05-15,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,102.18,12934,480,14,596.82
+2026-05-15,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,90.08,10724,299,22,1087.68
+2026-05-15,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,100.13,9358,238,3,81.48
+2026-05-15,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,139.86,9849,236,21,1572.06
+2026-05-16,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,112.15,9838,198,3,69.84
+2026-05-16,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,110.04,8400,263,13,742.69
+2026-05-16,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,92.24,9412,386,9,306.00
+2026-05-16,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,133.35,10583,410,25,1573.25
+2026-05-16,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,90.90,11506,431,13,562.38
+2026-05-16,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,80.06,9531,268,20,931.20
+2026-05-16,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,81.50,7617,196,2,55.16
+2026-05-16,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,113.97,8026,195,18,1368.00
+2026-05-17,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,108.68,9533,194,3,70.92
+2026-05-17,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,97.74,7461,236,12,696.00
+2026-05-17,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,89.53,9136,378,9,310.59
+2026-05-17,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,129.31,10263,402,25,1596.50
+2026-05-17,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,80.67,10211,353,11,448.14
+2026-05-17,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,71.13,8468,241,19,898.32
+2026-05-17,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,79.09,7392,192,2,56.00
+2026-05-17,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,110.49,7781,190,16,1234.24
+2026-05-18,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,122.63,10757,221,3,72.00
+2026-05-18,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,120.35,9187,294,16,941.92
+2026-05-18,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,110.14,11239,470,12,420.24
+2026-05-18,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,145.79,11571,457,30,1804.20
+2026-05-18,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,99.41,12584,439,13,537.81
+2026-05-18,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,87.57,10425,299,21,1008.00
+2026-05-18,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,89.10,8327,219,3,85.26
+2026-05-18,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,124.62,8776,217,19,1487.32
+2026-05-19,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,129.55,11364,236,3,73.08
+2026-05-19,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,116.44,8889,287,16,955.84
+2026-05-19,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,106.68,10886,460,10,329.80
+2026-05-19,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,154.12,12232,446,26,1587.82
+2026-05-19,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,104.98,13289,469,14,588.00
+2026-05-19,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,84.75,10089,293,22,1071.84
+2026-05-19,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,94.24,8807,234,3,86.52
+2026-05-19,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,131.69,9274,231,21,1548.12
+2026-05-20,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,125.40,11000,231,3,74.16
+2026-05-20,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,123.10,9397,307,15,843.90
+2026-05-20,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,112.67,11497,490,12,401.88
+2026-05-20,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,149.07,11831,436,27,1674.00
+2026-05-20,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,101.66,12868,459,15,639.45
+2026-05-20,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,89.57,10663,312,24,1186.56
+2026-05-20,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,99.51,9300,249,3,81.48
+2026-05-20,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,127.43,8974,207,17,1272.62
+2026-05-21,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,132.46,11619,246,3,69.84
+2026-05-21,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,118.99,9083,299,16,914.08
+2026-05-21,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,109.04,11127,438,11,374.00
+2026-05-21,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,157.56,12505,466,30,1887.90
+2026-05-21,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,107.35,13589,489,16,692.16
+2026-05-21,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,86.62,10312,305,21,977.76
+2026-05-21,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,96.34,9004,243,3,82.74
+2026-05-21,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,134.64,9482,221,19,1444.00
+2026-05-22,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,128.11,11238,241,3,70.92
+2026-05-22,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,125.78,9602,320,17,986.00
+2026-05-22,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,115.15,11750,467,12,414.12
+2026-05-22,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,152.28,12086,455,26,1660.36
+2026-05-22,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,103.87,13148,478,14,570.36
+2026-05-22,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,91.53,10896,325,24,1134.72
+2026-05-22,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,101.70,9505,237,3,84.00
+2026-05-22,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,130.17,9167,216,19,1465.66
+2026-05-23,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,113.94,9995,216,3,72.00
+2026-05-23,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,111.76,8531,262,13,765.31
+2026-05-23,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,93.77,9568,384,9,315.18
+2026-05-23,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,135.52,10756,409,24,1443.36
+2026-05-23,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,92.35,11690,429,13,537.81
+2026-05-23,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,74.48,8867,267,20,960.00
+2026-05-23,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,82.85,7743,195,2,56.84
+2026-05-23,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,115.81,8156,194,18,1409.04
+2026-05-24,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,101.16,8874,194,3,73.08
+2026-05-24,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,99.34,7583,235,12,716.88
+2026-05-24,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,90.96,9282,377,9,296.82
+2026-05-24,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,131.33,10423,400,25,1526.75
+2026-05-24,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,82.02,10382,385,12,504.00
+2026-05-24,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,72.29,8606,240,19,925.68
+2026-05-24,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,80.34,7508,191,2,57.68
+2026-05-24,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,102.78,7238,174,14,1032.08
+2026-05-25,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,124.61,10931,220,3,74.16
+2026-05-25,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,122.25,9332,293,16,900.16
+2026-05-25,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,102.52,10461,429,11,368.39
+2026-05-25,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,148.18,11760,456,29,1798.00
+2026-05-25,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,101.00,12785,479,14,596.82
+2026-05-25,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,88.94,10588,298,21,1038.24
+2026-05-25,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,90.58,8465,218,3,81.48
+2026-05-25,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,126.64,8918,216,19,1422.34
+2026-05-26,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,120.51,10571,215,3,69.84
+2026-05-26,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,118.36,9035,286,16,914.08
+2026-05-26,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,108.40,11061,458,10,340.00
+2026-05-26,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,156.54,12424,486,28,1762.04
+2026-05-26,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,97.71,12368,427,13,562.38
+2026-05-26,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,86.14,10255,291,22,1024.32
+2026-05-26,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,95.75,8949,233,3,82.74
+2026-05-26,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,133.75,9419,231,21,1596.00
+2026-05-27,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,127.44,11179,230,3,70.92
+2026-05-27,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,125.05,9546,305,15,870.00
+2026-05-27,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,104.81,10695,447,11,379.61
+2026-05-27,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,151.54,12027,475,29,1851.94
+2026-05-27,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,103.30,13076,457,14,570.36
+2026-05-27,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,90.98,10831,311,24,1134.72
+2026-05-27,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,92.62,8656,227,3,84.00
+2026-05-27,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,129.52,9121,225,18,1388.52
+2026-05-28,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,134.53,11801,245,3,72.00
+2026-05-28,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,120.98,9235,298,15,883.05
+2026-05-28,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,110.82,11308,478,12,420.24
+2026-05-28,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,160.06,12703,463,29,1744.06
+2026-05-28,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,99.86,12641,446,15,620.55
+2026-05-28,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,88.05,10482,304,21,1008.00
+2026-05-28,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,97.89,9149,243,3,85.26
+2026-05-28,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,136.76,9631,240,20,1565.60
+2026-05-29,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,130.21,11422,240,3,73.08
+2026-05-29,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,127.80,9756,318,17,1015.58
+2026-05-29,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,116.95,11934,509,13,428.74
+2026-05-29,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,154.81,12287,453,26,1587.82
+2026-05-29,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,105.55,13361,476,14,588.00
+2026-05-29,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,92.98,11069,324,23,1120.56
+2026-05-29,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,94.61,8842,237,3,86.52
+2026-05-29,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,132.33,9319,215,19,1400.68
+2026-05-30,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,115.74,10153,215,3,74.16
+2026-05-30,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,104.03,7941,262,13,731.38
+2026-05-30,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,95.31,9726,383,9,301.41
+2026-05-30,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,137.69,10928,407,24,1488.00
+2026-05-30,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,93.79,11872,427,13,554.19
+2026-05-30,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,75.72,9014,267,20,988.80
+2026-05-30,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,84.20,7869,213,3,81.48
+2026-05-30,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,117.65,8285,193,18,1347.48
+2026-05-31,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,102.83,9020,193,3,69.84
+2026-05-31,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,100.94,7705,256,13,742.69
+2026-05-31,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,92.39,9428,375,9,306.00
+2026-05-31,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,122.24,9702,365,23,1447.39
+2026-05-31,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,83.36,10552,384,12,519.12
+2026-05-31,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,73.45,8744,261,20,931.20
+2026-05-31,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,81.60,7626,190,2,55.16
+2026-05-31,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,104.49,7358,173,14,1064.00
+2026-06-01,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,117.21,10282,222,3,70.92
+2026-06-01,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,124.30,9489,292,15,870.00
+2026-06-01,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,115.34,11769,473,12,414.12
+2026-06-01,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,174.67,13863,527,34,2171.24
+2026-06-01,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,94.18,11922,438,13,529.62
+2026-06-01,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,85.63,10194,307,22,1040.16
+2026-06-01,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,99.15,9266,234,3,84.00
+2026-06-01,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,148.85,10482,249,21,1619.94
+2026-06-02,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,113.44,9951,217,3,72.00
+2026-06-02,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,131.48,10037,312,17,1000.79
+2026-06-02,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,121.88,12437,505,11,385.22
+2026-06-02,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,168.92,13406,515,30,1804.20
+2026-06-02,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,91.19,11543,428,13,537.81
+2026-06-02,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,90.55,10780,300,22,1056.00
+2026-06-02,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,104.74,9789,249,3,85.26
+2026-06-02,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,144.01,10142,243,22,1722.16
+2026-06-03,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,119.89,10517,212,3,73.08
+2026-06-03,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,138.82,10597,332,17,1015.58
+2026-06-03,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,117.94,12035,493,12,395.76
+2026-06-03,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,178.64,14178,550,34,2076.38
+2026-06-03,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,96.34,12195,457,14,588.00
+2026-06-03,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,87.55,10423,293,23,1120.56
+2026-06-03,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,101.39,9476,244,3,86.52
+2026-06-03,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,152.25,10722,260,21,1548.12
+2026-06-04,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,115.94,10170,207,3,74.16
+2026-06-04,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,134.40,10260,325,17,956.42
+2026-06-04,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,124.62,12716,527,13,435.37
+2026-06-04,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,188.57,14966,586,37,2294.00
+2026-06-04,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,93.20,11797,408,13,554.19
+2026-06-04,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,92.57,11020,313,22,1087.68
+2026-06-04,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,107.10,10009,260,3,81.48
+2026-06-04,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,147.17,10364,254,21,1572.06
+2026-06-05,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,122.51,10746,221,3,69.84
+2026-06-05,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,141.88,10831,347,19,1085.47
+2026-06-05,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,120.48,12294,514,13,442.00
+2026-06-05,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,182.53,14487,573,33,2076.69
+2026-06-05,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,98.45,12462,435,13,562.38
+2026-06-05,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,97.69,11630,334,24,1117.44
+2026-06-05,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,103.58,9680,254,3,82.74
+2026-06-05,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,155.57,10956,271,24,1824.00
+2026-06-06,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,99.69,8745,182,3,70.92
+2026-06-06,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,115.58,8823,285,14,812.00
+2026-06-06,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,107.19,10938,462,11,379.61
+2026-06-06,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,162.23,12875,470,28,1788.08
+2026-06-06,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,80.14,10144,358,11,448.14
+2026-06-06,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,79.61,9477,275,21,992.88
+2026-06-06,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,92.13,8610,228,3,84.00
+2026-06-06,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,138.23,9735,243,22,1697.08
+2026-06-07,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,96.76,8488,178,2,48.00
+2026-06-07,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,112.08,8556,279,14,824.18
+2026-06-07,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,95.13,9707,414,10,350.20
+2026-06-07,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,144.14,11440,422,26,1563.64
+2026-06-07,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,77.76,9843,351,11,455.07
+2026-06-07,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,77.18,9188,269,21,1008.00
+2026-06-07,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,81.79,7644,205,2,56.84
+2026-06-07,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,122.86,8652,199,16,1252.48
+2026-06-08,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,119.04,10442,221,3,73.08
+2026-06-08,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,126.37,9647,318,17,1015.58
+2026-06-08,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,117.21,11960,471,12,395.76
+2026-06-08,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,177.44,14083,524,34,2076.38
+2026-06-08,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,87.61,11090,399,12,504.00
+2026-06-08,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,87.05,10363,307,22,1071.84
+2026-06-08,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,100.75,9416,255,3,86.52
+2026-06-08,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,151.20,10648,248,21,1548.12
+2026-06-09,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,115.30,10114,217,3,74.16
+2026-06-09,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,133.58,10197,339,19,1068.94
+2026-06-09,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,123.79,12632,502,11,368.39
+2026-06-09,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,171.74,13630,513,30,1860.00
+2026-06-09,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,92.67,11730,427,13,554.19
+2026-06-09,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,91.99,10951,327,24,1186.56
+2026-06-09,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,97.43,9106,227,3,81.48
+2026-06-09,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,146.39,10309,242,22,1646.92
+2026-06-10,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,121.78,10682,231,3,69.84
+2026-06-10,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,129.21,9863,303,15,856.95
+2026-06-10,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,119.87,12232,491,12,408.00
+2026-06-10,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,181.50,14405,547,33,2076.69
+2026-06-10,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,97.84,12385,455,14,605.64
+2026-06-10,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,89.01,10596,320,25,1164.00
+2026-06-10,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,103.04,9630,243,3,82.74
+2026-06-10,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,154.66,10892,259,21,1596.00
+2026-06-11,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,117.85,10338,226,3,70.92
+2026-06-11,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,136.57,10425,324,17,986.00
+2026-06-11,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,126.58,12916,524,13,448.63
+2026-06-11,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,175.52,13930,535,34,2171.24
+2026-06-11,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,94.73,11991,445,15,611.10
+2026-06-11,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,94.05,11196,312,22,1040.16
+2026-06-11,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,108.77,10165,259,3,84.00
+2026-06-11,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,149.63,10537,253,21,1619.94
+2026-06-12,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,124.46,10918,220,3,72.00
+2026-06-12,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,131.99,10076,316,17,1000.79
+2026-06-12,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,122.47,12497,512,13,455.26
+2026-06-12,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,185.47,14720,571,33,1984.62
+2026-06-12,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,100.00,12658,474,14,579.18
+2026-06-12,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,90.93,10825,305,22,1056.00
+2026-06-12,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,105.28,9839,253,3,85.26
+2026-06-12,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,158.06,11131,270,24,1878.72
+2026-06-13,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,101.35,8890,181,3,73.08
+2026-06-13,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,117.46,8966,284,14,836.36
+2026-06-13,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,108.89,11111,460,11,362.78
+2026-06-13,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,150.92,11978,469,28,1709.96
+2026-06-13,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,81.47,10313,356,11,462.00
+2026-06-13,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,80.90,9631,274,21,1023.12
+2026-06-13,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,93.58,8746,227,3,86.52
+2026-06-13,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,128.66,9061,222,20,1474.40
+2026-06-14,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,98.31,8624,177,2,49.44
+2026-06-14,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,113.83,8689,278,14,787.64
+2026-06-14,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,96.71,9868,413,10,334.90
+2026-06-14,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,146.48,11625,459,29,1798.00
+2026-06-14,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,79.00,10000,349,11,468.93
+2026-06-14,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,71.79,8546,245,19,939.36
+2026-06-14,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,83.14,7770,204,2,54.32
+2026-06-14,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,124.84,8792,217,18,1347.48
+2026-06-15,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,110.80,9719,202,3,69.84
+2026-06-15,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,128.44,9805,317,17,971.21
+2026-06-15,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,119.09,12152,513,13,442.00
+2026-06-15,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,180.21,14302,522,34,2139.62
+2026-06-15,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,89.07,11275,398,12,519.12
+2026-06-15,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,88.46,10531,305,22,1024.32
+2026-06-15,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,102.35,9565,254,3,82.74
+2026-06-15,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,140.65,9905,247,21,1596.00
+2026-06-16,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,117.16,10277,216,3,70.92
+2026-06-16,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,135.69,10358,338,19,1102.00
+2026-06-16,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,115.22,11757,501,11,379.61
+2026-06-16,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,174.55,13853,511,30,1915.80
+2026-06-16,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,94.15,11918,425,13,529.62
+2026-06-16,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,93.43,11123,326,24,1134.72
+2026-06-16,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,99.06,9258,248,3,84.00
+2026-06-16,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,148.77,10477,241,22,1697.08
+2026-06-17,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,113.28,9937,211,3,72.00
+2026-06-17,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,131.34,10026,330,16,941.92
+2026-06-17,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,121.81,12430,489,12,420.24
+2026-06-17,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,184.36,14632,545,33,1984.62
+2026-06-17,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,91.07,11528,415,13,537.81
+2026-06-17,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,90.47,10770,319,25,1200.00
+2026-06-17,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,104.69,9784,265,3,85.26
+2026-06-17,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,157.08,11062,258,21,1643.88
+2026-06-18,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,119.77,10506,225,3,73.08
+2026-06-18,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,138.73,10590,352,18,1075.32
+2026-06-18,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,117.75,12015,478,12,395.76
+2026-06-18,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,178.42,14160,533,34,2076.38
+2026-06-18,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,96.26,12185,443,15,630.00
+2026-06-18,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,95.53,11373,340,24,1169.28
+2026-06-18,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,101.24,9462,236,3,86.52
+2026-06-18,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,152.08,10710,252,21,1548.12
+2026-06-19,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,126.40,11088,240,3,74.16
+2026-06-19,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,134.18,10243,315,17,956.42
+2026-06-19,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,124.47,12701,510,13,435.37
+2026-06-19,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,188.42,14954,568,33,2046.00
+2026-06-19,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,93.03,11776,432,13,554.19
+2026-06-19,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,92.43,11004,332,24,1186.56
+2026-06-19,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,106.98,9998,252,3,81.48
+2026-06-19,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,160.55,11306,269,24,1796.64
+2026-06-20,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,103.01,9036,197,3,69.84
+2026-06-20,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,119.34,9110,283,14,799.82
+2026-06-20,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,110.59,11285,458,11,374.00
+2026-06-20,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,153.43,12177,467,28,1762.04
+2026-06-20,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,82.79,10480,389,12,519.12
+2026-06-20,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,82.18,9783,272,21,977.76
+2026-06-20,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,87.05,8136,207,3,82.74
+2026-06-20,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,130.79,9211,221,20,1520.00
+2026-06-21,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,99.86,8760,177,2,47.28
+2026-06-21,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,105.95,8088,254,13,754.00
+2026-06-21,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,98.30,10031,411,10,345.10
+2026-06-21,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,148.83,11812,458,28,1788.08
+2026-06-21,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,80.23,10156,380,12,488.88
+2026-06-21,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,72.99,8689,244,19,898.32
+2026-06-21,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,84.49,7896,203,2,56.00
+2026-06-21,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,126.83,8932,217,18,1388.52
+2026-06-22,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,112.63,9880,201,3,72.00
+2026-06-22,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,130.51,9963,316,17,1000.79
+2026-06-22,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,120.97,12344,511,13,455.26
+2026-06-22,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,167.74,13313,521,34,2044.76
+2026-06-22,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,90.53,11459,396,12,496.44
+2026-06-22,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,89.88,10700,304,22,1056.00
+2026-06-22,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,103.95,9715,253,3,85.26
+2026-06-22,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,142.99,10070,247,21,1643.88
+2026-06-23,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,119.02,10440,215,3,73.08
+2026-06-23,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,126.22,9635,308,17,1015.58
+2026-06-23,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,117.12,11951,500,11,362.78
+2026-06-23,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,177.37,14077,556,33,2015.31
+2026-06-23,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,95.63,12105,423,13,546.00
+2026-06-23,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,86.96,10352,297,22,1071.84
+2026-06-23,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,100.68,9409,247,3,86.52
+2026-06-23,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,151.15,10644,263,24,1769.28
+2026-06-24,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,115.17,10103,210,3,74.16
+2026-06-24,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,133.48,10189,329,16,900.16
+2026-06-24,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,123.74,12627,533,13,435.37
+2026-06-24,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,171.49,13610,496,30,1860.00
+2026-06-24,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,92.57,11718,413,13,554.19
+2026-06-24,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,91.93,10944,317,24,1186.56
+2026-06-24,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,106.34,9938,264,3,81.48
+2026-06-24,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,146.21,10296,257,21,1572.06
+2026-06-25,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,121.69,10675,224,3,69.84
+2026-06-25,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,140.90,10756,351,18,1028.34
+2026-06-25,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,119.71,12215,521,13,442.00
+2026-06-25,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,181.32,14390,530,34,2139.62
+2026-06-25,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,97.78,12377,441,14,605.64
+2026-06-25,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,88.87,10580,310,22,1024.32
+2026-06-25,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,102.91,9618,258,3,82.74
+2026-06-25,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,154.53,10882,251,21,1596.00
+2026-06-26,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,117.65,10320,219,3,70.92
+2026-06-26,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,136.38,10411,343,19,1102.00
+2026-06-26,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,126.46,12904,508,13,448.63
+2026-06-26,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,191.36,15187,566,32,2043.52
+2026-06-26,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,94.58,11972,431,13,529.62
+2026-06-26,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,93.94,11183,331,24,1134.72
+2026-06-26,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,108.68,10157,275,3,84.00
+2026-06-26,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,149.35,10518,245,21,1619.94
+2026-06-27,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,104.67,9182,197,3,72.00
+2026-06-27,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,121.22,9253,308,15,883.05
+2026-06-27,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,102.94,10504,418,10,350.20
+2026-06-27,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,155.95,12377,466,28,1683.92
+2026-06-27,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,84.12,10648,387,12,496.44
+2026-06-27,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,83.47,9937,297,22,1056.00
+2026-06-27,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,88.50,8271,206,3,85.26
+2026-06-27,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,132.92,9361,220,20,1565.60
+2026-06-28,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,92.89,8148,176,2,48.72
+2026-06-28,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,107.70,8221,253,13,776.62
+2026-06-28,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,99.88,10192,410,10,329.80
+2026-06-28,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,151.17,11998,456,28,1709.96
+2026-06-28,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,74.68,9453,347,11,462.00
+2026-06-28,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,74.19,8832,266,21,1023.12
+2026-06-28,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,85.84,8022,202,2,57.68
+2026-06-28,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,128.81,9071,216,18,1326.96
+2026-06-29,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,114.46,10040,219,3,74.16
+2026-06-29,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,132.58,10121,314,17,956.42
+2026-06-29,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,112.53,11483,466,12,401.88
+2026-06-29,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,170.51,13533,519,34,2108.00
+2026-06-29,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,91.99,11644,432,13,554.19
+2026-06-29,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,91.29,10868,303,22,1087.68
+2026-06-29,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,96.75,9042,230,3,81.48
+2026-06-29,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,145.34,10235,246,21,1572.06
+2026-06-30,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,120.88,10604,214,3,69.84
+2026-06-30,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,128.32,9795,307,17,971.21
+2026-06-30,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,119.03,12146,498,11,374.00
+2026-06-30,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,180.18,14300,554,32,2013.76
+2026-06-30,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,88.96,11261,422,13,562.38
+2026-06-30,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,88.39,10523,296,22,1024.32
+2026-06-30,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,102.31,9562,246,3,82.74
+2026-06-30,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,153.54,10813,262,23,1748.00
+2026-07-01,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,111.20,9754,199,3,70.92
+2026-07-01,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,155.81,11894,377,19,1102.00
+2026-07-01,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,132.29,13499,559,13,448.63
+2026-07-01,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,192.39,15269,598,36,2298.96
+2026-07-01,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,85.68,10846,375,12,488.88
+2026-07-01,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,87.16,10376,295,23,1087.44
+2026-07-01,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,93.62,8750,228,3,84.00
+2026-07-01,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,136.03,9580,235,19,1465.66
+2026-07-02,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,117.42,10300,212,3,72.00
+2026-07-02,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,150.68,11502,368,19,1118.53
+2026-07-02,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,128.08,13069,547,13,455.26
+2026-07-02,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,203.28,16133,638,40,2405.60
+2026-07-02,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,90.44,11448,400,13,537.81
+2026-07-02,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,84.32,10038,288,20,960.00
+2026-07-02,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,98.98,9250,243,3,85.26
+2026-07-02,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,143.68,10118,250,21,1643.88
+2026-07-03,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,113.62,9967,207,3,73.08
+2026-07-03,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,159.22,12154,393,21,1254.54
+2026-07-03,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,135.21,13797,583,15,494.70
+2026-07-03,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,196.54,15598,569,33,2015.31
+2026-07-03,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,87.54,11081,391,12,504.00
+2026-07-03,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,89.08,10605,308,22,1071.84
+2026-07-03,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,104.46,9763,259,3,86.52
+2026-07-03,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,138.97,9787,244,21,1548.12
+2026-07-04,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,101.02,8861,186,3,74.16
+2026-07-04,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,129.56,9890,323,16,900.16
+2026-07-04,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,110.15,11240,479,11,368.39
+2026-07-04,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,174.85,13877,512,31,1922.00
+2026-07-04,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,77.81,9849,351,11,468.93
+2026-07-04,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,72.51,8632,253,19,939.36
+2026-07-04,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,85.13,7956,213,3,81.48
+2026-07-04,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,123.60,8704,201,18,1347.48
+2026-07-05,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,89.72,7870,167,2,46.56
+2026-07-05,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,125.76,9600,316,16,914.08
+2026-07-05,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,106.81,10899,429,10,340.00
+2026-07-05,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,155.17,12315,459,29,1824.97
+2026-07-05,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,69.13,8751,315,10,432.60
+2026-07-05,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,70.36,8376,248,19,884.64
+2026-07-05,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,82.53,7713,209,2,55.16
+2026-07-05,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,109.73,7727,180,15,1140.00
+2026-07-06,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,110.48,9691,208,3,70.92
+2026-07-06,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,154.71,11810,393,21,1218.00
+2026-07-06,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,120.42,12288,489,12,414.12
+2026-07-06,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,191.21,15175,571,37,2362.82
+2026-07-06,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,85.10,10772,392,11,448.14
+2026-07-06,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,79.26,9436,282,20,945.60
+2026-07-06,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,93.08,8699,217,3,84.00
+2026-07-06,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,135.17,9519,224,19,1465.66
+2026-07-07,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,106.89,9376,203,3,72.00
+2026-07-07,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,149.85,11439,351,19,1118.53
+2026-07-07,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,127.30,12990,522,12,420.24
+2026-07-07,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,201.93,16026,609,36,2165.04
+2026-07-07,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,82.37,10427,383,12,496.44
+2026-07-07,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,83.84,9981,301,22,1056.00
+2026-07-07,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,98.36,9193,232,3,85.26
+2026-07-07,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,130.72,9206,219,20,1565.60
+2026-07-08,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,113.00,9912,216,3,73.08
+2026-07-08,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,158.27,12082,375,19,1135.06
+2026-07-08,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,123.13,12564,510,12,395.76
+2026-07-08,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,195.54,15519,596,36,2198.52
+2026-07-08,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,87.05,11019,409,13,546.00
+2026-07-08,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,88.52,10538,293,23,1120.56
+2026-07-08,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,95.18,8895,227,3,86.52
+2026-07-08,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,138.24,9735,234,19,1400.68
+2026-07-09,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,109.23,9582,193,3,74.16
+2026-07-09,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,153.17,11692,367,19,1068.94
+2026-07-09,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,130.14,13280,544,13,435.37
+2026-07-09,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,206.48,16387,635,40,2480.00
+2026-07-09,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,84.18,10656,399,13,554.19
+2026-07-09,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,85.71,10204,287,20,988.80
+2026-07-09,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,100.57,9399,242,3,81.48
+2026-07-09,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,145.93,10277,249,21,1572.06
+2026-07-10,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,115.46,10128,206,3,69.84
+2026-07-10,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,161.75,12347,391,21,1199.73
+2026-07-10,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,125.78,12835,531,14,476.00
+2026-07-10,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,199.79,15856,621,36,2265.48
+2026-07-10,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,88.96,11261,389,12,519.12
+2026-07-10,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,90.48,10771,306,22,1024.32
+2026-07-10,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,97.23,9087,236,3,82.74
+2026-07-10,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,141.25,9947,244,21,1596.00
+2026-07-11,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,102.59,8999,185,3,70.92
+2026-07-11,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,131.72,10055,322,16,928.00
+2026-07-11,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,111.94,11422,478,11,379.61
+2026-07-11,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,177.63,14098,557,33,2107.38
+2026-07-11,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,72.38,9162,320,10,407.40
+2026-07-11,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,73.71,8775,252,19,898.32
+2026-07-11,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,86.50,8084,212,3,84.00
+2026-07-11,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,125.54,8841,219,20,1542.80
+2026-07-12,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,91.19,7999,166,2,48.00
+2026-07-12,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,127.77,9753,315,16,941.92
+2026-07-12,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,108.48,11069,467,11,385.22
+2026-07-12,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,157.76,12521,457,28,1683.92
+2026-07-12,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,70.26,8894,314,10,413.70
+2026-07-12,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,71.47,8508,247,19,912.00
+2026-07-12,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,76.77,7175,190,2,56.84
+2026-07-12,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,111.54,7855,196,16,1252.48
+2026-07-13,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,112.22,9844,207,3,73.08
+2026-07-13,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,144.00,10992,359,19,1135.06
+2026-07-13,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,122.40,12490,533,13,428.74
+2026-07-13,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,194.27,15418,568,37,2259.59
+2026-07-13,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,86.43,10941,390,11,462.00
+2026-07-13,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,80.58,9593,281,20,974.40
+2026-07-13,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,94.59,8840,237,3,86.52
+2026-07-13,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,137.31,9670,223,19,1400.68
+2026-07-14,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,108.65,9531,202,3,74.16
+2026-07-14,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,152.27,11624,383,21,1181.46
+2026-07-14,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,129.30,13194,519,12,401.88
+2026-07-14,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,187.95,14917,556,33,2046.00
+2026-07-14,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,83.72,10597,381,12,511.56
+2026-07-14,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,85.18,10140,300,22,1087.68
+2026-07-14,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,99.90,9336,252,3,81.48
+2026-07-14,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,132.90,9359,218,19,1422.34
+2026-07-15,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,114.79,10069,216,3,69.84
+2026-07-15,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,147.23,11239,374,19,1085.47
+2026-07-15,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,125.16,12771,508,12,408.00
+2026-07-15,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,198.70,15770,593,36,2265.48
+2026-07-15,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,88.42,11192,407,13,562.38
+2026-07-15,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,82.40,9810,293,23,1070.88
+2026-07-15,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,96.74,9041,226,3,82.74
+2026-07-15,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,140.45,9891,233,19,1444.00
+2026-07-16,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,111.05,9741,211,3,70.92
+2026-07-16,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,155.66,11882,365,19,1102.00
+2026-07-16,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,132.21,13491,542,13,448.63
+2026-07-16,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,192.07,15244,579,37,2362.82
+2026-07-16,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,85.57,10832,398,13,529.62
+2026-07-16,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,87.09,10368,313,22,1040.16
+2026-07-16,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,102.15,9547,241,3,84.00
+2026-07-16,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,135.82,9565,227,19,1465.66
+2026-07-17,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,117.31,10290,225,3,72.00
+2026-07-17,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,164.28,12540,389,21,1236.27
+2026-07-17,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,127.87,13048,530,13,455.26
+2026-07-17,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,203.03,16113,618,35,2104.90
+2026-07-17,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,90.37,11439,424,13,537.81
+2026-07-17,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,84.17,10020,279,20,960.00
+2026-07-17,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,98.84,9237,235,3,85.26
+2026-07-17,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,143.53,10108,243,21,1643.88
+2026-07-18,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,95.49,8376,169,3,73.08
+2026-07-18,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,133.88,10220,320,16,955.84
+2026-07-18,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,113.73,11605,476,11,362.78
+2026-07-18,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,180.40,14317,555,33,2015.31
+2026-07-18,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,73.59,9315,349,11,462.00
+2026-07-18,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,74.91,8918,251,19,925.68
+2026-07-18,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,87.88,8213,211,3,86.52
+2026-07-18,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,116.79,8225,199,18,1326.96
+2026-07-19,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,92.66,8128,166,2,49.44
+2026-07-19,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,129.78,9907,314,16,900.16
+2026-07-19,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,100.97,10303,427,10,334.90
+2026-07-19,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,160.35,12726,498,31,1922.00
+2026-07-19,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,71.38,9035,312,10,426.30
+2026-07-19,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,72.59,8642,246,19,939.36
+2026-07-19,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,78.05,7294,190,2,54.32
+2026-07-19,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,113.36,7983,195,16,1197.76
+2026-07-20,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,104.39,9157,188,3,69.84
+2026-07-20,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,146.38,11174,358,19,1085.47
+2026-07-20,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,124.37,12691,531,13,442.00
+2026-07-20,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,197.33,15661,619,40,2517.20
+2026-07-20,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,80.45,10184,356,10,432.60
+2026-07-20,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,81.91,9751,280,20,931.20
+2026-07-20,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,96.11,8982,236,3,82.74
+2026-07-20,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,139.46,9821,243,21,1596.00
+2026-07-21,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,110.42,9686,201,3,70.92
+2026-07-21,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,154.69,11808,382,21,1218.00
+2026-07-21,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,120.28,12273,518,12,414.12
+2026-07-21,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,191.06,15163,553,32,2043.52
+2026-07-21,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,85.07,10768,380,12,488.88
+2026-07-21,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,86.53,10301,299,22,1040.16
+2026-07-21,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,92.98,8690,230,3,84.00
+2026-07-21,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,135.08,9513,237,21,1619.94
+2026-07-22,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,116.58,10226,215,3,72.00
+2026-07-22,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,149.68,11426,373,19,1118.53
+2026-07-22,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,127.20,12980,553,13,455.26
+2026-07-22,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,201.85,16020,590,36,2165.04
+2026-07-22,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,82.25,10411,371,12,496.44
+2026-07-22,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,83.76,9971,292,22,1056.00
+2026-07-22,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,98.30,9187,246,3,85.26
+2026-07-22,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,142.66,10046,231,19,1487.32
+2026-07-23,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,112.87,9901,210,3,73.08
+2026-07-23,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,158.15,12073,398,21,1254.54
+2026-07-23,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,134.27,13701,539,13,428.74
+2026-07-23,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,195.27,15498,577,37,2259.59
+2026-07-23,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,86.97,11009,396,13,546.00
+2026-07-23,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,88.47,10532,312,22,1071.84
+2026-07-23,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,95.02,8880,240,3,86.52
+2026-07-23,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,138.07,9723,226,19,1400.68
+2026-07-24,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,119.16,10453,224,3,74.16
+2026-07-24,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,152.91,11673,388,21,1181.46
+2026-07-24,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,129.97,13262,527,13,435.37
+2026-07-24,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,206.28,16371,616,35,2170.00
+2026-07-24,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,91.78,11618,422,13,554.19
+2026-07-24,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,85.57,10187,304,22,1087.68
+2026-07-24,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,100.45,9388,234,3,81.48
+2026-07-24,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,145.80,10268,242,21,1572.06
+2026-07-25,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,97.07,8515,184,3,69.84
+2026-07-25,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,136.04,10385,319,16,914.08
+2026-07-25,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,115.52,11788,474,11,374.00
+2026-07-25,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,167.91,13326,506,30,1887.90
+2026-07-25,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,74.80,9468,348,11,475.86
+2026-07-25,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,76.10,9060,273,21,977.76
+2026-07-25,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,89.25,8341,210,3,82.74
+2026-07-25,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,118.73,8361,199,18,1368.00
+2026-07-26,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,94.13,8257,180,2,47.28
+2026-07-26,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,120.72,9215,286,15,870.00
+2026-07-26,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,102.64,10473,425,10,345.10
+2026-07-26,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,162.93,12931,496,31,1979.66
+2026-07-26,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,72.51,9178,340,11,448.14
+2026-07-26,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,67.56,8043,224,18,851.04
+2026-07-26,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,79.33,7414,189,2,56.00
+2026-07-26,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,115.17,8111,195,16,1234.24
+2026-07-27,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,106.13,9310,188,3,72.00
+2026-07-27,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,148.76,11356,356,19,1118.53
+2026-07-27,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,126.35,12893,529,13,455.26
+2026-07-27,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,183.56,14568,565,37,2225.18
+2026-07-27,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,81.78,10352,388,11,455.07
+2026-07-27,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,83.23,9908,279,20,960.00
+2026-07-27,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,97.62,9123,235,3,85.26
+2026-07-27,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,129.80,9141,222,19,1487.32
+2026-07-28,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,112.19,9841,200,3,73.08
+2026-07-28,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,157.10,11992,380,21,1254.54
+2026-07-28,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,122.28,12478,517,12,395.76
+2026-07-28,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,194.16,15410,603,35,2137.45
+2026-07-28,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,86.42,10939,378,11,462.00
+2026-07-28,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,80.49,9582,272,20,974.40
+2026-07-28,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,94.52,8834,230,3,86.52
+2026-07-28,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,137.26,9666,237,21,1548.12
+2026-07-29,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,108.51,9518,196,3,74.16
+2026-07-29,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,152.13,11613,372,19,1068.94
+2026-07-29,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,129.24,13188,552,13,435.37
+2026-07-29,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,205.00,16270,643,39,2418.00
+2026-07-29,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,83.62,10585,370,12,511.56
+2026-07-29,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,85.12,10133,291,22,1087.68
+2026-07-29,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,99.86,9333,245,3,81.48
+2026-07-29,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,132.71,9346,231,19,1422.34
+2026-07-30,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,114.69,10061,209,3,69.84
+2026-07-30,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,160.64,12263,396,21,1199.73
+2026-07-30,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,124.98,12753,539,13,442.00
+2026-07-30,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,198.48,15752,575,36,2265.48
+2026-07-30,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,88.36,11185,395,13,562.38
+2026-07-30,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,89.85,10696,310,22,1024.32
+2026-07-30,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,96.61,9029,239,3,82.74
+2026-07-30,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,140.31,9881,247,21,1596.00
+2026-07-31,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,110.84,9723,204,3,70.92
+2026-07-31,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,155.43,11865,387,21,1218.00
+2026-07-31,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,132.06,13476,575,15,517.65
+2026-07-31,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,209.53,16629,613,35,2235.10
+2026-07-31,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,85.43,10814,385,11,448.14
+2026-07-31,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,86.97,10354,303,22,1040.16
+2026-07-31,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,102.05,9537,255,3,84.00
+2026-07-31,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,148.08,10428,240,21,1619.94
+2026-08-01,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,94.49,8289,176,3,72.00
+2026-08-01,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,166.35,12698,419,20,1177.40
+2026-08-01,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,98.50,10051,396,9,315.18
+2026-08-01,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,157.35,12488,465,28,1683.92
+2026-08-01,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,70.04,8866,319,10,413.70
+2026-08-01,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,69.02,8217,243,18,864.00
+2026-08-01,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,76.80,7178,194,2,56.84
+2026-08-01,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,107.27,7554,176,16,1252.48
+2026-08-02,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,91.57,8032,172,2,48.72
+2026-08-02,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,147.74,11278,375,19,1135.06
+2026-08-02,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,95.61,9756,388,9,296.82
+2026-08-02,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,152.59,12110,456,28,1709.96
+2026-08-02,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,62.16,7868,286,9,378.00
+2026-08-02,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,61.32,7300,218,17,828.24
+2026-08-02,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,74.52,6964,174,2,57.68
+2026-08-02,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,103.99,7323,172,14,1032.08
+2026-08-03,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,103.33,9064,196,3,74.16
+2026-08-03,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,181.93,13888,427,23,1293.98
+2026-08-03,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,117.63,12003,482,12,401.88
+2026-08-03,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,172.04,13654,519,34,2108.00
+2026-08-03,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,76.59,9695,356,10,426.30
+2026-08-03,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,75.49,8987,271,19,939.36
+2026-08-03,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,83.96,7847,198,2,54.32
+2026-08-03,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,117.29,8260,196,17,1272.62
+2026-08-04,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,109.15,9575,209,3,69.84
+2026-08-04,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,176.01,13436,417,23,1313.99
+2026-08-04,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,113.93,11626,472,11,374.00
+2026-08-04,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,181.86,14433,554,32,2013.76
+2026-08-04,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,80.89,10239,380,12,519.12
+2026-08-04,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,73.06,8698,242,18,838.08
+2026-08-04,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,88.81,8300,211,3,82.74
+2026-08-04,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,123.94,8728,209,19,1444.00
+2026-08-05,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,105.66,9268,187,2,47.28
+2026-08-05,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,186.08,14205,445,22,1276.00
+2026-08-05,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,120.33,12279,503,12,414.12
+2026-08-05,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,175.90,13960,541,33,2107.38
+2026-08-05,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,78.33,9915,371,12,488.88
+2026-08-05,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,77.22,9193,259,20,945.60
+2026-08-05,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,93.77,8764,226,3,84.00
+2026-08-05,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,119.93,8446,205,17,1311.38
+2026-08-06,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,111.61,9790,199,3,72.00
+2026-08-06,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,179.87,13731,435,23,1354.01
+2026-08-06,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,116.46,11884,492,12,420.24
+2026-08-06,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,185.92,14756,578,37,2225.18
+2026-08-06,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,82.71,10470,362,12,496.44
+2026-08-06,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,74.67,8889,253,18,864.00
+2026-08-06,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,90.78,8484,221,3,85.26
+2026-08-06,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,126.72,8924,218,18,1409.04
+2026-08-07,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,107.95,9469,195,3,73.08
+2026-08-07,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,190.14,14515,464,25,1493.50
+2026-08-07,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,122.98,12549,525,13,428.74
+2026-08-07,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,179.68,14260,564,32,1954.24
+2026-08-07,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,80.03,10130,354,11,462.00
+2026-08-07,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,78.91,9394,270,20,974.40
+2026-08-07,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,95.84,8957,235,3,86.52
+2026-08-07,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,122.52,8628,213,19,1400.68
+2026-08-08,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,96.01,8422,175,3,74.16
+2026-08-08,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,168.95,12897,417,20,1125.20
+2026-08-08,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,100.15,10219,432,10,334.90
+2026-08-08,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,159.91,12691,463,28,1736.00
+2026-08-08,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,71.15,9006,318,10,426.30
+2026-08-08,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,64.20,7643,222,17,840.48
+2026-08-08,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,78.07,7296,193,2,54.32
+2026-08-08,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,109.00,7676,192,18,1347.48
+2026-08-09,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,85.23,7476,157,2,46.56
+2026-08-09,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,150.16,11463,374,19,1085.47
+2026-08-09,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,97.14,9912,423,10,340.00
+2026-08-09,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,154.97,12299,453,28,1762.04
+2026-08-09,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,63.19,7999,285,9,389.34
+2026-08-09,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,62.32,7419,217,17,791.52
+2026-08-09,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,75.71,7076,189,2,55.16
+2026-08-09,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,96.73,6812,157,13,988.00
+2026-08-10,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,104.99,9210,195,3,70.92
+2026-08-10,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,184.79,14106,465,25,1450.00
+2026-08-10,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,109.48,11171,440,11,379.61
+2026-08-10,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,174.86,13878,517,33,2107.38
+2026-08-10,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,77.82,9851,355,10,407.40
+2026-08-10,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,76.67,9127,270,19,898.32
+2026-08-10,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,85.36,7978,216,3,84.00
+2026-08-10,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,119.19,8394,195,17,1311.38
+2026-08-11,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,101.54,8907,191,3,72.00
+2026-08-11,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,178.92,13658,455,25,1471.75
+2026-08-11,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,115.77,11813,470,11,385.22
+2026-08-11,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,184.72,14660,552,32,1924.48
+2026-08-11,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,75.29,9530,347,11,455.07
+2026-08-11,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,74.26,8840,264,20,960.00
+2026-08-11,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,90.23,8433,210,3,85.26
+2026-08-11,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,125.88,8865,209,19,1487.32
+2026-08-12,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,107.38,9419,204,3,73.08
+2026-08-12,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,189.03,14430,443,22,1314.28
+2026-08-12,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,111.94,11422,459,11,362.78
+2026-08-12,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,178.81,14191,539,33,2015.31
+2026-08-12,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,79.59,10075,370,12,504.00
+2026-08-12,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,78.43,9337,282,22,1071.84
+2026-08-12,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,87.27,8156,206,3,86.52
+2026-08-12,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,121.90,8585,204,16,1179.52
+2026-08-13,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,113.35,9943,217,3,74.16
+2026-08-13,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,182.87,13960,433,23,1293.98
+2026-08-13,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,118.35,12077,490,12,401.88
+2026-08-13,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,188.87,14990,575,36,2232.00
+2026-08-13,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,76.94,9739,361,12,511.56
+2026-08-13,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,75.91,9037,252,18,889.92
+2026-08-13,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,92.24,8621,220,3,81.48
+2026-08-13,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,128.71,9064,218,18,1347.48
+2026-08-14,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,109.72,9625,194,3,69.84
+2026-08-14,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,193.18,14747,462,25,1428.25
+2026-08-14,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,124.90,12745,523,13,442.00
+2026-08-14,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,182.68,14498,562,32,2013.76
+2026-08-14,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,81.33,10295,385,11,475.86
+2026-08-14,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,80.16,9543,268,19,884.64
+2026-08-14,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,89.15,8332,214,3,82.74
+2026-08-14,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,124.54,8770,213,19,1444.00
+2026-08-15,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,97.52,8554,174,3,70.92
+2026-08-15,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,157.25,12004,380,19,1102.00
+2026-08-15,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,101.79,10387,430,10,345.10
+2026-08-15,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,162.47,12894,505,30,1915.80
+2026-08-15,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,72.26,9147,316,10,407.40
+2026-08-15,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,65.27,7770,221,17,803.76
+2026-08-15,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,79.34,7415,193,2,56.00
+2026-08-15,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,110.73,7798,191,17,1311.38
+2026-08-16,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,86.64,7600,156,2,48.00
+2026-08-16,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,152.58,11647,373,19,1118.53
+2026-08-16,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,98.67,10068,421,10,350.20
+2026-08-16,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,144.24,11448,452,28,1683.92
+2026-08-16,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,64.23,8130,284,9,372.33
+2026-08-16,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,63.32,7538,216,17,816.00
+2026-08-16,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,76.89,7186,189,2,56.84
+2026-08-16,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,98.34,6925,171,14,1095.92
+2026-08-17,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,106.66,9356,195,3,73.08
+2026-08-17,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,171.90,13122,424,22,1314.28
+2026-08-17,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,111.29,11356,480,12,395.76
+2026-08-17,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,177.68,14102,514,33,2015.31
+2026-08-17,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,79.04,10005,353,10,420.00
+2026-08-17,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,71.36,8495,246,17,828.24
+2026-08-17,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,86.76,8108,215,3,86.52
+2026-08-17,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,121.10,8528,213,18,1326.96
+2026-08-18,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,103.23,9055,190,3,74.16
+2026-08-18,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,181.83,13880,453,25,1406.50
+2026-08-18,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,117.61,12001,512,12,401.88
+2026-08-18,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,171.83,13637,503,29,1798.00
+2026-08-18,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,76.53,9687,345,10,426.30
+2026-08-18,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,75.46,8983,263,19,939.36
+2026-08-18,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,91.65,8565,229,3,81.48
+2026-08-18,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,117.16,8251,190,17,1272.62
+2026-08-19,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,109.10,9570,203,3,69.84
+2026-08-19,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,191.98,14655,483,24,1371.12
+2026-08-19,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,113.80,11612,457,11,374.00
+2026-08-19,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,181.72,14422,537,33,2076.69
+2026-08-19,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,80.86,10235,368,12,519.12
+2026-08-19,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,72.96,8686,257,20,931.20
+2026-08-19,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,88.72,8292,224,3,82.74
+2026-08-19,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,123.86,8723,203,16,1216.00
+2026-08-20,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,105.50,9254,198,3,70.92
+2026-08-20,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,185.87,14189,472,25,1450.00
+2026-08-20,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,120.24,12269,488,12,414.12
+2026-08-20,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,191.82,15224,573,36,2298.96
+2026-08-20,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,78.22,9901,360,12,488.88
+2026-08-20,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,77.14,9183,274,19,898.32
+2026-08-20,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,93.71,8758,219,3,84.00
+2026-08-20,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,119.73,8432,198,17,1311.38
+2026-08-21,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,111.49,9780,212,3,72.00
+2026-08-21,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,196.22,14979,460,25,1471.75
+2026-08-21,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,116.25,11862,477,12,420.24
+2026-08-21,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,185.67,14736,560,32,1924.48
+2026-08-21,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,82.63,10459,384,11,455.07
+2026-08-21,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,81.41,9692,292,21,1008.00
+2026-08-21,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,90.64,8471,214,3,85.26
+2026-08-21,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,126.57,8913,212,19,1487.32
+2026-08-22,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,90.71,7957,174,3,73.08
+2026-08-22,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,159.85,12202,379,19,1135.06
+2026-08-22,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,103.43,10554,428,10,329.80
+2026-08-22,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,165.03,13098,503,30,1832.10
+2026-08-22,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,67.26,8514,316,10,420.00
+2026-08-22,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,66.34,7898,220,17,828.24
+2026-08-22,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,80.61,7534,192,2,57.68
+2026-08-22,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,112.46,7920,190,17,1253.24
+2026-08-23,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,88.05,7724,156,2,49.44
+2026-08-23,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,155.00,11832,371,19,1068.94
+2026-08-23,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,91.79,9366,384,9,301.41
+2026-08-23,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,146.63,11637,451,28,1736.00
+2026-08-23,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,65.27,8262,309,10,426.30
+2026-08-23,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,64.31,7656,215,17,840.48
+2026-08-23,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,71.57,6689,172,2,54.32
+2026-08-23,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,99.96,7039,171,14,1048.04
+2026-08-24,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,108.32,9502,194,3,69.84
+2026-08-24,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,174.76,13340,423,22,1256.86
+2026-08-24,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,113.10,11541,478,12,408.00
+2026-08-24,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,180.50,14325,561,36,2265.48
+2026-08-24,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,73.53,9308,322,9,389.34
+2026-08-24,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,72.54,8636,245,17,791.52
+2026-08-24,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,88.15,8238,214,3,82.74
+2026-08-24,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,123.01,8663,212,18,1368.00
+2026-08-25,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,104.92,9204,189,3,70.92
+2026-08-25,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,184.74,14102,451,25,1450.00
+2026-08-25,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,119.45,12189,510,12,414.12
+2026-08-25,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,174.70,13865,548,32,2043.52
+2026-08-25,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,77.78,9846,344,10,407.40
+2026-08-25,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,76.66,9126,262,19,898.32
+2026-08-25,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,85.26,7968,209,3,84.00
+2026-08-25,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,119.10,8387,207,19,1465.66
+2026-08-26,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,110.82,9721,202,3,72.00
+2026-08-26,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,178.69,13640,441,22,1295.14
+2026-08-26,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,115.67,11803,498,12,420.24
+2026-08-26,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,184.63,14653,535,33,1984.62
+2026-08-26,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,82.12,10395,367,12,496.44
+2026-08-26,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,74.18,8831,256,20,960.00
+2026-08-26,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,90.16,8426,223,3,85.26
+2026-08-26,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,125.83,8861,221,18,1409.04
+2026-08-27,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,107.25,9408,198,3,73.08
+2026-08-27,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,188.87,14418,471,24,1433.76
+2026-08-27,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,122.14,12463,531,13,428.74
+2026-08-27,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,178.54,14170,522,33,2015.31
+2026-08-27,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,79.50,10063,359,12,504.00
+2026-08-27,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,78.37,9330,273,19,925.68
+2026-08-27,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,95.17,8894,238,3,86.52
+2026-08-27,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,121.73,8573,198,17,1253.24
+2026-08-28,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,113.26,9935,211,3,74.16
+2026-08-28,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,182.53,13934,459,25,1406.50
+2026-08-28,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,118.18,12059,475,12,401.88
+2026-08-28,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,188.67,14974,558,32,1984.00
+2026-08-28,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,83.93,10624,382,11,468.93
+2026-08-28,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,75.78,9021,267,19,939.36
+2026-08-28,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,92.12,8609,233,3,81.48
+2026-08-28,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,128.59,9056,211,19,1422.34
+2026-08-29,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,92.23,8090,173,3,69.84
+2026-08-29,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,162.45,12401,413,20,1142.60
+2026-08-29,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,105.07,10721,426,10,340.00
+2026-08-29,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,153.52,12184,458,27,1699.11
+2026-08-29,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,68.37,8654,315,10,432.60
+2026-08-29,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,67.42,8026,240,18,838.08
+2026-08-29,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,81.88,7652,191,2,55.16
+2026-08-29,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,104.67,7371,173,16,1216.00
+2026-08-30,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,89.46,7847,170,2,47.28
+2026-08-30,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,157.43,12018,369,19,1102.00
+2026-08-30,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,93.32,9522,383,9,310.59
+2026-08-30,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,149.01,11826,449,28,1788.08
+2026-08-30,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,66.30,8392,308,10,407.40
+2026-08-30,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,59.83,7123,215,17,803.76
+2026-08-30,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,72.75,6799,171,2,56.00
+2026-08-30,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,101.57,7153,170,14,1079.96
+2026-08-31,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,100.83,8845,193,3,72.00
+2026-08-31,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,177.63,13560,421,22,1295.14
+2026-08-31,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,114.91,11726,476,12,420.24
+2026-08-31,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,183.32,14549,558,36,2165.04
+2026-08-31,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,74.75,9462,351,10,413.70
+2026-08-31,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,73.72,8776,244,17,816.00
+2026-08-31,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,89.55,8369,213,3,85.26
+2026-08-31,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,114.43,8058,193,17,1330.76
+2026-09-01,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,103.10,9044,182,3,73.08
+2026-09-01,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,176.10,13443,422,23,1374.02
+2026-09-01,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,99.05,10107,414,9,296.82
+2026-09-01,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,153.49,12182,472,28,1709.96
+2026-09-01,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,75.66,9577,359,11,462.00
+2026-09-01,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,71.63,8527,240,18,876.96
+2026-09-01,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,100.83,9423,243,3,86.52
+2026-09-01,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,151.30,10655,258,23,1695.56
+2026-09-02,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,99.69,8745,178,2,49.44
+2026-09-02,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,170.47,13013,412,21,1181.46
+2026-09-02,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,104.71,10685,442,10,334.90
+2026-09-02,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,162.11,12866,504,31,1922.00
+2026-09-02,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,73.18,9263,320,10,426.30
+2026-09-02,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,69.36,8257,235,18,889.92
+2026-09-02,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,106.56,9959,259,3,81.48
+2026-09-02,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,159.74,11249,275,22,1646.92
+2026-09-03,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,105.40,9246,190,3,69.84
+2026-09-03,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,180.06,13745,440,23,1313.99
+2026-09-03,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,101.22,10329,432,11,374.00
+2026-09-03,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,156.89,12452,492,31,1950.83
+2026-09-03,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,77.35,9791,342,11,475.86
+2026-09-03,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,73.24,8719,250,17,791.52
+2026-09-03,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,103.05,9631,253,3,82.74
+2026-09-03,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,154.66,10892,269,23,1748.00
+2026-09-04,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,111.23,9757,203,3,70.92
+2026-09-04,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,174.15,13294,430,23,1334.00
+2026-09-04,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,107.00,10918,461,12,414.12
+2026-09-04,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,165.68,13149,480,28,1788.08
+2026-09-04,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,74.75,9462,334,10,407.40
+2026-09-04,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,70.87,8437,245,18,851.04
+2026-09-04,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,108.89,10177,270,3,84.00
+2026-09-04,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,163.27,11498,287,25,1928.50
+2026-09-05,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,90.65,7952,167,2,48.00
+2026-09-05,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,154.89,11824,386,19,1118.53
+2026-09-05,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,95.07,9701,414,10,350.20
+2026-09-05,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,134.91,10707,395,24,1443.36
+2026-09-05,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,66.53,8422,300,9,372.33
+2026-09-05,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,63.01,7501,220,17,816.00
+2026-09-05,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,88.60,8280,222,3,85.26
+2026-09-05,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,133.01,9367,216,20,1565.60
+2026-09-06,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,87.87,7708,163,2,48.72
+2026-09-06,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,137.51,10497,346,18,1075.32
+2026-09-06,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,84.50,8622,339,8,263.84
+2026-09-06,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,130.87,10387,387,24,1465.68
+2026-09-06,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,64.47,8161,294,9,378.00
+2026-09-06,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,55.96,6662,197,15,730.80
+2026-09-06,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,86.00,8037,217,2,57.68
+2026-09-06,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,128.97,9082,211,17,1253.24
+2026-09-07,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,99.11,8694,186,3,74.16
+2026-09-07,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,169.39,12931,430,23,1293.98
+2026-09-07,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,103.99,10611,422,11,368.39
+2026-09-07,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,147.49,11706,440,28,1736.00
+2026-09-07,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,72.75,9209,335,10,426.30
+2026-09-07,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,68.91,8204,245,17,840.48
+2026-09-07,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,105.80,9888,247,3,81.48
+2026-09-07,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,145.42,10241,241,21,1572.06
+2026-09-08,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,104.74,9188,199,3,69.84
+2026-09-08,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,163.82,12505,384,21,1199.73
+2026-09-08,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,100.68,10273,413,9,306.00
+2026-09-08,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,155.96,12378,470,28,1762.04
+2026-09-08,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,76.85,9728,357,11,475.86
+2026-09-08,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,66.67,7937,239,18,838.08
+2026-09-08,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,102.48,9578,242,3,82.74
+2026-09-08,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,153.72,10825,257,23,1748.00
+2026-09-09,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,101.35,8890,194,3,70.92
+2026-09-09,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,173.24,13224,410,20,1160.00
+2026-09-09,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,106.37,10854,441,10,345.10
+2026-09-09,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,150.80,11968,459,28,1788.08
+2026-09-09,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,74.39,9416,349,11,448.14
+2026-09-09,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,70.48,8390,234,18,851.04
+2026-09-09,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,108.24,10116,258,3,84.00
+2026-09-09,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,148.68,10470,251,20,1542.80
+2026-09-10,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,107.08,9393,189,3,72.00
+2026-09-10,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,182.87,13960,438,23,1354.01
+2026-09-10,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,102.91,10501,431,11,385.22
+2026-09-10,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,159.44,12654,490,31,1864.34
+2026-09-10,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,78.58,9947,372,12,496.44
+2026-09-10,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,68.13,8111,228,16,768.00
+2026-09-10,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,104.75,9790,252,3,85.26
+2026-09-10,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,157.15,11067,268,23,1800.44
+2026-09-11,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,103.53,9082,185,3,73.08
+2026-09-11,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,177.01,13512,428,23,1374.02
+2026-09-11,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,108.71,11093,459,12,395.76
+2026-09-11,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,168.26,13354,523,30,1832.10
+2026-09-11,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,76.00,9620,332,10,420.00
+2026-09-11,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,72.02,8574,244,18,876.96
+2026-09-11,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,110.62,10338,269,3,86.52
+2026-09-11,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,151.88,10696,262,23,1695.56
+2026-09-12,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,92.11,8080,166,2,49.44
+2026-09-12,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,157.33,12010,384,19,1068.94
+2026-09-12,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,88.49,9030,378,9,301.41
+2026-09-12,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,137.12,10883,430,26,1612.00
+2026-09-12,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,67.59,8556,299,9,383.67
+2026-09-12,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,63.99,7618,219,17,840.48
+2026-09-12,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,90.08,8419,221,3,81.48
+2026-09-12,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,135.17,9519,235,21,1572.06
+2026-09-13,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,81.74,7170,149,2,46.56
+2026-09-13,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,139.78,10670,345,18,1028.34
+2026-09-13,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,85.86,8761,370,9,306.00
+2026-09-13,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,132.93,10550,385,24,1510.32
+2026-09-13,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,60.01,7596,268,9,389.34
+2026-09-13,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,56.88,6771,196,15,698.40
+2026-09-13,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,87.38,8166,217,2,55.16
+2026-09-13,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,130.99,9225,230,19,1444.00
+2026-09-14,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,100.72,8835,186,3,70.92
+2026-09-14,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,172.08,13136,429,23,1334.00
+2026-09-14,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,96.73,9870,421,11,379.61
+2026-09-14,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,149.93,11899,439,28,1788.08
+2026-09-14,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,73.92,9357,333,10,407.40
+2026-09-14,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,69.99,8332,244,17,803.76
+2026-09-14,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,98.48,9204,246,3,84.00
+2026-09-14,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,147.80,10408,240,21,1619.94
+2026-09-15,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,106.37,9331,198,3,72.00
+2026-09-15,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,166.55,12714,419,23,1354.01
+2026-09-15,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,102.32,10441,411,9,315.18
+2026-09-15,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,158.44,12575,468,27,1623.78
+2026-09-15,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,71.49,9049,326,10,413.70
+2026-09-15,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,67.77,8068,239,18,864.00
+2026-09-15,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,104.13,9732,263,3,85.26
+2026-09-15,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,156.14,10996,256,23,1800.44
+2026-09-16,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,103.01,9036,194,3,73.08
+2026-09-16,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,176.01,13436,447,22,1314.28
+2026-09-16,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,108.04,11024,438,10,329.80
+2026-09-16,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,153.31,12167,458,28,1709.96
+2026-09-16,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,75.60,9570,348,11,462.00
+2026-09-16,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,71.60,8524,255,20,974.40
+2026-09-16,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,100.68,9409,235,3,86.52
+2026-09-16,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,151.14,10644,250,20,1474.40
+2026-09-17,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,108.77,9541,206,3,74.16
+2026-09-17,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,170.21,12993,399,21,1181.46
+2026-09-17,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,104.59,10672,429,11,368.39
+2026-09-17,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,161.99,12856,489,31,1922.00
+2026-09-17,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,79.80,10101,371,12,511.56
+2026-09-17,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,69.27,8246,249,17,840.48
+2026-09-17,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,106.45,9949,251,3,81.48
+2026-09-17,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,159.65,11243,267,23,1721.78
+2026-09-18,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,105.24,9232,202,3,69.84
+2026-09-18,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,179.86,13730,426,23,1313.99
+2026-09-18,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,110.42,11267,457,12,408.00
+2026-09-18,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,156.62,12430,477,27,1699.11
+2026-09-18,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,77.25,9778,363,11,475.86
+2026-09-18,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,73.17,8711,243,18,838.08
+2026-09-18,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,112.35,10500,268,3,82.74
+2026-09-18,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,154.41,10874,261,23,1748.00
+2026-09-19,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,93.57,8208,165,2,47.28
+2026-09-19,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,146.35,11172,350,17,986.00
+2026-09-19,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,89.95,9179,376,9,310.59
+2026-09-19,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,139.34,11059,429,26,1660.36
+2026-09-19,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,68.66,8691,325,10,407.40
+2026-09-19,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,59.56,7090,199,15,709.20
+2026-09-19,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,91.56,8557,220,3,84.00
+2026-09-19,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,137.33,9671,234,21,1619.94
+2026-09-20,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,83.11,7290,148,2,48.00
+2026-09-20,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,142.06,10844,344,18,1059.66
+2026-09-20,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,87.23,8901,369,9,315.18
+2026-09-20,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,123.65,9813,384,24,1443.36
+2026-09-20,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,61.00,7722,267,9,372.33
+2026-09-20,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,57.79,6880,196,15,720.00
+2026-09-20,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,88.75,8294,216,2,56.84
+2026-09-20,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,121.92,8586,210,17,1330.76
+2026-09-21,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,102.34,8977,185,3,73.08
+2026-09-21,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,174.76,13340,427,23,1374.02
+2026-09-21,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,98.35,10036,420,10,329.80
+2026-09-21,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,152.37,12093,478,31,1893.17
+2026-09-21,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,75.09,9505,332,10,420.00
+2026-09-21,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,65.11,7751,223,16,779.52
+2026-09-21,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,100.11,9356,246,3,86.52
+2026-09-21,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,150.18,10576,261,22,1621.84
+2026-09-22,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,99.01,8685,181,3,74.16
+2026-09-22,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,169.28,12922,418,23,1293.98
+2026-09-22,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,103.96,10608,448,10,334.90
+2026-09-22,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,160.91,12771,466,27,1674.00
+2026-09-22,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,72.68,9200,325,10,426.30
+2026-09-22,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,68.87,8199,238,18,889.92
+2026-09-22,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,105.79,9887,262,3,81.48
+2026-09-22,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,145.24,10228,255,23,1721.78
+2026-09-23,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,104.67,9182,193,3,69.84
+2026-09-23,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,178.78,13647,445,22,1256.86
+2026-09-23,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,100.56,10261,438,10,340.00
+2026-09-23,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,155.82,12367,456,28,1762.04
+2026-09-23,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,76.81,9723,347,11,475.86
+2026-09-23,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,72.72,8657,254,20,931.20
+2026-09-23,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,102.36,9566,256,3,82.74
+2026-09-23,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,153.60,10817,249,20,1520.00
+2026-09-24,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,101.18,8875,188,3,70.92
+2026-09-24,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,173.03,13208,435,23,1334.00
+2026-09-24,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,106.28,10845,427,10,345.10
+2026-09-24,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,164.54,13059,486,31,1979.66
+2026-09-24,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,74.28,9403,339,11,448.14
+2026-09-24,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,70.40,8381,248,17,803.76
+2026-09-24,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,108.16,10108,273,3,84.00
+2026-09-24,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,162.14,11418,266,22,1697.08
+2026-09-25,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,106.96,9382,201,3,72.00
+2026-09-25,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,182.72,13948,464,25,1471.75
+2026-09-25,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,102.72,10482,417,11,385.22
+2026-09-25,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,159.20,12635,475,27,1623.78
+2026-09-25,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,78.49,9935,361,11,455.07
+2026-09-25,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,74.32,8848,264,19,912.00
+2026-09-25,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,104.57,9773,244,3,85.26
+2026-09-25,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,156.94,11052,260,23,1800.44
+2026-09-26,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,95.03,8336,180,3,73.08
+2026-09-26,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,148.79,11358,349,17,1015.58
+2026-09-26,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,91.41,9328,375,9,296.82
+2026-09-26,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,141.55,11234,427,26,1587.82
+2026-09-26,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,63.87,8085,297,9,378.00
+2026-09-26,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,60.55,7208,217,16,779.52
+2026-09-26,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,93.03,8694,219,3,86.52
+2026-09-26,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,139.49,9823,233,21,1548.12
+2026-09-27,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,84.47,7410,162,2,49.44
+2026-09-27,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,144.33,11018,342,17,956.42
+2026-09-27,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,88.59,9040,367,9,301.41
+2026-09-27,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,125.71,9977,383,24,1488.00
+2026-09-27,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,61.99,7847,291,9,383.67
+2026-09-27,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,58.71,6989,195,15,741.60
+2026-09-27,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,82.56,7716,197,2,54.32
+2026-09-27,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,123.94,8728,209,17,1272.62
+2026-09-28,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,103.95,9118,184,3,69.84
+2026-09-28,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,162.67,12418,389,21,1199.73
+2026-09-28,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,99.96,10200,418,10,340.00
+2026-09-28,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,154.81,12287,476,31,1950.83
+2026-09-28,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,76.27,9654,361,11,475.86
+2026-09-28,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,66.19,7880,222,16,744.96
+2026-09-28,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,101.73,9507,245,3,82.74
+2026-09-28,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,152.57,10744,260,22,1672.00
+2026-09-29,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,100.65,8829,180,3,70.92
+2026-09-29,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,172.01,13131,416,23,1334.00
+2026-09-29,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,105.60,10776,446,10,345.10
+2026-09-29,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,149.77,11887,465,27,1724.22
+2026-09-29,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,73.87,9351,323,10,407.40
+2026-09-29,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,69.97,8330,237,18,851.04
+2026-09-29,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,107.44,10041,261,3,84.00
+2026-09-29,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,147.66,10399,255,23,1774.22
+2026-09-30,FB101,Facebook Spring Awareness,Facebook,Broad Adults,Awareness,106.33,9327,192,3,72.00
+2026-09-30,FB102,Facebook Back-to-School Sales,Facebook,Parents,Sales,166.31,12695,406,20,1177.40
+2026-09-30,IG101,Instagram Creator Traffic,Instagram,Young Adults,Traffic,102.22,10431,436,10,350.20
+2026-09-30,IG102,Instagram Summer Shop,Instagram,Lifestyle Shoppers,Sales,158.34,12567,497,30,1804.20
+2026-09-30,PI101,Pinterest Home Ideas,Pinterest,Home Improvers,Traffic,78.02,9876,345,11,455.07
+2026-09-30,PI102,Pinterest Lead Guide,Pinterest,New Homeowners,Leads,67.68,8057,231,18,864.00
+2026-09-30,TW101,Twitter Tech Awareness,Twitter,Tech Professionals,Awareness,104.04,9723,255,3,85.26
+2026-09-30,TW102,Twitter Webinar Leads,Twitter,Business Decision Makers,Leads,156.06,10990,272,22,1722.16
