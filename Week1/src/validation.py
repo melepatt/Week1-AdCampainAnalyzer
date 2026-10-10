@@ -35,35 +35,42 @@ def validate_campaign_data(frame: pd.DataFrame) -> ValidationResult:
     errors.extend(f"Missing required column: {column}" for column in missing)
     if frame.empty:
         errors.append("Dataset is empty.")
-    if missing or frame.empty:
+    if frame.empty:
         return ValidationResult(None, tuple(sorted(errors)), ())
 
     data = frame.copy(deep=True)
     for column in TEXT_COLUMNS:
-        data[column] = data[column].astype("string").fillna("").str.strip()
+        if column in data:
+            data[column] = data[column].astype("string").fillna("").str.strip()
 
     for column in ("campaign_id", "campaign_name"):
+        if column not in data:
+            continue
         blank = data[column].eq("")
         if blank.any():
             errors.append(f"Column '{column}' has {_row_count(blank)} blank value(s).")
 
-    raw_dates = data["date"].astype("string").fillna("").str.strip()
-    parsed_dates = pd.to_datetime(raw_dates, format="%Y-%m-%d", errors="coerce")
-    invalid_dates = parsed_dates.isna()
-    if invalid_dates.any():
-        errors.append(f"Column 'date' has {_row_count(invalid_dates)} invalid or blank value(s).")
-    data["date"] = parsed_dates
+    if "date" in data:
+        raw_dates = data["date"].astype("string").fillna("").str.strip()
+        parsed_dates = pd.to_datetime(raw_dates, format="%Y-%m-%d", errors="coerce")
+        invalid_dates = parsed_dates.isna()
+        if invalid_dates.any():
+            errors.append(f"Column 'date' has {_row_count(invalid_dates)} invalid or blank value(s).")
+        data["date"] = parsed_dates
 
     canonical_platforms = {platform.casefold(): platform for platform in SUPPORTED_PLATFORMS}
-    platform_keys = data["platform"].str.casefold()
-    unsupported = ~platform_keys.isin(canonical_platforms)
-    if unsupported.any():
-        values = sorted(data.loc[unsupported, "platform"].unique().tolist())
-        errors.append(f"Column 'platform' has unsupported value(s): {', '.join(values)}.")
-    data["platform"] = platform_keys.map(canonical_platforms).fillna(data["platform"])
+    if "platform" in data:
+        platform_keys = data["platform"].str.casefold()
+        unsupported = ~platform_keys.isin(canonical_platforms)
+        if unsupported.any():
+            values = sorted(data.loc[unsupported, "platform"].unique().tolist())
+            errors.append(f"Column 'platform' has unsupported value(s): {', '.join(values)}.")
+        data["platform"] = platform_keys.map(canonical_platforms).fillna(data["platform"])
 
     numeric_values: dict[str, pd.Series] = {}
     for column in NUMERIC_COLUMNS:
+        if column not in data:
+            continue
         raw = data[column].astype("string").fillna("").str.strip()
         numeric = pd.to_numeric(raw, errors="coerce")
         non_numeric = numeric.isna()
@@ -80,6 +87,11 @@ def validate_campaign_data(frame: pd.DataFrame) -> ValidationResult:
             fractional = finite & numeric.mod(1).ne(0)
             if fractional.any():
                 errors.append(f"Column '{column}' has {_row_count(fractional)} fractional count(s).")
+            out_of_range = finite & numeric.gt(np.iinfo(np.int64).max)
+            if out_of_range.any():
+                errors.append(
+                    f"Column '{column}' has {_row_count(out_of_range)} value(s) outside the supported integer range."
+                )
         numeric_values[column] = numeric
 
     if errors:

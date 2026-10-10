@@ -3,6 +3,8 @@
 from __future__ import annotations
 
 import logging
+import hashlib
+from io import BytesIO
 from datetime import date
 
 import pandas as pd
@@ -16,8 +18,14 @@ from src.charts import (
 )
 from src.data_loader import load_sample_data, read_campaign_csv
 from src.exporting import dataframe_to_csv_bytes
-from src.filters import FilterSelection, apply_filters
-from src.formatting import format_count, format_currency, format_multiplier, format_percent
+from src.filters import FilterSelection, apply_filters, reconcile_filter_state
+from src.formatting import (
+    format_count,
+    format_currency,
+    format_multiplier,
+    format_percent,
+    prepare_metric_table,
+)
 from src.metrics import (
     aggregate_by_campaign,
     aggregate_by_platform,
@@ -52,23 +60,28 @@ TABLE_LABELS = {
 
 
 def _display_table(frame: pd.DataFrame) -> pd.DataFrame:
-    return frame.rename(columns=TABLE_LABELS)
+    return prepare_metric_table(frame).rename(columns=TABLE_LABELS)
 
 
-def _load_selected_source() -> tuple[ValidationResult | None, str]:
+def _load_selected_source() -> tuple[ValidationResult | None, str, str]:
     st.subheader("Choose campaign data")
     source_mode = st.radio("Data source", ("Sample data", "Upload CSV"), horizontal=True)
     try:
         if source_mode == "Sample data":
-            return validate_campaign_data(load_sample_data()), "Bundled sample data"
+            return validate_campaign_data(load_sample_data()), "Bundled sample data", "sample"
         upload = st.file_uploader("Upload campaign CSV", type=("csv",))
         if upload is None:
             st.info("Upload a campaign CSV to begin analysis.")
-            return None, "Uploaded CSV"
-        return validate_campaign_data(read_campaign_csv(upload)), upload.name
+            return None, "Uploaded CSV", "upload:none"
+        payload = upload.getvalue()
+        source_key = f"upload:{hashlib.sha256(payload).hexdigest()}"
+        return validate_campaign_data(read_campaign_csv(BytesIO(payload))), upload.name, source_key
+    except pd.errors.EmptyDataError:
+        st.error("The CSV is empty. Include the required headers and at least one data row.")
+        return None, "Unavailable source", "error:empty"
     except (OSError, UnicodeError, pd.errors.ParserError, ValueError) as exc:
         st.error(f"The CSV could not be loaded: {exc}. Check that it is a readable UTF-8 CSV with unique headers.")
-        return None, "Unavailable source"
+        return None, "Unavailable source", "error:load"
 
 
 def _show_validation(result: ValidationResult | None) -> pd.DataFrame | None:
@@ -93,35 +106,18 @@ def _reset_filters(min_date: date, max_date: date, platforms: tuple[str, ...], a
     st.session_state.filter_goals = list(goals)
 
 
-def _ensure_filter_state(data: pd.DataFrame) -> tuple[tuple[str, ...], tuple[str, ...], tuple[str, ...]]:
+def _ensure_filter_state(data: pd.DataFrame, source_key: str) -> tuple[tuple[str, ...], tuple[str, ...], tuple[str, ...]]:
     platforms = tuple(sorted(data["platform"].unique()))
     audiences = tuple(sorted(data["audience"].unique()))
     goals = tuple(sorted(data["campaign_goal"].unique()))
-    min_date, max_date = data["date"].min().date(), data["date"].max().date()
-    defaults = {
-        "filter_dates": (min_date, max_date),
-        "filter_platforms": list(platforms),
-        "filter_audiences": list(audiences),
-        "filter_goals": list(goals),
-    }
-    valid_options = {
-        "filter_platforms": platforms,
-        "filter_audiences": audiences,
-        "filter_goals": goals,
-    }
-    for key, default in defaults.items():
-        if key not in st.session_state:
-            st.session_state[key] = default
-    for key, options in valid_options.items():
-        st.session_state[key] = [value for value in st.session_state[key] if value in options]
-    selected_dates = st.session_state.filter_dates
-    if not isinstance(selected_dates, (tuple, list)) or len(selected_dates) != 2:
-        st.session_state.filter_dates = (min_date, max_date)
+    reconciled = reconcile_filter_state(data, source_key, dict(st.session_state))
+    for key, value in reconciled.items():
+        st.session_state[key] = value
     return platforms, audiences, goals
 
 
-def _render_filters(data: pd.DataFrame) -> FilterSelection:
-    platforms, audiences, goals = _ensure_filter_state(data)
+def _render_filters(data: pd.DataFrame, source_key: str) -> FilterSelection:
+    platforms, audiences, goals = _ensure_filter_state(data, source_key)
     min_date, max_date = data["date"].min().date(), data["date"].max().date()
     st.sidebar.header("Global filters")
     selected_dates = st.sidebar.date_input(
@@ -169,9 +165,9 @@ def _render_overview(filtered: pd.DataFrame, source_name: str) -> None:
     supporting[1].metric("ROAS (multiplier)", format_multiplier(summary["roas"]), help="ROAS is revenue divided by spend.")
     st.caption(f"Source: {source_name} · {len(filtered):,} filtered daily record(s)")
     weekly = aggregate_time_series(filtered, "Weekly")
-    st.plotly_chart(build_spend_conversions_chart(weekly), width="stretch")
+    st.plotly_chart(build_spend_conversions_chart(weekly), use_container_width=True)
     platforms = aggregate_by_platform(filtered)
-    st.plotly_chart(build_platform_metric_chart(platforms, "roi"), width="stretch")
+    st.plotly_chart(build_platform_metric_chart(platforms, "roi"), use_container_width=True)
 
 
 def _render_platform_comparison(filtered: pd.DataFrame) -> None:
@@ -182,16 +178,18 @@ def _render_platform_comparison(filtered: pd.DataFrame) -> None:
         "Platform comparison metric",
         metric_options,
         format_func=lambda value: METRIC_LABELS[value],
+        help="CPA is spend per conversion; ROAS is revenue divided by spend; ROI is profit divided by spend.",
     )
-    st.plotly_chart(build_platform_metric_chart(platform_frame, metric), width="stretch")
+    st.plotly_chart(build_platform_metric_chart(platform_frame, metric), use_container_width=True)
     missing = sorted({"Facebook", "Instagram", "Pinterest", "Twitter"} - set(platform_frame["platform"]))
     if missing:
         st.caption("No matching records for: " + ", ".join(missing))
     selected_columns = ["platform", "spend", "clicks", "conversions", "revenue", "cpa", "roas", "roi"]
-    st.dataframe(_display_table(platform_frame[selected_columns]), hide_index=True, width="stretch")
+    display_frame = _display_table(platform_frame[selected_columns])
+    st.dataframe(display_frame, hide_index=True, width="stretch")
     st.download_button(
         "Download platform summary CSV",
-        dataframe_to_csv_bytes(platform_frame[selected_columns]),
+        dataframe_to_csv_bytes(display_frame),
         "platform-summary.csv",
         "text/csv",
     )
@@ -205,10 +203,12 @@ def _render_campaign_details(filtered: pd.DataFrame) -> None:
         match |= campaign_frame["campaign_name"].str.contains(query, case=False, na=False, regex=False)
         campaign_frame = campaign_frame.loc[match].reset_index(drop=True)
     st.caption(f"Showing {len(campaign_frame):,} campaign(s)")
-    st.dataframe(_display_table(campaign_frame), hide_index=True, width="stretch")
+    st.caption("CTR is clicks per impression; CPC is spend per click. Ratio values with zero denominators display as N/A.")
+    display_frame = _display_table(campaign_frame)
+    st.dataframe(display_frame, hide_index=True, width="stretch")
     st.download_button(
         "Download campaign details CSV",
-        dataframe_to_csv_bytes(campaign_frame),
+        dataframe_to_csv_bytes(display_frame),
         "campaign-details.csv",
         "text/csv",
     )
@@ -217,22 +217,27 @@ def _render_campaign_details(filtered: pd.DataFrame) -> None:
 def _render_time_series(filtered: pd.DataFrame) -> None:
     controls = st.columns(3)
     metric_options = ["spend", "revenue", "clicks", "conversions", "ctr", "cpa", "roas", "roi"]
-    metric = controls[0].selectbox("Time series metric", metric_options, format_func=lambda value: METRIC_LABELS[value])
+    metric = controls[0].selectbox(
+        "Time series metric",
+        metric_options,
+        format_func=lambda value: METRIC_LABELS[value],
+        help="CTR is clicks per impression; CPA is spend per conversion; ROAS and ROI compare revenue with spend.",
+    )
     frequency = controls[1].selectbox("Time aggregation", ("Daily", "Weekly", "Monthly"), index=1)
     breakdown = controls[2].toggle("Break down by platform", value=False)
     time_frame = aggregate_time_series(filtered, frequency, breakdown)
-    st.plotly_chart(build_time_series_chart(time_frame, metric, breakdown), width="stretch")
+    st.plotly_chart(build_time_series_chart(time_frame, metric, breakdown), use_container_width=True)
 
 
 def render_dashboard() -> None:
     st.title("Ad Campaign Performance Analyzer")
     st.write("See which campaigns and advertising channels are delivering results.")
-    validation, source_name = _load_selected_source()
+    validation, source_name, source_key = _load_selected_source()
     data = _show_validation(validation)
     if data is None:
         return
 
-    selection = _render_filters(data)
+    selection = _render_filters(data, source_key)
     filtered = apply_filters(data, selection)
     if filtered.empty:
         st.info(EMPTY_FILTER_MESSAGE)

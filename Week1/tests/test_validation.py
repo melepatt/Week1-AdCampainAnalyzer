@@ -98,3 +98,23 @@ def test_validation_never_returns_non_finite_numeric_values(valid_campaign_frame
         for column in ("spend", "revenue")
         for value in result.data[column]
     )
+
+
+def test_count_larger_than_int64_is_rejected(valid_campaign_frame):
+    valid_campaign_frame.loc[0, "impressions"] = str(2**63)
+    result = validate_campaign_data(valid_campaign_frame)
+    assert result.data is None
+    assert any("impressions" in message and "integer range" in message for message in result.errors)
+
+
+def test_missing_columns_do_not_hide_other_detectable_errors(valid_campaign_frame):
+    frame = valid_campaign_frame.drop(columns="revenue")
+    frame.loc[0, "date"] = "not-a-date"
+    frame.loc[0, "campaign_id"] = ""
+    frame.loc[0, "platform"] = "TikTok"
+    frame.loc[0, "spend"] = "-1"
+
+    result = validate_campaign_data(frame)
+
+    combined = " ".join(result.errors)
+    assert all(term in combined for term in ("revenue", "date", "campaign_id", "platform", "spend"))

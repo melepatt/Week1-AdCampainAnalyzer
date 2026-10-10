@@ -68,7 +68,7 @@ Only observed issues are listed in `bug-and-iteration-log.md`. During release wo
 
 ## Testing and validation evidence
 
-- 68 automated tests cover sample generation, CSV loading, duplicate normalized headers, type coercion, validation errors and warnings, finite values, aggregate formulas, zero denominators, formatting, shared filters, campaign/platform/time aggregation, weekly boundaries, chart labels and units, deterministic exports, four-tab rendering, the shared empty state, and use of the current Streamlit width API.
+- 73 automated tests cover sample generation, CSV loading, duplicate normalized headers, type coercion, validation errors and warnings, integer overflow, finite values, aggregate formulas, zero denominators, formatting, data-source filter resets, shared filters, campaign/platform/time aggregation, weekly boundaries, chart labels and units, deterministic exports, four-tab rendering, the shared empty state, and the pinned Streamlit width APIs.
 - The full suite passed on Python 3.12 with pytest 8.3.5.
 - `python -m compileall app.py src scripts tests` completed successfully.
 - `git diff --check` reported no whitespace errors.

@@ -2,7 +2,7 @@ from datetime import date
 
 import pandas as pd
 
-from src.filters import FilterSelection, apply_filters
+from src.filters import FilterSelection, apply_filters, reconcile_filter_state
 
 
 def _frame():
@@ -61,3 +61,41 @@ def test_empty_categorical_selection_returns_no_rows():
 
 def test_non_matching_selection_returns_no_rows():
     assert apply_filters(_frame(), _selection(audiences=("Missing",))).empty
+
+
+def test_source_change_resets_dates_and_categories_to_new_source_defaults():
+    uploaded = _frame().assign(
+        date=pd.to_datetime(["2025-05-01", "2025-05-02", "2025-05-03"]),
+        platform=["Pinterest", "Pinterest", "Pinterest"],
+        audience=["Homeowners", "Homeowners", "Homeowners"],
+        campaign_goal=["Leads", "Leads", "Leads"],
+    )
+    previous = {
+        "filter_source_key": "sample",
+        "filter_dates": (date(2026, 1, 1), date(2026, 1, 3)),
+        "filter_platforms": ["Facebook"],
+        "filter_audiences": ["Adults"],
+        "filter_goals": ["Sales"],
+    }
+
+    state = reconcile_filter_state(uploaded, "upload:new", previous)
+
+    assert state == {
+        "filter_source_key": "upload:new",
+        "filter_dates": (date(2025, 5, 1), date(2025, 5, 3)),
+        "filter_platforms": ["Pinterest"],
+        "filter_audiences": ["Homeowners"],
+        "filter_goals": ["Leads"],
+    }
+
+
+def test_same_source_preserves_intentional_empty_category_selection():
+    previous = {
+        "filter_source_key": "sample",
+        "filter_dates": (date(2026, 1, 1), date(2026, 1, 3)),
+        "filter_platforms": [],
+        "filter_audiences": ["Adults"],
+        "filter_goals": ["Sales"],
+    }
+    state = reconcile_filter_state(_frame(), "sample", previous)
+    assert state["filter_platforms"] == []

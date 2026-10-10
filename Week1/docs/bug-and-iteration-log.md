@@ -31,9 +31,9 @@
 ## 2026-10-10 — Deprecated Streamlit width argument in live log
 
 - **Symptom:** Live visual QA logged that `use_container_width` will be removed after December 31, 2025.
-- **Cause:** The first UI implementation used Streamlit's older responsive-width argument.
-- **Change:** Added a failing source-contract regression test, then replaced every occurrence with `width="stretch"`.
-- **Verification:** All application tests passed and the regression test confirms the deprecated argument is absent.
+- **Cause:** Button and dataframe calls used Streamlit's older responsive-width argument. Plotly uses a different signature in the pinned Streamlit 1.50 release.
+- **Change:** Added a failing source-contract regression test, migrated buttons and dataframes to `width="stretch"`, and retained `use_container_width=True` only for Plotly calls where it remains the supported 1.50 parameter.
+- **Verification:** All application tests pass and the regression test confirms all four Plotly calls use the pinned version's supported signature.
 
 ## 2026-10-10 — Browser automation could not attach an upload file
 
@@ -41,6 +41,19 @@
 - **Cause:** The installed Chrome extension does not have its optional “Allow access to file URLs” permission enabled.
 - **Change:** No application change was appropriate. File-style ingestion remains covered through `BytesIO`, bundled-file loading, schema validation tests, and the visibly confirmed upload control.
 - **Verification:** Loader and validation tests pass for valid and invalid in-memory CSV inputs. This limitation applies only to the QA browser extension's file chooser.
+
+## 2026-10-10 — Final review found source-transition and validation edge cases
+
+- **Symptom:** A CSV with dates or categories disjoint from the sample could inherit incompatible filter state. Extremely large integer counts could also overflow during `int64` conversion, missing columns could hide other detectable errors, and zero-denominator ratios appeared as blank table cells.
+- **Cause:** Filter state had no source identity, count validation did not enforce the `int64` upper bound, validation returned immediately for missing columns, and table preparation only renamed headers.
+- **Change:** Added content-derived upload identity and source-aware filter reconciliation; added integer-range validation; continued checking every present column when others are missing; and prepared ratio tables/downloads with explicit `N/A` values.
+- **Verification:** Added five RED–GREEN regression tests covering source resets, intentional empty selections, integer overflow, aggregated error reporting, and `N/A` table values. All tests pass.
+
+## 2026-10-10 — Plotly and layout controls require different width arguments
+
+- **Observation:** Streamlit 1.50 uses `width="stretch"` for buttons and dataframes, but its pinned Plotly API still requires `use_container_width=True`; sending `width` to Plotly is treated as a deprecated arbitrary keyword.
+- **Change:** Kept the current `width` argument for supported layout controls and restored the version-correct Plotly argument.
+- **Verification:** A source-contract test asserts all four Plotly calls use the Streamlit 1.50 signature, and application tests pass.
 
 ## Implementation iterations
 

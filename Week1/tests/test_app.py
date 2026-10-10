@@ -39,5 +39,8 @@ def test_clearing_a_category_filter_shows_shared_empty_state():
     assert "No campaign records match the selected filters. Broaden or reset the filters to continue." in messages
 
 
-def test_app_uses_current_streamlit_width_api():
-    assert "use_container_width" not in APP_PATH.read_text(encoding="utf-8")
+def test_app_uses_streamlit_150_width_apis():
+    source = APP_PATH.read_text(encoding="utf-8")
+    plotly_calls = [line for line in source.splitlines() if "st.plotly_chart" in line]
+    assert len(plotly_calls) == 4
+    assert all("use_container_width=True" in line for line in plotly_calls)
