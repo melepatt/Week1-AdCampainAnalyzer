@@ -61,3 +61,63 @@ def add_ratio_metrics(frame: pd.DataFrame) -> pd.DataFrame:
     for metric in RATIO_METRICS:
         result[metric] = [values[metric] for values in ratio_rows]
     return result
+
+
+def aggregate_by_platform(frame: pd.DataFrame) -> pd.DataFrame:
+    """Aggregate additive and ratio metrics for each advertising platform."""
+    aggregate = (
+        frame.groupby("platform", as_index=False, sort=True)[list(ADDITIVE_METRICS)]
+        .sum()
+        .sort_values("platform", kind="stable")
+        .reset_index(drop=True)
+    )
+    return add_ratio_metrics(aggregate)
+
+
+def _join_labels(values: pd.Series) -> str:
+    return ", ".join(sorted({str(value) for value in values}))
+
+
+def aggregate_by_campaign(frame: pd.DataFrame) -> pd.DataFrame:
+    """Aggregate campaigns, retaining deterministic labels for conflicts."""
+    aggregate = frame.groupby("campaign_id", as_index=False, sort=True).agg(
+        campaign_name=("campaign_name", _join_labels),
+        platform=("platform", _join_labels),
+        audience=("audience", _join_labels),
+        campaign_goal=("campaign_goal", _join_labels),
+        spend=("spend", "sum"),
+        revenue=("revenue", "sum"),
+        impressions=("impressions", "sum"),
+        clicks=("clicks", "sum"),
+        conversions=("conversions", "sum"),
+    )
+    return add_ratio_metrics(aggregate)
+
+
+def aggregate_time_series(
+    frame: pd.DataFrame,
+    frequency: str,
+    break_down_by_platform: bool = False,
+) -> pd.DataFrame:
+    """Aggregate metrics into daily, Monday-start weekly, or monthly periods."""
+    data = frame.copy(deep=True)
+    dates = pd.to_datetime(data["date"])
+    if frequency == "Daily":
+        data["date"] = dates.dt.normalize()
+    elif frequency == "Weekly":
+        data["date"] = dates.dt.to_period("W-SUN").dt.start_time
+    elif frequency == "Monthly":
+        data["date"] = dates.dt.to_period("M").dt.start_time
+    else:
+        raise ValueError(f"Unsupported frequency: {frequency}")
+
+    group_columns = ["date"]
+    if break_down_by_platform:
+        group_columns.append("platform")
+    aggregate = (
+        data.groupby(group_columns, as_index=False, sort=True)[list(ADDITIVE_METRICS)]
+        .sum()
+        .sort_values(group_columns, kind="stable")
+        .reset_index(drop=True)
+    )
+    return add_ratio_metrics(aggregate)
