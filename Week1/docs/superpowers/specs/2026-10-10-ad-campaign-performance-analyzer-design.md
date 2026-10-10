@@ -1,7 +1,7 @@
 # Ad Campaign Performance Analyzer Design Specification
 
 Date: October 10, 2026  
-Status: Draft for user review  
+Status: Implemented and verified
 Primary audience: Marketing students and non-technical marketers
 
 ## 1. Purpose
@@ -422,23 +422,23 @@ Business logic will use pure functions wherever possible.
 
 ## 15. Acceptance Checklist
 
-- [ ] Sample dataset loads on first launch.
-- [ ] CSV upload accepts a valid file and replaces sample data.
-- [ ] Invalid files produce actionable validation feedback.
-- [ ] Required schema contains `revenue` and does not contain `conversion_value`.
-- [ ] Date, platform, audience, and goal filters affect every view.
-- [ ] All four required views are implemented.
-- [ ] Campaign details are searchable.
-- [ ] Time-series aggregation supports daily, weekly, and monthly periods.
-- [ ] Metric units are visible and formulas match this specification.
-- [ ] Zero denominators display `N/A`.
-- [ ] Empty filtered results show the required message.
-- [ ] Filtered data and summaries can be downloaded where specified.
-- [ ] Automated tests pass.
-- [ ] Streamlit smoke validation passes.
-- [ ] README includes local setup, tests, data schema, and deployment instructions.
-- [ ] Project documentation and video script are complete.
-- [ ] Mockups are retained under `docs/mockups/`.
+- [x] Sample dataset loads on first launch.
+- [x] CSV upload accepts a valid file and replaces sample data.
+- [x] Invalid files produce actionable validation feedback.
+- [x] Required schema contains `revenue` and does not contain `conversion_value`.
+- [x] Date, platform, audience, and goal filters affect every view.
+- [x] All four required views are implemented.
+- [x] Campaign details are searchable.
+- [x] Time-series aggregation supports daily, weekly, and monthly periods.
+- [x] Metric units are visible and formulas match this specification.
+- [x] Zero denominators display `N/A`.
+- [x] Empty filtered results show the required message.
+- [x] Filtered data and summaries can be downloaded where specified.
+- [x] Automated tests pass.
+- [x] Streamlit smoke validation passes.
+- [x] README includes local setup, tests, data schema, and deployment instructions.
+- [x] Project documentation and video script are complete.
+- [x] Mockups are retained under `docs/mockups/`.
 
 ## 16. Implementation Constraints
 
