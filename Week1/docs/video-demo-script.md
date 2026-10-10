@@ -51,6 +51,6 @@ Show a terminal in `Week1/` and run:
 python -m pytest -v
 ```
 
-“The 74 tests cover validation, filters, formulas, aggregations, chart contracts, exports, and the Streamlit UI. My main takeaway is that rates must be recalculated from totals, and clear schema validation makes analytics more trustworthy.”
+“The 76 tests cover validation, filters, formulas, aggregations, chart contracts, exports, and the Streamlit UI. My main takeaway is that rates must be recalculated from totals, and clear schema validation makes analytics more trustworthy.”
 
 Finish by showing the repository README and GitHub location. Replace the placeholder link in the documentation after publishing.

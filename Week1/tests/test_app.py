@@ -1,4 +1,5 @@
 from pathlib import Path
+from datetime import date
 
 from streamlit.testing.v1 import AppTest
 
@@ -44,3 +45,11 @@ def test_app_uses_streamlit_150_width_apis():
     plotly_calls = [line for line in source.splitlines() if "st.plotly_chart" in line]
     assert len(plotly_calls) == 4
     assert all("use_container_width=True" in line for line in plotly_calls)
+
+
+def test_date_range_keeps_first_date_while_user_selects_end_date():
+    app = _run_app()
+    app.sidebar.date_input[0].set_value((date(2026, 2, 1),)).run(timeout=30)
+
+    assert not app.exception
+    assert app.sidebar.date_input[0].value == (date(2026, 2, 1),)

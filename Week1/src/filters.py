@@ -40,13 +40,16 @@ def reconcile_filter_state(
         return defaults
 
     selected_dates = previous.get("filter_dates")
-    if (
-        isinstance(selected_dates, (tuple, list))
-        and len(selected_dates) == 2
-        and all(isinstance(value, date) for value in selected_dates)
-        and min_date <= selected_dates[0] <= selected_dates[1] <= max_date
+    if isinstance(selected_dates, (tuple, list)) and all(
+        isinstance(value, date) for value in selected_dates
     ):
-        defaults["filter_dates"] = tuple(selected_dates)
+        if len(selected_dates) == 1 and min_date <= selected_dates[0] <= max_date:
+            defaults["filter_dates"] = tuple(selected_dates)
+        elif (
+            len(selected_dates) == 2
+            and min_date <= selected_dates[0] <= selected_dates[1] <= max_date
+        ):
+            defaults["filter_dates"] = tuple(selected_dates)
     for key, valid_values in options.items():
         selected = previous.get(key)
         if isinstance(selected, (tuple, list)):

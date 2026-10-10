@@ -55,6 +55,13 @@
 - **Change:** Kept the current `width` argument for supported layout controls and restored the version-correct Plotly argument.
 - **Verification:** A source-contract test asserts all four Plotly calls use the Streamlit 1.50 signature, and application tests pass.
 
+## 2026-10-10 — Date range returned to the full sample period
+
+- **Symptom:** Clicking a new start date caused the Date range control to jump back to January 1 through March 31 before an end date could be selected.
+- **Cause:** Streamlit represents an in-progress range as a one-date tuple. Filter-state reconciliation treated any tuple other than a completed two-date range as invalid and restored the defaults.
+- **Change:** Preserved valid one-date tuples for the current source and treated that intermediate value as a one-day range until the user selects the end date.
+- **Verification:** Two RED–GREEN regressions confirm both pure filter-state reconciliation and the Streamlit AppTest interaction retain the newly selected first date. The full suite passes.
+
 ## Implementation iterations
 
 - Split UI orchestration from data, validation, metric, filter, chart, formatting, and export modules.

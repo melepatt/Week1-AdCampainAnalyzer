@@ -99,3 +99,17 @@ def test_same_source_preserves_intentional_empty_category_selection():
     }
     state = reconcile_filter_state(_frame(), "sample", previous)
     assert state["filter_platforms"] == []
+
+
+def test_same_source_preserves_in_progress_single_date_selection():
+    previous = {
+        "filter_source_key": "sample",
+        "filter_dates": (date(2026, 1, 2),),
+        "filter_platforms": ["Facebook", "Instagram"],
+        "filter_audiences": ["Adults", "Students"],
+        "filter_goals": ["Sales", "Traffic"],
+    }
+
+    state = reconcile_filter_state(_frame(), "sample", previous)
+
+    assert state["filter_dates"] == (date(2026, 1, 2),)

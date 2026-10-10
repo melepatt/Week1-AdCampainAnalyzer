@@ -137,6 +137,8 @@ def _render_filters(data: pd.DataFrame, source_key: str) -> FilterSelection:
     )
     if isinstance(selected_dates, (tuple, list)) and len(selected_dates) == 2:
         start_date, end_date = selected_dates
+    elif isinstance(selected_dates, (tuple, list)) and len(selected_dates) == 1:
+        start_date = end_date = selected_dates[0]
     else:
         start_date = end_date = selected_dates
     st.sidebar.caption(
