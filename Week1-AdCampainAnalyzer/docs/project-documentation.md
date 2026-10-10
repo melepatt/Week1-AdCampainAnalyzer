@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This project helps a marketer or marketing student determine which campaigns and advertising channels are delivering results. The Streamlit application compares Facebook, Instagram, Pinterest, and Twitter using spend, impressions, clicks, conversions, revenue, ROI, ROAS, and supporting efficiency metrics.
+This project helps a marketer or marketing analyst determine which campaigns and advertising channels are delivering results. The Streamlit application compares Facebook, Instagram, Pinterest, and Twitter using spend, impressions, clicks, conversions, revenue, ROI, ROAS, and supporting efficiency metrics.
 
 The dashboard is designed for exploratory analysis rather than campaign editing or prediction. One shared filter state updates every view so comparisons always refer to the same subset of records.
 
@@ -12,7 +12,7 @@ The bundled `data/sample_campaigns.csv` contains 1,080 deterministic daily recor
 
 An additional upload-ready test file, `data/test_campaigns_april_september.csv`, contains 1,464 deterministic daily records from April 1 through September 30, 2026. It includes eight campaigns, two per supported platform, eight audiences, and the same four campaign goals. This second dataset was added to test longer date ranges, source transitions, filters, tables, charts, and CSV uploads without changing the bundled default data.
 
-The row grain is one campaign, platform, audience, goal, and day. Required fields are `date`, `campaign_id`, `campaign_name`, `platform`, `audience`, `campaign_goal`, `spend`, `impressions`, `clicks`, `conversions`, and `revenue`. `revenue` is the only attributed-value field; `conversion_value` was removed from the design to make the class data contract easier to understand.
+The row grain is one campaign, platform, audience, goal, and day. Required fields are `date`, `campaign_id`, `campaign_name`, `platform`, `audience`, `campaign_goal`, `spend`, `impressions`, `clicks`, `conversions`, and `revenue`. `revenue` is the only attributed-value field; `conversion_value` was removed from the design to make the data contract easier to understand.
 
 Users can replace the sample data for the current session by uploading a CSV. Uploads remain in memory and are not saved.
 
@@ -52,7 +52,7 @@ CSV validation reports all blocking schema and value errors together. Duplicate 
 
 ## AI-assisted workflow
 
-AI was used to turn the assignment into a detailed specification, recommend the CSV schema, develop and save GUI mockups, write an implementation plan, and execute the plan using test-driven development. Each feature began with a failing contract test, followed by the smallest implementation needed to pass it. Task-specific commits and an execution ledger preserved traceability.
+AI was used to turn the initial product requirements into a detailed specification, recommend the CSV schema, develop and save GUI mockups, write an implementation plan, and execute the plan using test-driven development. Each feature began with a failing contract test, followed by the smallest implementation needed to pass it. Task-specific commits and an execution ledger preserved traceability.
 
 After the initial build, AI also helped investigate the date-range reset, strengthen validation and filter-state handling, generate and validate the six-month test dataset, merge the feature work locally, rename the project directory, diagnose a stale Streamlit process after the rename, and publish the repository to GitHub.
 
@@ -98,9 +98,9 @@ Final review also found and resolved source-transition, integer-boundary, missin
 - Unit labels belong in metric cards, table headers, axes, legends, and hover text—not only in documentation.
 - Deterministic sample data makes screenshots, demonstrations, and tests reproducible.
 - Long-running development servers should be restarted after a project directory or worktree is renamed because their working directory and script path do not update automatically.
-- A second deterministic dataset is useful for validating uploads and longer reporting periods without making the default classroom demonstration harder to reproduce.
+- A second deterministic dataset is useful for validating uploads and longer reporting periods without making the default product demonstration harder to reproduce.
 
-## Submission links
+## Project links
 
 - GitHub repository: <https://github.com/melepatt/Week1-AdCampainAnalyzer>
 - Project directory on GitHub: <https://github.com/melepatt/Week1-AdCampainAnalyzer/tree/main/Week1-AdCampainAnalyzer>
