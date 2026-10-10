@@ -1,0 +1,1081 @@
+date,campaign_id,campaign_name,platform,audience,campaign_goal,spend,impressions,clicks,conversions,revenue
+2026-01-01,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,121.96,5381,235,24,994.38
+2026-01-02,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,101.22,4936,230,11,494.55
+2026-01-03,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,129.82,6640,278,31,1391.58
+2026-01-04,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,107.31,4913,98,11,514.29
+2026-01-05,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,116.29,4989,235,28,1349.77
+2026-01-06,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,114.27,5087,98,5,236.31
+2026-01-07,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,147.15,7612,211,15,677.23
+2026-01-08,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,134.07,5319,172,10,471.31
+2026-01-09,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,129.19,6432,281,18,877.31
+2026-01-10,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,122.65,5321,159,16,670.14
+2026-01-11,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,128.73,4880,203,20,949.62
+2026-01-12,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,115.72,5139,180,9,374.7
+2026-01-13,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,108.67,4845,169,18,842.11
+2026-01-14,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,128.07,5872,159,6,268.94
+2026-01-15,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,131.87,5760,251,14,575.08
+2026-01-16,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,127.26,5348,227,20,965.21
+2026-01-17,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,129.16,5638,268,14,570.15
+2026-01-18,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,115.92,5588,178,9,409.14
+2026-01-19,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,127.6,6103,192,14,608.79
+2026-01-20,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,120.3,5174,107,5,250.11
+2026-01-21,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,126.89,6075,158,20,964.19
+2026-01-22,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,131.61,5826,152,7,346.05
+2026-01-23,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,133.18,5422,165,15,633.75
+2026-01-24,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,102.62,5000,222,17,794.08
+2026-01-25,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,143.82,6782,139,10,409.12
+2026-01-26,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,140.76,5989,134,6,277.91
+2026-01-27,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,113.96,5826,206,14,648.9
+2026-01-28,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,119.77,6181,201,22,909.02
+2026-01-29,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,150.0,6730,310,28,1265.25
+2026-01-30,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,126.76,5397,203,16,651.42
+2026-01-31,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,137.79,6987,174,15,623.62
+2026-02-01,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,116.87,4891,185,19,914.08
+2026-02-02,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,137.05,6988,174,7,321.95
+2026-02-03,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,152.88,7606,321,21,1048.61
+2026-02-04,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,129.28,5846,150,19,800.46
+2026-02-05,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,117.97,5198,248,30,1437.34
+2026-02-06,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,126.56,6412,241,16,770.29
+2026-02-07,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,118.91,5135,120,13,560.28
+2026-02-08,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,107.9,4453,97,11,462.19
+2026-02-09,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,119.63,5555,246,13,566.44
+2026-02-10,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,133.95,6938,229,11,447.02
+2026-02-11,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,144.68,5744,220,10,455.13
+2026-02-12,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,113.78,5253,126,14,666.16
+2026-02-13,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,107.26,4257,104,13,577.67
+2026-02-14,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,121.25,5436,231,29,1256.74
+2026-02-15,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,116.31,4438,154,15,623.23
+2026-02-16,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,127.4,5585,262,24,1193.69
+2026-02-17,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,122.32,5447,226,8,332.64
+2026-02-18,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,116.34,5733,143,12,557.99
+2026-02-19,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,119.28,5151,159,15,736.32
+2026-02-20,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,106.35,4400,124,13,631.59
+2026-02-21,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,167.68,6499,261,13,632.63
+2026-02-22,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,113.37,4520,206,10,433.19
+2026-02-23,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,125.5,4953,92,4,168.92
+2026-02-24,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,119.75,5546,213,15,654.72
+2026-02-25,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,128.48,6475,282,11,465.27
+2026-02-26,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,167.57,6936,244,18,737.78
+2026-02-27,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,112.39,5597,123,15,622.22
+2026-02-28,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,141.37,7181,381,42,2025.11
+2026-03-01,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,129.19,6333,140,12,547.09
+2026-03-02,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,149.47,6646,196,19,819.62
+2026-03-03,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,123.52,5519,168,10,441.38
+2026-03-04,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,141.25,6005,176,18,781.9
+2026-03-05,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,147.65,7529,244,16,732.81
+2026-03-06,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,154.18,7277,343,29,1356.21
+2026-03-07,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,119.55,5784,156,16,784.34
+2026-03-08,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,130.69,6096,127,13,537.37
+2026-03-09,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,107.37,4271,200,22,1020.3
+2026-03-10,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,139.17,6854,318,19,880.49
+2026-03-11,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,120.59,5628,130,12,554.0
+2026-03-12,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,97.48,4418,181,20,907.45
+2026-03-13,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,100.89,5167,125,6,248.21
+2026-03-14,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,136.05,5963,275,27,1182.68
+2026-03-15,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,134.28,6550,171,12,523.36
+2026-03-16,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,128.9,5147,237,18,797.31
+2026-03-17,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,152.7,6988,322,35,1583.6
+2026-03-18,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,131.62,6845,271,34,1416.88
+2026-03-19,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,165.38,7769,168,15,709.39
+2026-03-20,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,133.37,5914,283,18,810.71
+2026-03-21,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,120.44,5076,259,28,1164.66
+2026-03-22,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,98.52,4971,132,15,623.3
+2026-03-23,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,134.35,5253,236,9,385.96
+2026-03-24,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,129.89,6363,152,18,845.95
+2026-03-25,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,128.8,4879,95,9,435.91
+2026-03-26,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,111.17,5562,110,12,596.22
+2026-03-27,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,135.94,6505,314,12,509.97
+2026-03-28,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,153.09,7176,350,17,812.14
+2026-03-29,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,120.35,5018,197,25,1163.86
+2026-03-30,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,139.36,6505,125,15,712.87
+2026-03-31,FB001,Facebook Brand Lift,Facebook,Broad Adults,Awareness,147.43,5768,136,17,765.68
+2026-01-01,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,127.56,6523,229,11,755.74
+2026-01-02,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,117.72,5912,258,25,1715.74
+2026-01-03,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,127.36,6257,211,17,976.24
+2026-01-04,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,123.46,5620,153,12,769.61
+2026-01-05,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,122.39,5828,176,10,638.24
+2026-01-06,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,108.28,4518,138,11,647.65
+2026-01-07,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,110.48,5527,216,21,1358.68
+2026-01-08,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,131.41,7031,242,18,1158.1
+2026-01-09,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,157.64,7756,348,41,2802.89
+2026-01-10,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,122.9,6061,285,18,1209.99
+2026-01-11,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,132.61,7209,142,9,543.22
+2026-01-12,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,119.93,5527,223,8,536.66
+2026-01-13,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,104.41,4907,111,10,574.32
+2026-01-14,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,85.09,4781,229,25,1501.04
+2026-01-15,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,130.74,6827,202,19,1062.98
+2026-01-16,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,135.26,6681,171,9,604.86
+2026-01-17,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,146.61,7313,354,46,2655.64
+2026-01-18,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,143.83,6805,139,15,925.75
+2026-01-19,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,146.18,6362,149,18,1015.36
+2026-01-20,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,104.54,4782,156,14,875.4
+2026-01-21,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,115.13,5179,224,21,1357.74
+2026-01-22,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,122.45,6505,128,9,568.43
+2026-01-23,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,134.92,7340,267,29,1955.22
+2026-01-24,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,125.04,6930,276,32,1934.26
+2026-01-25,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,114.42,5425,247,23,1339.09
+2026-01-26,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,138.72,6126,115,14,866.79
+2026-01-27,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,129.3,6535,119,7,457.73
+2026-01-28,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,129.51,7324,268,22,1456.09
+2026-01-29,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,132.05,6927,325,36,2434.43
+2026-01-30,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,137.0,7212,252,22,1423.88
+2026-01-31,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,149.38,8455,252,26,1716.77
+2026-02-01,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,121.91,5255,101,11,687.27
+2026-02-02,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,138.93,6731,319,24,1599.02
+2026-02-03,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,145.43,7253,305,37,2479.74
+2026-02-04,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,134.34,6315,123,6,390.07
+2026-02-05,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,108.92,5805,255,27,1801.54
+2026-02-06,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,131.9,5914,243,28,1564.12
+2026-02-07,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,132.46,6859,145,11,748.18
+2026-02-08,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,147.68,6629,289,20,1348.79
+2026-02-09,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,123.56,6229,186,11,746.82
+2026-02-10,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,113.98,4843,137,14,935.39
+2026-02-11,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,157.83,7230,219,11,700.05
+2026-02-12,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,105.77,5004,227,19,1095.02
+2026-02-13,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,152.95,6457,174,6,371.9
+2026-02-14,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,132.51,6167,211,27,1783.53
+2026-02-15,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,117.71,5370,241,14,843.33
+2026-02-16,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,137.12,6782,273,25,1617.82
+2026-02-17,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,120.67,5423,150,7,474.08
+2026-02-18,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,136.15,6803,284,31,1915.17
+2026-02-19,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,139.69,7928,303,34,2315.77
+2026-02-20,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,125.07,5511,215,10,647.06
+2026-02-21,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,125.39,6169,214,8,551.13
+2026-02-22,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,119.93,5014,127,5,310.04
+2026-02-23,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,128.88,5936,116,5,305.22
+2026-02-24,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,146.63,7641,185,12,734.11
+2026-02-25,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,141.18,5815,124,15,837.25
+2026-02-26,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,129.28,6313,177,13,863.81
+2026-02-27,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,118.01,5339,165,10,623.45
+2026-02-28,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,119.57,5349,167,21,1185.71
+2026-03-01,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,116.96,6119,138,5,288.43
+2026-03-02,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,136.92,5656,134,5,286.54
+2026-03-03,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,101.28,4552,160,15,1010.79
+2026-03-04,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,134.75,7349,269,14,928.8
+2026-03-05,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,120.82,5455,249,19,1216.58
+2026-03-06,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,159.15,7453,354,23,1534.13
+2026-03-07,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,140.21,6247,213,14,796.12
+2026-03-08,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,138.95,6474,120,6,394.15
+2026-03-09,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,158.32,8350,230,27,1725.3
+2026-03-10,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,134.62,5844,227,12,752.63
+2026-03-11,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,115.94,4779,88,11,701.52
+2026-03-12,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,134.97,7454,331,28,1799.87
+2026-03-13,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,132.82,5572,224,14,907.93
+2026-03-14,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,109.44,4536,182,10,677.2
+2026-03-15,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,135.92,6896,239,17,1105.73
+2026-03-16,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,154.13,7714,314,40,2460.76
+2026-03-17,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,138.87,5743,241,20,1227.29
+2026-03-18,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,126.81,6988,209,21,1214.59
+2026-03-19,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,119.57,5256,126,15,1023.71
+2026-03-20,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,119.4,5794,260,31,1890.08
+2026-03-21,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,134.75,7113,318,35,2225.09
+2026-03-22,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,120.22,6652,292,32,1829.19
+2026-03-23,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,157.64,8326,156,20,1218.89
+2026-03-24,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,162.61,8956,267,17,1089.75
+2026-03-25,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,149.63,7119,257,32,1989.72
+2026-03-26,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,150.67,7093,212,10,580.22
+2026-03-27,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,143.78,6683,349,20,1142.99
+2026-03-28,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,136.88,7525,222,12,700.01
+2026-03-29,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,131.94,6400,165,6,374.21
+2026-03-30,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,148.76,7645,251,11,651.68
+2026-03-31,FB002,Facebook Site Visits,Facebook,Website Visitors,Traffic,135.03,7177,318,38,2630.72
+2026-01-01,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,111.56,6770,136,7,710.73
+2026-01-02,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,120.57,5566,270,25,2675.72
+2026-01-03,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,121.05,5909,151,18,1943.92
+2026-01-04,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,115.31,5713,166,12,1344.68
+2026-01-05,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,124.83,5995,277,13,1497.61
+2026-01-06,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,110.22,5402,234,12,1248.64
+2026-01-07,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,134.42,6544,257,30,3441.08
+2026-01-08,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,114.67,6138,156,9,884.02
+2026-01-09,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,116.11,6918,320,27,2857.49
+2026-01-10,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,125.46,6727,234,11,1071.43
+2026-01-11,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,133.81,7051,329,17,1824.22
+2026-01-12,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,112.87,5510,104,5,578.4
+2026-01-13,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,140.0,7677,245,18,1922.16
+2026-01-14,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,132.91,8146,347,37,3897.15
+2026-01-15,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,134.64,8097,229,9,921.69
+2026-01-16,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,122.4,6742,306,34,3379.47
+2026-01-17,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,130.77,6793,283,10,1174.47
+2026-01-18,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,125.8,5733,182,9,882.17
+2026-01-19,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,127.98,6551,299,20,2225.5
+2026-01-20,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,144.36,8043,289,23,2678.27
+2026-01-21,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,109.28,5194,199,23,2194.89
+2026-01-22,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,111.14,6630,268,35,3737.15
+2026-01-23,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,123.67,6140,319,22,2454.31
+2026-01-24,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,128.87,6965,309,26,3001.8
+2026-01-25,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,141.63,7860,222,16,1674.64
+2026-01-26,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,130.77,6025,229,22,2415.89
+2026-01-27,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,136.03,6809,163,18,2058.85
+2026-01-28,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,116.97,6532,143,9,879.33
+2026-01-29,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,139.69,7818,354,19,2033.42
+2026-01-30,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,102.89,6244,254,15,1634.23
+2026-01-31,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,145.87,8909,299,30,2851.1
+2026-02-01,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,124.68,7401,269,21,2438.52
+2026-02-02,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,141.28,7062,242,20,2182.08
+2026-02-03,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,121.84,5929,269,33,3761.37
+2026-02-04,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,138.4,7910,324,35,3696.07
+2026-02-05,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,113.77,5529,206,13,1305.92
+2026-02-06,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,138.9,7150,197,22,2516.34
+2026-02-07,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,124.15,5543,174,19,2163.81
+2026-02-08,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,132.12,7617,164,12,1410.81
+2026-02-09,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,120.81,5694,175,16,1856.8
+2026-02-10,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,153.34,7008,155,17,1712.78
+2026-02-11,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,135.27,7544,161,18,1774.33
+2026-02-12,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,130.11,7011,232,23,2520.27
+2026-02-13,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,125.05,7687,288,13,1447.07
+2026-02-14,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,147.81,7379,263,20,1913.76
+2026-02-15,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,141.72,7159,298,34,3857.99
+2026-02-16,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,152.81,7636,309,34,3598.83
+2026-02-17,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,131.54,6177,274,12,1176.56
+2026-02-18,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,139.98,6392,125,4,418.32
+2026-02-19,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,131.97,5953,224,25,2459.52
+2026-02-20,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,132.04,7806,373,32,3629.55
+2026-02-21,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,154.98,7937,357,21,2349.45
+2026-02-22,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,134.58,7704,246,17,1692.58
+2026-02-23,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,128.39,7352,159,7,690.01
+2026-02-24,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,150.53,8803,264,34,3320.77
+2026-02-25,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,128.49,6698,200,24,2808.87
+2026-02-26,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,102.05,4876,120,12,1214.13
+2026-02-27,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,115.5,6252,242,28,3105.57
+2026-02-28,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,131.14,5948,240,19,1909.7
+2026-03-01,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,123.03,7059,302,27,2791.85
+2026-03-02,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,142.53,7607,209,19,2092.48
+2026-03-03,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,146.51,6525,159,19,2079.16
+2026-03-04,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,146.43,8730,280,22,2554.44
+2026-03-05,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,148.58,7157,255,14,1542.76
+2026-03-06,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,159.25,7358,200,15,1478.53
+2026-03-07,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,136.82,8087,250,17,1628.2
+2026-03-08,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,171.07,8384,304,17,1955.36
+2026-03-09,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,128.45,5936,126,6,652.87
+2026-03-10,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,121.73,7179,292,33,3519.52
+2026-03-11,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,150.27,6803,204,13,1513.38
+2026-03-12,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,147.27,8570,198,25,2650.46
+2026-03-13,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,140.66,7211,287,14,1426.84
+2026-03-14,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,148.51,6872,339,31,3186.35
+2026-03-15,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,132.14,6850,253,31,3597.46
+2026-03-16,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,137.51,6890,217,19,1998.19
+2026-03-17,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,144.54,7794,215,15,1548.68
+2026-03-18,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,165.56,7837,311,22,2188.03
+2026-03-19,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,134.07,7687,198,22,2550.36
+2026-03-20,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,150.18,8390,184,23,2382.03
+2026-03-21,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,146.36,7953,162,6,661.31
+2026-03-22,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,146.42,6585,265,31,3284.98
+2026-03-23,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,152.91,6822,284,19,2181.19
+2026-03-24,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,170.75,9238,241,12,1348.8
+2026-03-25,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,110.56,5928,278,35,3999.29
+2026-03-26,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,124.93,6821,302,21,2033.55
+2026-03-27,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,151.07,7960,311,40,4341.06
+2026-03-28,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,160.35,8145,278,13,1467.16
+2026-03-29,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,132.52,6539,177,21,1996.13
+2026-03-30,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,148.17,7762,300,15,1649.08
+2026-03-31,FB003,Facebook Holiday Sales,Facebook,Past Customers,Sales,142.49,7839,151,12,1278.77
+2026-01-01,IG001,Instagram Reach,Instagram,Young Adults,Awareness,109.34,5514,130,9,398.0
+2026-01-02,IG001,Instagram Reach,Instagram,Young Adults,Awareness,141.61,7826,370,47,2070.47
+2026-01-03,IG001,Instagram Reach,Instagram,Young Adults,Awareness,138.97,8863,368,28,1337.06
+2026-01-04,IG001,Instagram Reach,Instagram,Young Adults,Awareness,136.32,7856,376,47,2050.45
+2026-01-05,IG001,Instagram Reach,Instagram,Young Adults,Awareness,121.2,6470,292,11,583.91
+2026-01-06,IG001,Instagram Reach,Instagram,Young Adults,Awareness,114.05,5705,113,13,582.98
+2026-01-07,IG001,Instagram Reach,Instagram,Young Adults,Awareness,126.24,8153,286,21,1005.89
+2026-01-08,IG001,Instagram Reach,Instagram,Young Adults,Awareness,143.4,9400,257,14,647.09
+2026-01-09,IG001,Instagram Reach,Instagram,Young Adults,Awareness,116.73,5790,285,29,1506.99
+2026-01-10,IG001,Instagram Reach,Instagram,Young Adults,Awareness,142.68,9023,468,22,1135.28
+2026-01-11,IG001,Instagram Reach,Instagram,Young Adults,Awareness,139.29,8050,362,46,2329.58
+2026-01-12,IG001,Instagram Reach,Instagram,Young Adults,Awareness,94.26,5298,157,11,520.68
+2026-01-13,IG001,Instagram Reach,Instagram,Young Adults,Awareness,148.87,7338,304,24,1272.67
+2026-01-14,IG001,Instagram Reach,Instagram,Young Adults,Awareness,152.12,7381,168,9,481.53
+2026-01-15,IG001,Instagram Reach,Instagram,Young Adults,Awareness,140.73,8062,372,48,2193.41
+2026-01-16,IG001,Instagram Reach,Instagram,Young Adults,Awareness,128.62,6519,145,8,393.63
+2026-01-17,IG001,Instagram Reach,Instagram,Young Adults,Awareness,136.53,7875,324,18,929.77
+2026-01-18,IG001,Instagram Reach,Instagram,Young Adults,Awareness,163.04,10376,482,33,1457.16
+2026-01-19,IG001,Instagram Reach,Instagram,Young Adults,Awareness,163.27,9121,423,30,1540.18
+2026-01-20,IG001,Instagram Reach,Instagram,Young Adults,Awareness,130.91,6704,185,18,905.5
+2026-01-21,IG001,Instagram Reach,Instagram,Young Adults,Awareness,144.94,7544,299,15,796.37
+2026-01-22,IG001,Instagram Reach,Instagram,Young Adults,Awareness,121.64,6062,200,17,825.63
+2026-01-23,IG001,Instagram Reach,Instagram,Young Adults,Awareness,128.38,8476,309,25,1191.35
+2026-01-24,IG001,Instagram Reach,Instagram,Young Adults,Awareness,139.33,8178,228,22,962.21
+2026-01-25,IG001,Instagram Reach,Instagram,Young Adults,Awareness,166.0,9368,421,34,1490.46
+2026-01-26,IG001,Instagram Reach,Instagram,Young Adults,Awareness,141.75,8463,351,27,1348.29
+2026-01-27,IG001,Instagram Reach,Instagram,Young Adults,Awareness,166.13,9867,281,28,1408.25
+2026-01-28,IG001,Instagram Reach,Instagram,Young Adults,Awareness,125.46,6856,211,24,1164.98
+2026-01-29,IG001,Instagram Reach,Instagram,Young Adults,Awareness,118.03,6641,162,17,757.94
+2026-01-30,IG001,Instagram Reach,Instagram,Young Adults,Awareness,150.92,8952,405,49,2257.85
+2026-01-31,IG001,Instagram Reach,Instagram,Young Adults,Awareness,164.32,10733,272,15,694.15
+2026-02-01,IG001,Instagram Reach,Instagram,Young Adults,Awareness,143.71,9195,375,38,1711.9
+2026-02-02,IG001,Instagram Reach,Instagram,Young Adults,Awareness,148.2,8389,188,11,511.02
+2026-02-03,IG001,Instagram Reach,Instagram,Young Adults,Awareness,136.13,7884,309,13,627.65
+2026-02-04,IG001,Instagram Reach,Instagram,Young Adults,Awareness,141.04,8677,368,29,1504.09
+2026-02-05,IG001,Instagram Reach,Instagram,Young Adults,Awareness,128.28,6986,163,13,615.42
+2026-02-06,IG001,Instagram Reach,Instagram,Young Adults,Awareness,108.15,6661,205,12,534.99
+2026-02-07,IG001,Instagram Reach,Instagram,Young Adults,Awareness,144.74,7730,252,14,717.62
+2026-02-08,IG001,Instagram Reach,Instagram,Young Adults,Awareness,127.59,7268,271,32,1719.92
+2026-02-09,IG001,Instagram Reach,Instagram,Young Adults,Awareness,99.77,6396,289,32,1538.16
+2026-02-10,IG001,Instagram Reach,Instagram,Young Adults,Awareness,154.32,7433,240,20,950.03
+2026-02-11,IG001,Instagram Reach,Instagram,Young Adults,Awareness,142.26,8244,355,16,729.25
+2026-02-12,IG001,Instagram Reach,Instagram,Young Adults,Awareness,148.54,9409,450,53,2787.66
+2026-02-13,IG001,Instagram Reach,Instagram,Young Adults,Awareness,150.01,8281,242,22,1168.5
+2026-02-14,IG001,Instagram Reach,Instagram,Young Adults,Awareness,113.9,6611,199,10,452.61
+2026-02-15,IG001,Instagram Reach,Instagram,Young Adults,Awareness,128.72,8392,252,29,1461.45
+2026-02-16,IG001,Instagram Reach,Instagram,Young Adults,Awareness,128.84,6581,279,17,898.35
+2026-02-17,IG001,Instagram Reach,Instagram,Young Adults,Awareness,141.11,8501,361,21,968.45
+2026-02-18,IG001,Instagram Reach,Instagram,Young Adults,Awareness,123.15,6491,201,15,688.08
+2026-02-19,IG001,Instagram Reach,Instagram,Young Adults,Awareness,136.49,8457,248,28,1272.6
+2026-02-20,IG001,Instagram Reach,Instagram,Young Adults,Awareness,140.16,8171,438,17,771.74
+2026-02-21,IG001,Instagram Reach,Instagram,Young Adults,Awareness,137.8,8634,200,15,766.34
+2026-02-22,IG001,Instagram Reach,Instagram,Young Adults,Awareness,107.29,5507,131,10,482.63
+2026-02-23,IG001,Instagram Reach,Instagram,Young Adults,Awareness,120.55,7184,278,36,1711.77
+2026-02-24,IG001,Instagram Reach,Instagram,Young Adults,Awareness,145.04,9387,238,25,1279.21
+2026-02-25,IG001,Instagram Reach,Instagram,Young Adults,Awareness,156.66,8839,212,11,529.08
+2026-02-26,IG001,Instagram Reach,Instagram,Young Adults,Awareness,148.08,9240,418,47,2162.44
+2026-02-27,IG001,Instagram Reach,Instagram,Young Adults,Awareness,137.55,7225,178,22,1043.8
+2026-02-28,IG001,Instagram Reach,Instagram,Young Adults,Awareness,182.49,11556,388,15,673.65
+2026-03-01,IG001,Instagram Reach,Instagram,Young Adults,Awareness,142.16,8837,215,26,1356.85
+2026-03-02,IG001,Instagram Reach,Instagram,Young Adults,Awareness,108.48,5644,110,13,603.58
+2026-03-03,IG001,Instagram Reach,Instagram,Young Adults,Awareness,130.11,8033,176,19,1009.1
+2026-03-04,IG001,Instagram Reach,Instagram,Young Adults,Awareness,117.01,6544,290,25,1276.62
+2026-03-05,IG001,Instagram Reach,Instagram,Young Adults,Awareness,149.44,9198,245,11,502.89
+2026-03-06,IG001,Instagram Reach,Instagram,Young Adults,Awareness,143.24,8178,325,24,1236.23
+2026-03-07,IG001,Instagram Reach,Instagram,Young Adults,Awareness,135.45,7095,319,32,1559.16
+2026-03-08,IG001,Instagram Reach,Instagram,Young Adults,Awareness,120.48,7516,352,36,1904.13
+2026-03-09,IG001,Instagram Reach,Instagram,Young Adults,Awareness,177.21,9623,357,29,1554.95
+2026-03-10,IG001,Instagram Reach,Instagram,Young Adults,Awareness,133.29,7384,327,20,1030.38
+2026-03-11,IG001,Instagram Reach,Instagram,Young Adults,Awareness,142.17,9348,416,26,1334.66
+2026-03-12,IG001,Instagram Reach,Instagram,Young Adults,Awareness,120.45,7099,268,31,1347.2
+2026-03-13,IG001,Instagram Reach,Instagram,Young Adults,Awareness,122.26,7441,291,24,1050.79
+2026-03-14,IG001,Instagram Reach,Instagram,Young Adults,Awareness,153.26,9756,207,15,797.71
+2026-03-15,IG001,Instagram Reach,Instagram,Young Adults,Awareness,136.52,8403,216,25,1276.96
+2026-03-16,IG001,Instagram Reach,Instagram,Young Adults,Awareness,147.01,7618,259,28,1282.25
+2026-03-17,IG001,Instagram Reach,Instagram,Young Adults,Awareness,119.49,5780,270,28,1397.52
+2026-03-18,IG001,Instagram Reach,Instagram,Young Adults,Awareness,111.14,6399,207,16,799.41
+2026-03-19,IG001,Instagram Reach,Instagram,Young Adults,Awareness,159.88,10245,434,30,1479.3
+2026-03-20,IG001,Instagram Reach,Instagram,Young Adults,Awareness,143.57,9420,476,58,2709.04
+2026-03-21,IG001,Instagram Reach,Instagram,Young Adults,Awareness,154.22,7980,185,9,395.58
+2026-03-22,IG001,Instagram Reach,Instagram,Young Adults,Awareness,173.6,8546,188,21,1035.87
+2026-03-23,IG001,Instagram Reach,Instagram,Young Adults,Awareness,146.86,8722,388,37,1802.4
+2026-03-24,IG001,Instagram Reach,Instagram,Young Adults,Awareness,124.94,7002,199,16,719.87
+2026-03-25,IG001,Instagram Reach,Instagram,Young Adults,Awareness,134.2,7064,160,9,468.83
+2026-03-26,IG001,Instagram Reach,Instagram,Young Adults,Awareness,127.18,7681,336,14,717.9
+2026-03-27,IG001,Instagram Reach,Instagram,Young Adults,Awareness,139.37,7224,313,38,1759.99
+2026-03-28,IG001,Instagram Reach,Instagram,Young Adults,Awareness,138.47,7362,286,27,1340.42
+2026-03-29,IG001,Instagram Reach,Instagram,Young Adults,Awareness,131.82,6636,258,26,1310.61
+2026-03-30,IG001,Instagram Reach,Instagram,Young Adults,Awareness,131.6,7374,223,10,455.48
+2026-03-31,IG001,Instagram Reach,Instagram,Young Adults,Awareness,133.83,8221,206,23,1126.16
+2026-01-01,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,134.94,6019,198,19,1426.57
+2026-01-02,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,116.67,5298,214,22,1370.05
+2026-01-03,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,135.65,6068,310,25,1705.15
+2026-01-04,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,149.09,6603,155,9,563.62
+2026-01-05,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,134.7,5929,244,26,1603.7
+2026-01-06,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,130.72,5232,242,12,846.89
+2026-01-07,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,141.01,6633,201,22,1422.32
+2026-01-08,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,141.67,6376,259,30,2284.27
+2026-01-09,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,109.64,4597,131,8,559.31
+2026-01-10,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,144.56,7526,285,27,1999.76
+2026-01-11,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,146.16,5954,202,23,1511.93
+2026-01-12,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,147.58,7673,365,44,3218.37
+2026-01-13,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,137.17,5819,200,18,1237.72
+2026-01-14,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,139.52,6094,247,16,1058.35
+2026-01-15,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,136.96,5549,241,19,1227.57
+2026-01-16,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,137.45,6292,131,9,574.63
+2026-01-17,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,140.29,5859,131,5,349.51
+2026-01-18,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,135.17,6762,153,14,949.94
+2026-01-19,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,123.14,4782,201,24,1472.76
+2026-01-20,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,135.02,6861,237,12,770.8
+2026-01-21,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,130.5,6295,227,28,1920.55
+2026-01-22,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,148.01,6612,190,11,680.76
+2026-01-23,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,157.52,7568,157,12,850.01
+2026-01-24,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,124.32,6090,289,30,1882.14
+2026-01-25,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,128.28,5964,151,6,387.27
+2026-01-26,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,118.11,5169,120,14,1050.68
+2026-01-27,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,153.7,7867,146,18,1357.94
+2026-01-28,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,139.86,6823,321,39,2953.15
+2026-01-29,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,146.53,5704,248,23,1619.12
+2026-01-30,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,131.47,6052,153,16,997.16
+2026-01-31,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,153.98,7703,278,23,1515.03
+2026-02-01,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,132.3,6398,186,10,644.85
+2026-02-02,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,134.93,6932,277,15,1110.89
+2026-02-03,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,140.18,7018,177,17,1276.07
+2026-02-04,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,142.13,6791,323,16,1000.36
+2026-02-05,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,130.74,5582,112,9,652.29
+2026-02-06,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,144.6,6164,299,25,1845.18
+2026-02-07,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,153.9,7929,333,15,1116.61
+2026-02-08,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,132.84,5292,119,12,742.9
+2026-02-09,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,145.12,5778,180,13,897.09
+2026-02-10,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,137.81,5273,192,14,993.22
+2026-02-11,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,116.12,4412,112,9,603.86
+2026-02-12,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,134.7,5825,198,18,1107.48
+2026-02-13,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,145.39,6218,213,9,656.2
+2026-02-14,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,150.4,5733,231,25,1636.52
+2026-02-15,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,147.26,6907,317,41,2535.17
+2026-02-16,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,133.99,6120,137,9,683.78
+2026-02-17,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,142.14,6299,273,18,1230.8
+2026-02-18,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,168.41,7518,165,7,527.4
+2026-02-19,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,146.07,6582,136,10,751.14
+2026-02-20,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,144.26,7470,216,18,1333.05
+2026-02-21,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,123.65,5172,253,18,1244.51
+2026-02-22,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,162.79,6591,178,7,469.43
+2026-02-23,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,154.99,7376,173,17,1107.41
+2026-02-24,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,157.82,6758,267,21,1398.71
+2026-02-25,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,131.06,6033,147,18,1193.87
+2026-02-26,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,156.06,7011,152,9,651.39
+2026-02-27,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,146.22,7226,373,35,2513.94
+2026-02-28,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,130.21,6783,215,11,758.63
+2026-03-01,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,141.49,5711,208,8,600.62
+2026-03-02,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,143.28,5498,117,7,457.08
+2026-03-03,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,147.06,5967,175,13,861.53
+2026-03-04,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,133.46,5217,98,5,362.6
+2026-03-05,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,161.21,8249,273,23,1515.84
+2026-03-06,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,153.53,7494,364,44,2978.71
+2026-03-07,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,148.41,7333,224,28,1753.12
+2026-03-08,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,169.32,8278,172,17,1049.09
+2026-03-09,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,143.47,7074,255,30,1879.93
+2026-03-10,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,150.7,6595,127,10,651.68
+2026-03-11,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,154.89,6803,302,18,1342.27
+2026-03-12,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,159.17,6768,224,17,1105.85
+2026-03-13,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,147.87,5913,189,17,1145.54
+2026-03-14,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,163.86,6800,359,39,2951.33
+2026-03-15,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,137.15,5465,185,9,660.97
+2026-03-16,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,167.06,6949,319,15,1044.53
+2026-03-17,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,138.67,5359,193,22,1368.62
+2026-03-18,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,151.12,6275,238,11,827.4
+2026-03-19,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,152.73,6182,171,16,1151.08
+2026-03-20,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,138.88,5562,132,17,1156.21
+2026-03-21,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,168.8,7553,386,17,1069.4
+2026-03-22,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,125.19,6440,177,12,815.62
+2026-03-23,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,145.91,5915,266,16,1148.01
+2026-03-24,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,157.89,6056,228,15,1065.09
+2026-03-25,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,123.46,6355,257,30,1897.25
+2026-03-26,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,144.03,6208,212,13,807.39
+2026-03-27,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,136.44,5658,187,10,651.18
+2026-03-28,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,151.49,6573,209,18,1309.45
+2026-03-29,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,152.82,7069,332,28,2094.7
+2026-03-30,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,158.13,6111,189,19,1443.26
+2026-03-31,IG002,Instagram Style Guide,Instagram,Fashion Enthusiasts,Traffic,170.92,6689,233,11,796.87
+2026-01-01,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,136.73,7179,316,30,3569.84
+2026-01-02,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,139.33,7575,374,14,1646.0
+2026-01-03,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,145.97,7977,335,25,2706.48
+2026-01-04,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,121.82,6358,153,7,881.77
+2026-01-05,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,137.65,6097,163,21,2549.76
+2026-01-06,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,120.78,5554,150,6,731.58
+2026-01-07,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,129.47,5339,213,27,3311.27
+2026-01-08,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,148.32,7235,225,15,1750.49
+2026-01-09,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,142.9,7222,364,47,4958.13
+2026-01-10,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,141.68,6233,199,12,1294.99
+2026-01-11,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,137.24,6717,306,12,1262.33
+2026-01-12,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,148.62,6304,163,21,2284.52
+2026-01-13,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,165.45,8298,273,25,2825.79
+2026-01-14,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,155.34,6731,208,21,2634.79
+2026-01-15,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,171.13,8567,172,9,947.24
+2026-01-16,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,157.09,7175,319,13,1629.19
+2026-01-17,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,131.33,5589,117,5,625.48
+2026-01-18,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,104.69,5209,160,18,2085.64
+2026-01-19,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,141.9,8041,181,21,2200.99
+2026-01-20,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,160.23,8822,335,34,3745.51
+2026-01-21,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,147.56,6922,233,18,2011.87
+2026-01-22,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,157.64,7109,206,10,1255.64
+2026-01-23,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,162.29,7020,305,35,3832.84
+2026-01-24,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,146.27,6040,131,14,1798.66
+2026-01-25,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,154.21,8156,164,15,1839.43
+2026-01-26,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,115.46,4772,171,22,2420.39
+2026-01-27,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,134.04,5778,200,18,2223.8
+2026-01-28,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,143.09,7892,333,19,2233.71
+2026-01-29,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,148.18,6865,316,32,4101.03
+2026-01-30,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,139.22,6904,252,11,1204.37
+2026-01-31,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,138.94,5866,302,14,1519.12
+2026-02-01,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,142.86,6097,274,28,2946.61
+2026-02-02,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,135.1,6899,281,32,3893.58
+2026-02-03,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,123.92,5727,223,28,3314.2
+2026-02-04,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,154.17,7402,301,39,4194.76
+2026-02-05,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,122.53,6080,197,18,1885.35
+2026-02-06,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,142.94,7190,286,28,3408.2
+2026-02-07,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,149.52,8007,330,28,3327.43
+2026-02-08,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,123.23,5600,189,22,2654.96
+2026-02-09,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,133.67,6743,166,17,2115.38
+2026-02-10,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,164.98,8320,234,18,2256.51
+2026-02-11,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,120.8,5957,173,7,749.83
+2026-02-12,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,162.36,7633,354,29,3173.8
+2026-02-13,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,125.84,5847,278,20,2460.89
+2026-02-14,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,133.83,5741,233,29,3296.55
+2026-02-15,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,161.13,8965,399,34,3994.05
+2026-02-16,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,157.8,8523,281,11,1328.58
+2026-02-17,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,158.43,8581,226,9,1145.62
+2026-02-18,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,136.4,6753,252,20,2282.4
+2026-02-19,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,122.43,5225,131,15,1607.84
+2026-02-20,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,131.74,6556,180,9,1059.77
+2026-02-21,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,157.82,8045,409,20,2532.2
+2026-02-22,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,156.95,8500,314,29,3470.49
+2026-02-23,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,159.67,6613,309,28,3451.59
+2026-02-24,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,148.67,6148,205,17,1947.45
+2026-02-25,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,168.77,7608,257,18,2304.71
+2026-02-26,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,139.7,6450,173,15,1741.98
+2026-02-27,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,148.08,8301,247,25,2603.34
+2026-02-28,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,153.52,7435,158,15,1809.92
+2026-03-01,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,171.75,8460,306,22,2299.96
+2026-03-02,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,174.6,8980,430,16,1881.71
+2026-03-03,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,150.78,8161,280,26,3149.31
+2026-03-04,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,176.16,7589,347,13,1620.53
+2026-03-05,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,177.98,7869,143,11,1231.55
+2026-03-06,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,143.53,6923,233,25,3152.4
+2026-03-07,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,148.96,6422,193,24,2537.88
+2026-03-08,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,160.44,8975,418,31,3731.94
+2026-03-09,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,163.14,8642,164,8,952.31
+2026-03-10,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,127.22,6565,187,22,2733.0
+2026-03-11,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,122.37,6520,170,14,1518.95
+2026-03-12,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,173.1,9359,422,50,6388.89
+2026-03-13,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,176.9,9866,388,29,3412.65
+2026-03-14,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,126.84,5795,164,7,812.44
+2026-03-15,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,155.75,7950,267,20,2304.99
+2026-03-16,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,171.61,9278,222,23,2822.74
+2026-03-17,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,158.44,8665,232,28,3414.71
+2026-03-18,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,158.21,8161,354,46,5249.99
+2026-03-19,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,164.28,8680,274,34,3858.29
+2026-03-20,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,126.36,5411,150,17,1930.06
+2026-03-21,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,157.33,7083,260,29,3658.28
+2026-03-22,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,166.6,8359,268,25,2870.4
+2026-03-23,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,149.05,7238,257,21,2424.35
+2026-03-24,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,143.71,7595,214,24,3002.34
+2026-03-25,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,158.27,7960,211,22,2409.91
+2026-03-26,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,143.43,6477,216,27,3054.97
+2026-03-27,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,155.67,8816,437,22,2733.22
+2026-03-28,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,150.97,7145,353,35,4094.24
+2026-03-29,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,154.72,8339,328,26,3278.08
+2026-03-30,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,180.36,7905,295,38,4170.71
+2026-03-31,IG003,Instagram Shop Now,Instagram,Past Customers,Sales,128.46,7021,174,14,1799.97
+2026-01-01,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,145.49,7850,262,29,1475.07
+2026-01-02,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,133.1,6305,284,31,1499.27
+2026-01-03,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,137.22,8187,166,11,584.65
+2026-01-04,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,161.39,7930,252,13,687.17
+2026-01-05,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,163.33,8865,184,21,1024.84
+2026-01-06,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,140.16,7097,294,16,782.97
+2026-01-07,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,120.24,5420,134,14,789.32
+2026-01-08,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,129.93,7728,324,38,2082.02
+2026-01-09,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,150.22,8026,338,41,1965.95
+2026-01-10,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,129.27,5914,307,24,1308.62
+2026-01-11,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,149.41,9163,209,23,1309.9
+2026-01-12,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,153.68,8807,252,24,1264.34
+2026-01-13,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,146.08,6838,147,7,378.67
+2026-01-14,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,161.87,7801,302,30,1589.04
+2026-01-15,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,132.97,6789,292,12,663.16
+2026-01-16,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,127.89,7530,298,28,1423.57
+2026-01-17,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,132.84,7650,411,34,1615.04
+2026-01-18,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,154.25,7179,182,12,661.96
+2026-01-19,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,159.8,7564,146,17,930.47
+2026-01-20,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,151.28,6808,237,15,804.4
+2026-01-21,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,130.22,7837,209,21,995.79
+2026-01-22,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,137.16,8388,337,27,1331.55
+2026-01-23,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,137.37,7831,216,17,885.61
+2026-01-24,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,159.91,8974,375,36,1796.19
+2026-01-25,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,182.6,8271,344,26,1347.15
+2026-01-26,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,167.62,8058,287,16,760.55
+2026-01-27,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,148.81,7575,223,17,954.11
+2026-01-28,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,167.76,9625,445,44,2276.49
+2026-01-29,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,157.12,8099,273,18,863.87
+2026-01-30,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,144.66,6744,229,20,1148.95
+2026-01-31,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,149.87,8252,293,11,546.2
+2026-02-01,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,140.85,6789,178,13,687.08
+2026-02-02,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,148.91,7038,146,13,657.34
+2026-02-03,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,160.53,7751,145,18,864.7
+2026-02-04,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,149.37,7021,333,31,1667.23
+2026-02-05,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,183.58,8448,399,22,1186.41
+2026-02-06,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,156.43,7983,411,20,1164.13
+2026-02-07,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,150.92,8380,441,18,1032.44
+2026-02-08,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,140.96,7960,179,15,817.57
+2026-02-09,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,163.74,7720,195,23,1085.47
+2026-02-10,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,139.19,8556,156,8,436.1
+2026-02-11,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,138.45,7549,291,26,1325.42
+2026-02-12,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,135.94,7422,180,16,910.22
+2026-02-13,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,159.08,8355,259,11,545.58
+2026-02-14,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,152.99,9371,259,29,1413.15
+2026-02-15,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,157.09,8108,225,25,1443.9
+2026-02-16,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,151.77,7152,295,14,801.49
+2026-02-17,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,147.38,7402,168,6,297.82
+2026-02-18,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,143.33,8319,392,17,910.77
+2026-02-19,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,153.53,8249,228,14,747.11
+2026-02-20,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,166.92,8759,368,17,976.58
+2026-02-21,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,153.14,8946,377,39,2144.71
+2026-02-22,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,153.06,8407,221,10,537.36
+2026-02-23,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,178.98,8701,172,15,729.51
+2026-02-24,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,135.61,7856,335,22,1167.76
+2026-02-25,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,157.61,8281,312,17,986.04
+2026-02-26,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,170.53,9990,358,21,1161.94
+2026-02-27,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,174.2,10043,402,18,858.77
+2026-02-28,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,154.7,7656,383,41,2246.28
+2026-03-01,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,160.55,9078,422,18,909.56
+2026-03-02,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,150.61,8601,277,25,1259.85
+2026-03-03,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,156.61,7681,336,31,1584.85
+2026-03-04,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,159.53,7277,186,11,638.8
+2026-03-05,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,145.72,8014,145,8,432.56
+2026-03-06,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,155.19,9342,428,33,1827.36
+2026-03-07,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,136.66,7153,299,37,1836.86
+2026-03-08,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,154.78,7147,268,29,1561.1
+2026-03-09,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,149.87,7058,173,10,536.39
+2026-03-10,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,165.66,8062,359,25,1297.57
+2026-03-11,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,145.7,6936,277,21,986.71
+2026-03-12,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,174.85,10203,405,48,2744.35
+2026-03-13,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,150.47,8258,335,20,986.78
+2026-03-14,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,191.33,10657,494,53,2672.16
+2026-03-15,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,149.38,7800,268,33,1874.66
+2026-03-16,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,150.09,8846,415,33,1562.32
+2026-03-17,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,146.95,7515,193,10,577.05
+2026-03-18,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,138.52,8421,344,33,1799.61
+2026-03-19,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,140.57,7799,184,23,1155.81
+2026-03-20,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,157.22,8896,376,29,1567.02
+2026-03-21,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,145.89,8161,239,15,729.83
+2026-03-22,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,166.65,8356,264,14,686.11
+2026-03-23,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,146.08,6823,264,33,1705.52
+2026-03-24,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,152.54,7045,136,14,777.09
+2026-03-25,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,195.81,8906,368,26,1307.02
+2026-03-26,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,166.26,10210,203,23,1244.66
+2026-03-27,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,137.08,7757,380,20,936.19
+2026-03-28,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,134.99,6820,166,9,455.36
+2026-03-29,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,163.9,7455,339,22,1276.81
+2026-03-30,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,147.42,6920,273,25,1367.53
+2026-03-31,PI001,Pinterest Inspiration,Pinterest,Home Decor Fans,Awareness,174.77,8340,169,16,929.39
+2026-01-01,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,137.47,8364,398,40,2617.46
+2026-01-02,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,156.39,8528,173,14,1114.99
+2026-01-03,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,148.16,8422,219,9,594.68
+2026-01-04,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,167.76,10676,238,15,1018.34
+2026-01-05,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,144.87,8399,328,32,2270.3
+2026-01-06,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,156.1,7742,175,22,1690.97
+2026-01-07,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,152.73,9866,370,46,3284.43
+2026-01-08,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,148.21,7265,155,7,492.6
+2026-01-09,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,161.77,10079,403,20,1532.94
+2026-01-10,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,137.53,6618,196,13,898.87
+2026-01-11,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,159.22,9830,382,18,1396.73
+2026-01-12,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,136.4,7016,263,21,1506.95
+2026-01-13,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,183.99,10549,222,11,735.89
+2026-01-14,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,156.09,8285,237,16,1264.45
+2026-01-15,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,137.44,8885,240,11,809.72
+2026-01-16,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,158.44,9904,492,39,3127.27
+2026-01-17,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,160.99,8504,311,12,930.42
+2026-01-18,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,129.75,6943,243,9,594.51
+2026-01-19,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,136.84,6731,217,15,1026.19
+2026-01-20,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,139.17,8601,400,19,1520.03
+2026-01-21,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,132.95,7922,311,32,2489.15
+2026-01-22,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,166.2,9575,265,12,903.93
+2026-01-23,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,157.26,8320,194,10,749.17
+2026-01-24,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,150.21,8346,194,15,1055.81
+2026-01-25,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,133.52,7803,256,21,1682.23
+2026-01-26,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,152.63,8692,281,11,877.02
+2026-01-27,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,139.34,7322,351,36,2359.81
+2026-01-28,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,132.26,6394,230,10,795.85
+2026-01-29,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,145.57,8420,307,19,1250.45
+2026-01-30,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,136.73,6800,157,10,649.97
+2026-01-31,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,159.16,9675,456,42,3285.01
+2026-02-01,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,155.32,9841,327,18,1435.59
+2026-02-02,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,147.96,7155,181,13,914.75
+2026-02-03,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,148.62,9510,255,22,1544.13
+2026-02-04,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,146.74,7448,157,13,980.76
+2026-02-05,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,142.47,8354,344,25,1633.02
+2026-02-06,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,127.62,6201,194,16,1127.11
+2026-02-07,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,148.62,8419,362,36,2514.17
+2026-02-08,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,144.15,8440,303,20,1400.64
+2026-02-09,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,140.39,8380,185,14,1105.17
+2026-02-10,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,146.73,9314,213,18,1287.39
+2026-02-11,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,157.07,10143,321,40,2773.68
+2026-02-12,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,197.88,12804,444,24,1815.7
+2026-02-13,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,149.27,9719,339,21,1406.8
+2026-02-14,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,170.71,11207,237,25,1987.06
+2026-02-15,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,166.59,8311,322,31,2042.6
+2026-02-16,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,168.72,9689,438,52,4038.85
+2026-02-17,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,152.66,8010,266,12,902.83
+2026-02-18,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,157.3,8998,177,11,753.24
+2026-02-19,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,134.01,8340,164,19,1490.26
+2026-02-20,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,136.43,8172,275,14,1024.44
+2026-02-21,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,144.34,9224,472,53,3906.65
+2026-02-22,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,152.55,10044,255,11,810.71
+2026-02-23,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,143.3,7704,140,13,896.77
+2026-02-24,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,144.78,7039,204,24,1683.19
+2026-02-25,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,162.31,10011,279,32,2424.3
+2026-02-26,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,150.04,7187,137,18,1389.44
+2026-02-27,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,144.87,9321,194,21,1510.87
+2026-02-28,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,149.25,7164,214,23,1779.31
+2026-03-01,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,137.0,7312,200,25,1793.93
+2026-03-02,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,144.3,8363,253,22,1576.26
+2026-03-03,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,132.99,8573,394,35,2513.13
+2026-03-04,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,174.52,11025,385,39,2990.35
+2026-03-05,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,154.58,9505,231,19,1408.25
+2026-03-06,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,159.44,10123,412,19,1476.89
+2026-03-07,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,144.46,8915,297,34,2426.18
+2026-03-08,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,178.0,8525,318,33,2434.84
+2026-03-09,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,200.94,12590,484,30,2399.75
+2026-03-10,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,172.25,11351,535,65,4989.73
+2026-03-11,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,142.76,7284,250,27,1972.36
+2026-03-12,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,188.98,9426,277,23,1647.9
+2026-03-13,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,177.46,8994,434,35,2295.01
+2026-03-14,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,161.22,9112,234,24,1857.55
+2026-03-15,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,183.07,10743,243,16,1262.06
+2026-03-16,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,173.36,11102,275,18,1300.68
+2026-03-17,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,169.53,11202,240,28,2197.46
+2026-03-18,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,176.2,9542,320,20,1549.16
+2026-03-19,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,143.88,9319,342,29,2205.84
+2026-03-20,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,163.35,10516,277,35,2718.28
+2026-03-21,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,176.01,9978,482,31,2382.95
+2026-03-22,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,160.07,8561,269,18,1276.75
+2026-03-23,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,184.75,9711,392,16,1230.87
+2026-03-24,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,172.64,9531,378,46,3564.23
+2026-03-25,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,166.54,9445,391,25,1938.34
+2026-03-26,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,149.22,9338,192,8,644.83
+2026-03-27,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,169.84,9490,283,13,945.61
+2026-03-28,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,174.47,11331,230,11,755.75
+2026-03-29,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,151.53,7879,297,20,1490.84
+2026-03-30,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,163.62,9632,374,26,1750.59
+2026-03-31,PI002,Pinterest Planning,Pinterest,DIY Planners,Traffic,172.44,11289,414,25,1798.56
+2026-01-01,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,139.42,6612,230,27,2320.13
+2026-01-02,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,146.76,5949,141,18,1522.86
+2026-01-03,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,157.86,7306,162,18,1398.75
+2026-01-04,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,162.78,7406,195,7,619.62
+2026-01-05,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,140.09,5400,220,15,1212.35
+2026-01-06,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,169.22,8490,229,13,1031.93
+2026-01-07,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,162.51,6886,141,7,569.27
+2026-01-08,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,150.98,5832,142,17,1527.55
+2026-01-09,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,159.14,6567,225,12,913.44
+2026-01-10,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,151.21,6970,225,21,1662.03
+2026-01-11,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,141.7,6970,309,20,1682.2
+2026-01-12,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,158.4,6109,245,13,1059.24
+2026-01-13,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,129.21,5227,109,7,636.85
+2026-01-14,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,172.25,7457,143,13,981.04
+2026-01-15,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,163.59,7955,244,15,1119.82
+2026-01-16,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,147.21,6476,323,19,1598.96
+2026-01-17,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,169.46,6554,166,11,944.77
+2026-01-18,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,145.46,7036,310,33,3026.1
+2026-01-19,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,154.67,7745,333,35,3089.26
+2026-01-20,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,170.19,7598,282,24,2139.66
+2026-01-21,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,150.97,7489,314,40,3131.62
+2026-01-22,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,177.05,8622,397,48,4039.03
+2026-01-23,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,174.06,6999,370,22,1911.23
+2026-01-24,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,158.63,7004,191,10,892.51
+2026-01-25,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,152.26,5953,235,14,1254.54
+2026-01-26,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,161.05,6552,135,11,901.24
+2026-01-27,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,155.98,6940,197,12,945.81
+2026-01-28,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,163.2,6557,312,21,1583.29
+2026-01-29,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,142.11,5491,229,19,1517.71
+2026-01-30,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,164.14,7695,398,50,4303.98
+2026-01-31,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,140.28,6903,253,26,1955.51
+2026-02-01,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,155.81,8048,165,19,1721.99
+2026-02-02,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,147.67,6698,307,39,2968.17
+2026-02-03,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,145.26,6951,171,11,816.42
+2026-02-04,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,155.21,7124,268,26,2283.88
+2026-02-05,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,167.02,6971,129,7,556.05
+2026-02-06,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,168.64,6424,163,16,1362.52
+2026-02-07,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,167.88,8275,325,16,1343.61
+2026-02-08,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,161.69,7115,211,16,1261.57
+2026-02-09,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,168.43,8406,345,33,2755.89
+2026-02-10,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,152.28,7341,252,15,1195.71
+2026-02-11,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,148.77,6961,225,21,1706.54
+2026-02-12,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,136.42,5727,179,18,1341.37
+2026-02-13,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,150.93,6320,272,26,2224.91
+2026-02-14,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,157.14,7597,333,19,1499.31
+2026-02-15,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,170.66,7133,207,15,1270.41
+2026-02-16,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,173.2,8553,266,27,2032.27
+2026-02-17,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,141.87,5420,207,14,1272.94
+2026-02-18,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,148.17,6804,175,16,1315.61
+2026-02-19,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,135.17,5506,118,5,459.11
+2026-02-20,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,156.65,5926,309,11,894.86
+2026-02-21,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,183.15,9335,412,33,3015.5
+2026-02-22,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,170.39,8862,385,47,3684.62
+2026-02-23,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,157.45,7456,250,21,1900.08
+2026-02-24,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,125.26,5296,159,8,618.15
+2026-02-25,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,166.14,8219,322,27,2174.95
+2026-02-26,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,156.63,7754,345,30,2657.72
+2026-02-27,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,158.59,7078,349,25,2023.56
+2026-02-28,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,158.4,7171,276,27,2202.29
+2026-03-01,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,147.35,7409,210,26,2016.06
+2026-03-02,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,183.78,8367,359,17,1533.66
+2026-03-03,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,161.32,7459,248,10,827.68
+2026-03-04,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,165.17,7058,264,22,1660.6
+2026-03-05,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,152.64,6178,147,14,1078.11
+2026-03-06,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,165.7,6764,157,19,1503.43
+2026-03-07,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,170.26,8787,456,47,3527.05
+2026-03-08,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,140.34,7304,339,15,1214.15
+2026-03-09,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,173.13,6868,267,16,1280.34
+2026-03-10,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,146.98,6610,150,11,840.24
+2026-03-11,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,146.85,5858,197,11,826.95
+2026-03-12,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,183.5,7081,157,13,1112.26
+2026-03-13,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,162.2,7161,284,16,1288.2
+2026-03-14,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,150.98,6186,222,29,2661.41
+2026-03-15,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,157.24,6902,141,9,702.8
+2026-03-16,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,163.31,6397,202,14,1078.75
+2026-03-17,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,151.83,6520,284,16,1336.2
+2026-03-18,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,147.98,6649,150,8,678.76
+2026-03-19,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,170.54,6870,315,12,1007.94
+2026-03-20,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,177.22,7338,260,11,954.93
+2026-03-21,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,146.92,5963,183,22,1939.7
+2026-03-22,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,184.0,8683,329,27,2433.5
+2026-03-23,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,169.22,7262,270,23,1748.86
+2026-03-24,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,171.34,7250,315,22,1949.66
+2026-03-25,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,139.88,6805,150,18,1484.45
+2026-03-26,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,167.93,6932,180,13,1127.67
+2026-03-27,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,157.99,7494,289,22,1952.29
+2026-03-28,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,189.02,7943,415,30,2647.0
+2026-03-29,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,154.96,7428,170,15,1139.14
+2026-03-30,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,173.03,7241,281,34,2620.22
+2026-03-31,PI003,Pinterest Lead Magnet,Pinterest,New Homeowners,Leads,174.63,8228,252,13,966.22
+2026-01-01,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,150.68,7736,272,14,587.5
+2026-01-02,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,139.6,6346,283,18,770.24
+2026-01-03,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,140.98,6995,286,12,473.35
+2026-01-04,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,167.9,8924,384,20,796.52
+2026-01-05,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,166.63,8403,308,31,1431.08
+2026-01-06,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,150.99,7774,270,17,785.14
+2026-01-07,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,158.75,8306,331,40,1703.67
+2026-01-08,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,175.44,9498,391,32,1436.64
+2026-01-09,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,160.61,8095,399,26,1098.97
+2026-01-10,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,147.6,7923,396,28,1316.22
+2026-01-11,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,150.22,7405,240,27,1247.28
+2026-01-12,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,185.6,9463,292,24,1020.14
+2026-01-13,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,154.77,7591,332,34,1535.18
+2026-01-14,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,154.81,7656,145,10,421.84
+2026-01-15,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,155.92,6494,251,19,791.18
+2026-01-16,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,168.97,8211,326,12,554.25
+2026-01-17,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,171.85,8288,225,19,767.4
+2026-01-18,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,146.94,6961,259,15,569.69
+2026-01-19,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,156.06,7736,246,31,1374.27
+2026-01-20,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,123.46,5653,236,21,912.51
+2026-01-21,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,170.14,8748,393,41,1598.06
+2026-01-22,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,147.88,7210,329,37,1434.2
+2026-01-23,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,159.91,6756,248,11,489.35
+2026-01-24,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,166.71,9047,267,23,894.37
+2026-01-25,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,161.85,7106,150,8,362.0
+2026-01-26,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,127.15,6458,261,28,1107.57
+2026-01-27,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,167.55,8075,194,20,821.92
+2026-01-28,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,175.48,7535,264,14,617.03
+2026-01-29,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,170.39,9621,371,19,720.67
+2026-01-30,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,174.4,7596,209,25,1084.34
+2026-01-31,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,150.52,7509,216,28,1066.87
+2026-02-01,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,179.97,9589,192,10,413.51
+2026-02-02,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,208.45,10722,445,51,2152.24
+2026-02-03,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,162.91,8539,221,26,987.79
+2026-02-04,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,181.73,9760,275,14,553.36
+2026-02-05,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,167.03,9091,183,7,294.69
+2026-02-06,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,144.12,6562,344,41,1657.06
+2026-02-07,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,146.94,7628,285,21,952.04
+2026-02-08,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,171.12,9074,435,35,1583.96
+2026-02-09,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,148.27,6595,127,9,411.45
+2026-02-10,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,152.41,7946,145,10,434.87
+2026-02-11,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,163.07,9005,204,25,994.99
+2026-02-12,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,193.02,9775,201,8,307.94
+2026-02-13,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,181.61,9780,330,25,1081.13
+2026-02-14,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,168.57,8757,315,32,1504.48
+2026-02-15,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,183.68,7595,165,14,573.73
+2026-02-16,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,159.85,8152,274,30,1205.68
+2026-02-17,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,163.19,8303,382,42,1918.88
+2026-02-18,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,159.7,8637,298,28,1073.64
+2026-02-19,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,155.7,7754,153,16,728.99
+2026-02-20,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,178.2,7619,394,16,674.88
+2026-02-21,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,182.98,7733,161,6,255.14
+2026-02-22,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,174.99,7552,164,15,599.47
+2026-02-23,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,151.53,8493,348,41,1746.64
+2026-02-24,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,173.51,7639,153,15,574.2
+2026-02-25,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,173.49,9022,420,27,1141.89
+2026-02-26,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,182.68,8215,281,27,1264.79
+2026-02-27,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,160.58,7806,312,15,626.87
+2026-02-28,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,172.24,7410,277,14,605.59
+2026-03-01,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,173.21,9095,217,26,989.1
+2026-03-02,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,164.47,7595,188,15,683.7
+2026-03-03,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,179.41,8238,186,19,820.38
+2026-03-04,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,158.66,8422,283,27,1110.25
+2026-03-05,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,156.24,6873,280,14,629.88
+2026-03-06,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,159.39,8426,175,11,463.4
+2026-03-07,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,158.71,8820,289,34,1336.54
+2026-03-08,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,199.13,8359,337,17,682.97
+2026-03-09,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,170.1,7039,127,11,446.8
+2026-03-10,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,161.94,8223,204,19,784.78
+2026-03-11,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,148.48,6433,162,6,243.88
+2026-03-12,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,176.95,9590,280,25,1076.06
+2026-03-13,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,192.39,8632,260,17,649.02
+2026-03-14,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,163.85,9000,457,21,882.68
+2026-03-15,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,169.69,8286,287,11,501.41
+2026-03-16,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,138.52,7121,269,23,940.44
+2026-03-17,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,172.61,8685,168,19,792.1
+2026-03-18,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,166.3,7698,362,19,744.76
+2026-03-19,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,166.43,8569,409,23,1061.86
+2026-03-20,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,169.42,8694,187,15,657.72
+2026-03-21,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,155.73,6991,336,43,1807.85
+2026-03-22,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,170.55,9134,231,27,1090.5
+2026-03-23,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,179.63,7709,205,18,767.71
+2026-03-24,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,181.86,10326,219,13,534.35
+2026-03-25,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,157.45,7700,336,36,1367.07
+2026-03-26,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,166.61,8472,270,13,539.14
+2026-03-27,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,163.59,7215,329,22,951.33
+2026-03-28,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,177.46,9746,236,11,446.32
+2026-03-29,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,185.07,8484,347,20,771.67
+2026-03-30,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,178.91,9534,415,43,1847.06
+2026-03-31,TW001,Twitter Conversation,Twitter,Tech Professionals,Awareness,153.61,7964,199,17,763.65
+2026-01-01,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,139.92,7781,252,21,1274.86
+2026-01-02,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,165.12,9775,244,17,1021.81
+2026-01-03,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,152.96,9377,345,24,1521.39
+2026-01-04,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,130.53,6370,253,16,966.78
+2026-01-05,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,164.5,7328,280,16,1123.73
+2026-01-06,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,155.95,8858,166,17,1254.21
+2026-01-07,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,151.27,7438,315,16,1103.87
+2026-01-08,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,158.96,7177,248,22,1403.73
+2026-01-09,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,159.74,7553,245,28,1740.71
+2026-01-10,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,150.25,6891,252,11,761.67
+2026-01-11,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,163.77,9652,458,45,3175.51
+2026-01-12,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,160.05,9603,358,43,2701.21
+2026-01-13,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,183.26,10427,251,14,1030.42
+2026-01-14,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,149.11,7098,198,14,958.26
+2026-01-15,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,154.97,9492,356,36,2306.63
+2026-01-16,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,175.99,8485,201,26,1870.63
+2026-01-17,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,171.77,9614,345,23,1461.97
+2026-01-18,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,159.77,8601,270,23,1438.12
+2026-01-19,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,173.07,9580,431,20,1368.88
+2026-01-20,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,173.0,8673,207,12,760.36
+2026-01-21,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,176.66,8842,231,22,1323.74
+2026-01-22,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,182.17,10241,238,13,810.08
+2026-01-23,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,163.11,8572,184,11,812.29
+2026-01-24,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,172.74,8320,254,20,1433.22
+2026-01-25,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,171.29,7993,174,13,936.44
+2026-01-26,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,165.77,7682,271,13,901.71
+2026-01-27,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,169.0,8827,181,16,1045.31
+2026-01-28,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,175.11,8807,390,24,1480.49
+2026-01-29,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,154.69,6978,184,18,1106.39
+2026-01-30,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,123.19,5761,131,15,1096.63
+2026-01-31,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,171.17,9827,442,57,3673.71
+2026-02-01,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,169.58,8853,387,40,2649.92
+2026-02-02,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,132.36,7525,328,24,1658.59
+2026-02-03,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,167.85,8835,298,32,2354.99
+2026-02-04,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,186.57,9389,274,13,828.25
+2026-02-05,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,187.45,9706,223,15,1063.84
+2026-02-06,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,176.91,9712,490,44,2737.41
+2026-02-07,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,192.71,10509,391,19,1251.86
+2026-02-08,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,165.42,8115,295,12,771.45
+2026-02-09,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,161.3,7890,285,21,1343.9
+2026-02-10,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,159.89,8049,202,25,1755.78
+2026-02-11,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,175.87,7977,175,17,1061.5
+2026-02-12,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,193.37,11164,297,12,719.15
+2026-02-13,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,153.89,8462,418,19,1182.86
+2026-02-14,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,172.77,8759,319,39,2625.16
+2026-02-15,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,160.26,9824,196,24,1600.42
+2026-02-16,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,168.31,10125,336,26,1647.27
+2026-02-17,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,165.85,8986,220,23,1581.3
+2026-02-18,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,171.4,7644,240,9,544.4
+2026-02-19,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,156.43,7182,189,18,1149.86
+2026-02-20,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,205.08,12317,491,62,4464.22
+2026-02-21,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,159.07,9104,225,23,1530.2
+2026-02-22,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,172.45,8480,396,26,1612.9
+2026-02-23,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,157.38,8286,359,38,2498.24
+2026-02-24,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,162.07,7342,234,26,1819.87
+2026-02-25,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,168.29,9190,286,26,1739.77
+2026-02-26,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,160.8,8543,395,30,1788.93
+2026-02-27,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,186.74,9899,379,33,2302.58
+2026-02-28,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,175.54,9795,429,32,2087.66
+2026-03-01,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,160.57,8276,344,42,2856.81
+2026-03-02,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,159.71,8958,360,24,1713.64
+2026-03-03,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,176.53,7891,171,9,649.46
+2026-03-04,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,167.63,8245,255,18,1147.99
+2026-03-05,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,177.55,9880,218,24,1495.88
+2026-03-06,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,141.24,8218,200,9,658.69
+2026-03-07,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,185.01,10214,214,13,867.6
+2026-03-08,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,172.52,8475,350,34,2076.51
+2026-03-09,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,158.85,7713,241,23,1510.94
+2026-03-10,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,153.64,8653,307,26,1753.7
+2026-03-11,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,160.19,8980,266,18,1108.33
+2026-03-12,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,197.67,10821,305,36,2580.34
+2026-03-13,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,153.28,8631,288,37,2318.69
+2026-03-14,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,170.16,8851,258,26,1725.95
+2026-03-15,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,156.46,8309,371,41,2732.36
+2026-03-16,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,163.26,7766,344,35,2369.77
+2026-03-17,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,175.95,8196,315,18,1100.71
+2026-03-18,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,186.63,9535,441,29,2065.74
+2026-03-19,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,188.52,11336,343,25,1543.42
+2026-03-20,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,184.37,10959,396,27,1688.52
+2026-03-21,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,205.47,11645,347,37,2536.15
+2026-03-22,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,171.33,8357,309,15,970.23
+2026-03-23,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,204.62,11302,267,31,1865.41
+2026-03-24,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,167.62,10259,348,39,2653.64
+2026-03-25,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,171.05,9517,369,21,1473.6
+2026-03-26,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,149.4,9136,227,13,934.28
+2026-03-27,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,148.61,7526,332,17,1049.07
+2026-03-28,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,163.66,7963,224,8,518.23
+2026-03-29,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,191.88,8644,317,30,1812.84
+2026-03-30,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,175.9,10435,370,27,1786.14
+2026-03-31,TW002,Twitter Product News,Twitter,Website Visitors,Traffic,157.49,9180,417,51,3195.23
+2026-01-01,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,169.74,8624,235,16,1563.08
+2026-01-02,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,150.53,9732,230,8,818.24
+2026-01-03,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,164.84,8961,360,20,1761.65
+2026-01-04,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,174.96,9504,346,19,1867.88
+2026-01-05,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,166.53,8480,164,13,1307.89
+2026-01-06,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,166.18,10084,303,17,1625.15
+2026-01-07,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,144.21,8815,211,13,1235.98
+2026-01-08,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,171.78,10107,315,39,3976.82
+2026-01-09,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,164.87,9787,406,38,3556.55
+2026-01-10,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,174.53,10241,215,8,817.7
+2026-01-11,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,171.03,9826,358,19,1959.35
+2026-01-12,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,141.82,9078,371,21,1842.07
+2026-01-13,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,175.87,9697,246,32,2859.17
+2026-01-14,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,181.01,9192,436,25,2333.01
+2026-01-15,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,153.31,7677,326,20,1919.18
+2026-01-16,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,169.06,9953,219,11,967.27
+2026-01-17,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,158.94,8030,411,34,3314.85
+2026-01-18,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,184.6,9769,323,20,1834.13
+2026-01-19,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,155.3,8868,421,24,2272.59
+2026-01-20,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,167.69,9100,360,19,1835.82
+2026-01-21,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,175.25,8556,394,29,2923.54
+2026-01-22,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,161.61,10501,281,21,2106.16
+2026-01-23,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,148.36,8089,433,38,3756.54
+2026-01-24,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,169.58,10680,525,46,4171.81
+2026-01-25,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,170.47,10073,431,34,2992.21
+2026-01-26,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,173.33,9911,427,22,2139.7
+2026-01-27,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,167.43,10875,234,29,2814.11
+2026-01-28,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,163.92,8009,266,25,2273.63
+2026-01-29,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,164.75,9554,330,13,1217.95
+2026-01-30,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,146.64,9473,502,32,2823.13
+2026-01-31,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,152.02,8603,426,35,3001.09
+2026-02-01,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,163.83,8524,369,35,3368.47
+2026-02-02,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,159.19,10321,288,33,3403.2
+2026-02-03,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,134.22,8616,227,22,1901.22
+2026-02-04,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,186.14,9650,192,7,639.21
+2026-02-05,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,150.37,8448,229,30,3120.88
+2026-02-06,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,170.82,9472,397,42,3871.42
+2026-02-07,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,189.82,9518,298,31,3023.71
+2026-02-08,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,185.24,9028,210,8,708.58
+2026-02-09,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,171.91,9812,332,32,2961.92
+2026-02-10,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,172.19,10361,203,24,2041.64
+2026-02-11,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,167.89,10779,379,35,3454.35
+2026-02-12,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,189.06,11380,505,64,6000.79
+2026-02-13,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,189.59,11683,449,27,2380.33
+2026-02-14,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,163.19,9180,238,9,771.09
+2026-02-15,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,182.79,8995,182,14,1255.36
+2026-02-16,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,201.39,12989,392,30,2770.72
+2026-02-17,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,180.51,9607,208,9,865.79
+2026-02-18,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,159.42,7932,257,20,1748.93
+2026-02-19,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,174.42,8965,225,25,2588.28
+2026-02-20,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,182.66,10095,445,42,3713.14
+2026-02-21,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,197.43,11029,432,21,1903.96
+2026-02-22,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,183.8,9676,308,30,2854.03
+2026-02-23,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,167.72,8345,356,29,2490.67
+2026-02-24,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,176.27,11025,447,53,5143.71
+2026-02-25,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,167.77,9338,222,21,2030.68
+2026-02-26,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,182.22,11668,339,13,1187.95
+2026-02-27,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,152.12,9828,360,45,4621.5
+2026-02-28,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,157.67,10022,331,35,3378.88
+2026-03-01,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,185.7,9494,379,48,4361.24
+2026-03-02,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,146.58,8030,193,9,907.5
+2026-03-03,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,163.98,8770,318,21,1971.31
+2026-03-04,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,208.78,12541,513,46,4834.7
+2026-03-05,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,206.62,10881,226,20,1945.69
+2026-03-06,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,168.06,9075,187,18,1894.55
+2026-03-07,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,183.29,9391,278,21,1885.57
+2026-03-08,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,188.79,11237,319,23,1964.84
+2026-03-09,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,182.97,10119,282,12,1172.58
+2026-03-10,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,161.74,7866,176,9,873.5
+2026-03-11,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,165.34,9237,262,28,2798.78
+2026-03-12,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,164.64,8366,240,26,2573.32
+2026-03-13,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,171.35,10797,318,21,1794.99
+2026-03-14,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,196.73,11509,347,14,1393.84
+2026-03-15,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,199.27,11962,288,35,3506.14
+2026-03-16,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,176.01,10517,475,59,5718.15
+2026-03-17,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,172.39,9398,400,38,3275.52
+2026-03-18,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,185.33,11917,531,67,6261.01
+2026-03-19,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,192.15,12103,332,16,1683.5
+2026-03-20,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,177.61,10439,439,44,3955.0
+2026-03-21,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,201.94,10466,503,28,2772.22
+2026-03-22,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,188.53,9677,243,26,2245.84
+2026-03-23,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,194.85,10948,503,44,4075.16
+2026-03-24,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,159.92,9010,279,21,1912.17
+2026-03-25,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,198.37,11987,230,23,2041.5
+2026-03-26,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,184.22,9313,322,34,3125.77
+2026-03-27,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,188.27,9792,467,28,2817.38
+2026-03-28,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,169.03,8675,387,31,2642.65
+2026-03-29,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,169.95,8595,246,18,1704.99
+2026-03-30,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,172.49,8278,381,37,3857.6
+2026-03-31,TW003,Twitter Demo Leads,Twitter,Business Decision Makers,Leads,171.7,11127,401,28,2625.26
