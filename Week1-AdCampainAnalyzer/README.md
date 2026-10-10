@@ -18,7 +18,7 @@ A Streamlit dashboard for comparing campaign spend, clicks, conversions, revenue
 Python 3.11 or later is required.
 
 ```bash
-cd Week1
+cd Week1-AdCampainAnalyzer
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
@@ -30,14 +30,14 @@ Open the local URL printed by Streamlit. The bundled sample data is selected by 
 Run the automated tests:
 
 ```bash
-cd Week1
+cd Week1-AdCampainAnalyzer
 python -m pytest -v
 ```
 
 Regenerate the deterministic sample CSV:
 
 ```bash
-cd Week1
+cd Week1-AdCampainAnalyzer
 python scripts/generate_sample_data.py
 ```
 

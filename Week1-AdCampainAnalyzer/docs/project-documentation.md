@@ -10,6 +10,8 @@ The dashboard is designed for exploratory analysis rather than campaign editing 
 
 The bundled `data/sample_campaigns.csv` contains 1,080 deterministic daily records: 12 campaigns across 90 days from January 1 through March 31, 2026. Each platform has three campaigns. The data includes multiple audiences and the Awareness, Traffic, Leads, and Sales goals.
 
+An additional upload-ready test file, `data/test_campaigns_april_september.csv`, contains 1,464 deterministic daily records from April 1 through September 30, 2026. It includes eight campaigns, two per supported platform, eight audiences, and the same four campaign goals. This second dataset was added to test longer date ranges, source transitions, filters, tables, charts, and CSV uploads without changing the bundled default data.
+
 The row grain is one campaign, platform, audience, goal, and day. Required fields are `date`, `campaign_id`, `campaign_name`, `platform`, `audience`, `campaign_goal`, `spend`, `impressions`, `clicks`, `conversions`, and `revenue`. `revenue` is the only attributed-value field; `conversion_value` was removed from the design to make the class data contract easier to understand.
 
 Users can replace the sample data for the current session by uploading a CSV. Uploads remain in memory and are not saved.
@@ -52,6 +54,8 @@ CSV validation reports all blocking schema and value errors together. Duplicate 
 
 AI was used to turn the assignment into a detailed specification, recommend the CSV schema, develop and save GUI mockups, write an implementation plan, and execute the plan using test-driven development. Each feature began with a failing contract test, followed by the smallest implementation needed to pass it. Task-specific commits and an execution ledger preserved traceability.
 
+After the initial build, AI also helped investigate the date-range reset, strengthen validation and filter-state handling, generate and validate the six-month test dataset, merge the feature work locally, rename the project directory, diagnose a stale Streamlit process after the rename, and publish the repository to GitHub.
+
 Major prompts are recorded in `prompt-log.md`. The detailed implementation plan is retained under `docs/superpowers/plans/`.
 
 ## Iterations and design decisions
@@ -61,10 +65,18 @@ Major prompts are recorded in `prompt-log.md`. The detailed implementation plan 
 3. Business calculations were separated from `app.py` so the formulas and edge cases could be tested without a browser.
 4. Empty categorical selections were defined as “show no records,” preventing an ambiguous implicit select-all behavior.
 5. Weekly aggregation was explicitly set to Monday-start periods so Sunday is not lost at month boundaries.
+6. Filter state was tied to a content-derived source identity so uploading a different CSV resets incompatible dates and categories while preserving deliberate empty selections.
+7. Count validation was changed to exact decimal parsing before `int64` conversion so scientific notation and values above the supported integer boundary are handled without floating-point precision loss.
+8. Streamlit's one-date intermediate value is preserved while a user selects a date range, preventing the start date from jumping back to the source minimum.
+9. A separate six-month CSV was generated instead of replacing the bundled sample, keeping demonstrations reproducible while providing a broader upload test.
+10. The completed feature branch was fast-forwarded into local `main`, the isolated worktree was removed, and the project directory was renamed to `Week1-AdCampainAnalyzer`.
+11. The GitHub repository was created as a public repository and the complete local history was pushed to its `main` branch.
 
 ## Bugs and resolutions
 
-Only observed issues are listed in `bug-and-iteration-log.md`. During release work, Markdown trailing whitespace blocked a commit check and was normalized. A local Streamlit server initially could not bind a port inside the managed sandbox; a minimal socket reproduction identified the restriction, and the unchanged app passed its health check outside that socket sandbox. Neither issue required a business-logic workaround.
+Only observed issues are listed in `bug-and-iteration-log.md`. During release work, Markdown trailing whitespace blocked a commit check and was normalized. A local Streamlit server initially could not bind a port inside the managed sandbox; a minimal socket reproduction identified the restriction, and the unchanged app passed its health check outside that socket sandbox.
+
+Final review also found and resolved source-transition, integer-boundary, missing-column aggregation, ratio-display, and Streamlit width-API issues. The date-range control required a targeted fix because an in-progress selection contains only one date. After the directory rename, the already-running Streamlit process still referenced the removed worktree; an upload-triggered rerun therefore produced `[Errno 2] No such file or directory`. Restarting Streamlit from `Week1-AdCampainAnalyzer` resolved the environmental error without an application-code change.
 
 ## Testing and validation evidence
 
@@ -74,6 +86,9 @@ Only observed issues are listed in `bug-and-iteration-log.md`. During release wo
 - `git diff --check` reported no whitespace errors.
 - Streamlit started in headless mode and `/_stcore/health` returned `ok`.
 - The default sample-data UI, four tabs, filter groups, key KPI labels, and empty-filter state were exercised through Streamlit AppTest and live visual QA. The upload mode and file input were visibly verified; browser automation could not attach a file because the installed Chrome extension does not have local-file URL access, so valid and invalid uploaded-file processing was verified at the loader and validation layers with in-memory file objects.
+- The six-month CSV was loaded through the same application loader and validator: all 1,464 rows were accepted, the date range was April 1 through September 30, 2026, all four platforms had 366 rows, and validation returned no errors or warnings.
+- After the directory rename, Streamlit was restarted from the new location, its `/_stcore/health` endpoint returned `ok`, and live visual QA confirmed the dashboard rendered normally.
+- After publication, local `main` and GitHub `origin/main` were verified at the same commit.
 
 ## Learnings and observations
 
@@ -82,10 +97,13 @@ Only observed issues are listed in `bug-and-iteration-log.md`. During release wo
 - Treating warnings differently from blocking errors lets analysts continue while still seeing data-quality concerns.
 - Unit labels belong in metric cards, table headers, axes, legends, and hover text—not only in documentation.
 - Deterministic sample data makes screenshots, demonstrations, and tests reproducible.
+- Long-running development servers should be restarted after a project directory or worktree is renamed because their working directory and script path do not update automatically.
+- A second deterministic dataset is useful for validating uploads and longer reporting periods without making the default classroom demonstration harder to reproduce.
 
 ## Submission links
 
-- GitHub repository: **Not published yet**
+- GitHub repository: <https://github.com/melepatt/Week1-AdCampainAnalyzer>
+- Project directory on GitHub: <https://github.com/melepatt/Week1-AdCampainAnalyzer/tree/main/Week1-AdCampainAnalyzer>
 - Deployed application: **Not published yet**
 - Saved mockups: `docs/mockups/`
 - Video walkthrough: **Not recorded yet**
