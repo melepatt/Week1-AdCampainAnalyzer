@@ -104,6 +104,5 @@ Final review also found and resolved source-transition, integer-boundary, missin
 
 - GitHub repository: <https://github.com/melepatt/Week1-AdCampainAnalyzer>
 - Project directory on GitHub: <https://github.com/melepatt/Week1-AdCampainAnalyzer/tree/main/Week1-AdCampainAnalyzer>
-- Deployed application: **Not published yet**
 - Saved mockups: `docs/mockups/`
-- Video walkthrough: **Not recorded yet**
+  
